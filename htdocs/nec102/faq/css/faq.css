@@ -1,0 +1,108 @@
+@charset "shift_jis";
+/* CSS Document */
+
+#faq .box-wrap {
+	margin-bottom:35px;
+}
+#faq .box-wrap .box-ttl {
+	background-image: url(/nec102/images/bg_info.gif), url(/nec102/images/bg_info2.gif);
+	background-repeat: no-repeat, repeat-x;
+	background-position: left bottom, left bottom;
+	padding:0 0 15px 0;
+}
+
+#faq .box-wrap .box-ttl h2 {
+	padding:7px 0 7px 45px;
+	font-size:21px;
+	font-weight:bold;
+	line-height: 1;
+}
+
+
+/*faq*/
+#faq .box-wrap.faq .box-ttl h2 {
+	background:url(/nec102/images/icon_faq.jpg) no-repeat left top;
+}
+#faq .box-wrap.faq .text {
+	margin-top:12px;
+	line-height:1.4;
+	margin-bottom:10px;
+}
+#faq .box-wrap.faq dl {
+	margin:0 0 40px;
+	border-top:solid 1px #BDBDBD;
+	border-left:solid 1px #BDBDBD;
+	border-right:solid 1px #BDBDBD;
+}
+#faq .box-wrap.faq dl dt {
+	background:#E5F2FA;
+	border-bottom:solid 1px #BDBDBD;
+	padding:12px 10px;
+	font-size: 18px;
+	text-shadow: 0 0 1px #CCC;
+	font-weight:bold;
+}
+#faq .box-wrap.faq dl dd {
+	border-bottom:solid 1px #BDBDBD;
+	padding:0 10px;
+	font-size: 16px;
+	line-height: 1.1;
+	text-shadow: 0 0 1px #CCC;
+	font-weight:bold;
+}
+#faq .box-wrap.faq dl dd a {
+	display:block;
+	padding:15px 0 15px 28px;
+	color:#444;
+	text-decoration:none;
+	background:url(/nec102/images/icon_arrow01.jpg) no-repeat left center;
+}
+
+#faq .box-wrap.faq dl dd a.tel{
+	padding:15px 0 20px 28px;
+	color:#444;
+	font-size: 22px;
+	text-decoration:none;
+	background:url(/nec102/images/icon_arrow01.jpg) no-repeat left center;
+}
+
+
+#faq .box-wrap.faq dl.detail dd {
+	border-bottom:solid 1px #BDBDBD;
+	padding:12px 10px;
+	font-size: 16px;
+	line-height: 1.4;
+	text-shadow: 0 0 1px #CCC;
+	font-weight:bold;
+}
+
+#faq .box-wrap.faq dl.detail dd p{
+	margin-top: 20px;
+}
+
+#faq .box-wrap.faq dl.detail dd ul{
+	padding:10px 10px;
+}
+
+
+#inner .faqtop {
+	text-align:right;
+	margin-bottom:12px;
+}
+#inner .faqtop a {
+	background:url(/nec102/images/pagetop.jpg) no-repeat left center;
+	padding:0 0 0 26px;
+	
+	line-height: 1.1;
+	text-shadow: 0 0 1px #CCC;
+	color:#000;
+	text-decoration:none;
+}
+
+.fos14 {
+	font-size: 14px;
+}
+
+.tel12 {
+	font-size: 12px;
+}

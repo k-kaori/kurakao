@@ -1,0 +1,123 @@
+@charset "shift_jis";
+/* CSS Document */
+
+/* common */
+html, body, div, h1, h2, h3, h4, h5, h6,
+p, address, blockquote,
+ul, ol, li, dl, dt, dd,
+table, th, td, form, fieldset,
+section, hgroup, nav, article, aside, header, footer {
+	margin: 0;
+	padding: 0;
+	font-size: 100%;
+}
+section, hgroup, nav, article, aside, header, footer {
+	display: block;
+} 
+img {
+	border: none;
+	vertical-align: bottom;
+}
+ul li, ol li {
+	list-style-type: none;
+}
+
+/* clearfix */
+.clfix:after {
+  	content: "."; 
+  	display: block; 
+  	height: 0; 
+  	clear: both; 
+  	visibility: hidden;
+}
+.clfix {
+	display: inline-block;
+}
+
+/* Hides from IE-mac \*/
+* html .clfix {
+	height: 1%;
+}
+.clfix {
+	display: block;
+}
+/* End hide from IE-mac */
+
+body {
+	background: #fff;
+	text-align: center;
+	color: #444;
+	font-family:Arial;
+	font-size: 14px;
+	-webkit-text-size-adjust: none;
+}
+a {
+	color:#0099FF;
+	text-decoration:underline;
+}
+#inner {
+	text-align:left;
+}
+
+/* header */
+header {
+	background: -moz-linear-gradient(top, #FFFFFF, #EFEFEF);
+	background: -webkit-gradient(linear, left top, left bottom, from(#FFFFFF), to(#EFEFEF));
+	background: linear-gradient(linear, left top, left bottom, from(#FFFFFF), to(#EFEFEF));
+	padding:11px 9px;
+}
+
+
+#inner .mainimg {
+	text-align:center;
+	background:url(/nec102/images/mainimg_bg.jpg) #78CEF4 repeat-x left top;
+	margin-bottom:20px;
+}
+
+#contents {
+	padding:0 10px;
+}
+#inner .mybiglobe {
+	text-align:center;
+	margin:20px 0 30px;
+}
+#inner .mybiglobe a {
+	background:url(/nec102/images/icon_mypage.jpg) no-repeat left top;
+	padding:8px 0 10px 28px;
+	
+	line-height: 1.1;
+	text-shadow: 0 0 1px #CCC;
+}
+#inner .pagetop {
+	text-align:right;
+	margin-bottom:12px;
+}
+#inner .pagetop a {
+	background:url(/nec102/images/pagetop.jpg) no-repeat left center;
+	padding:0 0 0 26px;
+	
+	line-height: 1.1;
+	text-shadow: 0 0 1px #CCC;
+	color:#000;
+	text-decoration:none;
+}
+
+/* footer */
+footer {
+	width: 100%;
+	padding: 10px 0;
+	text-align: center;
+	background: #EEEEEE;
+	border-top:solid 1px #C7C7C7;
+}
+footer  p.flink {
+	line-height: 1.1;
+	font-size: 12px;
+	text-shadow: 0 0 1px #CCC;
+}
+footer p.copyright {
+	color: #000;
+	line-height: 1.1;
+	text-shadow: 0 0 1px #CCC;
+	padding:8px 0 10px;
+}

@@ -1,0 +1,236 @@
+@charset "shift_jis";
+/* CSS Document */
+
+/* common */
+html, body, div, h1, h2, h3, h4, h5, h6,
+p, address, blockquote,
+ul, ol, li, dl, dt, dd,
+table, th, td, form, fieldset,
+section, hgroup, nav, article, aside, header, footer {
+	margin: 0;
+	padding: 0;
+	font-size: 100%;
+}
+section, hgroup, nav, article, aside, header, footer {
+	display: block;
+} 
+img {
+	border: none;
+	vertical-align: bottom;
+}
+ul li, ol li {
+	list-style-type: none;
+}
+
+/* clearfix */
+.clfix:after {
+  	content: "."; 
+  	display: block; 
+  	height: 0; 
+  	clear: both; 
+  	visibility: hidden;
+}
+.clfix {
+	display: inline-block;
+}
+
+
+/* Hides from IE-mac \*/
+* html .clfix {
+	height: 1%;
+}
+.clfix {
+	display: block;
+}
+/* End hide from IE-mac */
+
+body {
+	background: #fff;
+	text-align: center;
+	color: #444;
+	font-family:'ÉÅÉCÉäÉI',Meiryo,'ÇlÇr ÇoÉSÉVÉbÉN',Verdana,arial,helvetica,clean,sans-serif;
+	font-size: 14px;
+	-webkit-text-size-adjust: none;
+}
+a {
+	color:#0099FF;
+	text-decoration:underline;
+}
+#inner {
+	text-align:left;
+}
+.mb20 {
+	margin-bottom:20px !important;
+}
+.mb2 {
+	margin-bottom:2px !important;
+}
+/* header */
+header {
+/*	background: -moz-linear-gradient(top, #FFFFFF, #EFEFEF);
+	background: -webkit-gradient(linear, left top, left bottom, from(#FFFFFF), to(#EFEFEF));
+	background: linear-gradient(linear, left top, left bottom, from(#FFFFFF), to(#EFEFEF));*/
+	background: #ffffff;
+	padding:11px 9px;
+}
+
+#inner h1 {
+	background: #349933;
+	color: #ffffff;
+	padding:5px 24px;
+	border-bottom:6px solid #6ae131;
+	font-weight: normal;
+	vertical-align: baseline;
+	font-size: 75%;
+}
+#inner h1.news {
+	border-style: none;
+}
+#inner h1 strong {
+	font-size: 140%;
+	vertical-align: baseline;
+}
+#inner nav {
+	background-color:#349933;
+	text-align:center;
+	margin:0;
+	padding: 0 20px;
+}
+#inner nav ul,
+#inner nav.foot ul {
+	width:100%;
+	margin:0 auto;
+	position: relative;
+	border-right: 1px solid #ffffff;
+}
+#inner nav ul li,
+#inner nav.foot ul li {
+	float:left;
+	width: 25%;
+	margin:0;
+	text-align: center!important;
+	position: relative;
+}
+#inner nav.foot {
+	background-color:#349933;
+	text-align:center;
+	margin:0;
+	border-bottom:6px solid #6ae131;
+}
+#inner nav ul li a {
+	display: block;
+	width: 99%;
+	padding-top: 50px;
+	height: 30px;
+	font-size: 95%;
+	vertical-align: bottom;
+	border-left: 1px solid #ffffff;
+	text-shadow: 0px -1px 0px rgba(000,000,000,0.2),0px 1px 0px rgba(255,255,255,0.3);
+}
+#inner nav ul li a:link,
+#inner nav ul li a:active,
+#inner nav ul li a:hover,
+#inner nav ul li a:visited {
+	color: #ffffff;
+	text-decoration: none;
+}
+#inner nav .news a {
+	background: url(/ne202/images/tab_new_01.png) top center no-repeat;
+}
+#inner nav .setup a {
+	background: url(/ne202/images/tab_setup_01.png) top center no-repeat;
+}
+#inner nav .faq a {
+	background: url(/ne202/images/tab_faq_01.png) top center no-repeat;
+}
+#inner nav .protocol a {
+	background: url(/ne202/images/tab_protocol_01.png) top center no-repeat;
+}
+#inner nav ul li .newbox {
+	position: absolute;
+	top: 2px;
+	right: 2px;
+	background: #fd3566;
+	color: #ffffff;
+	padding: 0 4px;
+	border-radius: 2px;
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	font-size: 75%;
+	display: none;
+}
+#inner nav ul li.new .newbox {
+	display: block;
+}
+
+#inner .mainimg {
+	text-align:center;
+	background-color:#d8e0e5;
+	margin:0;
+}
+#inner .mainimg #main {
+/*
+	width:480px;
+	height:255px;
+*/
+	position:relative;
+	margin:0 auto;
+}
+#inner .mainimg #main img {
+	width: 100%;
+}
+#inner .mainimg #main p {
+	width:260px;
+	text-align:left;
+	line-height:1.6;
+	text-shadow: 0 0 1px #b0b0b0;
+	position:absolute;
+	top:160px;
+	left:20px;
+}
+
+#inner .mybiglobe {
+	text-align:center;
+	margin:20px 0 30px;
+}
+#inner .mybiglobe a {
+	background:url(/ne202/images/icon_mypage.jpg) no-repeat left top;
+	padding:8px 0 10px 28px;
+	
+	line-height: 1.1;
+	text-shadow: 0 0 1px #CCC;
+}
+#inner .pagetop {
+	text-align:right;
+	margin-bottom:12px;
+}
+#inner .pagetop a {
+	background:url(/ne202/images/pagetop.jpg) no-repeat left center;
+	padding:0 0 0 26px;
+	
+	line-height: 1.1;
+	text-shadow: 0 0 1px #CCC;
+	color:#000;
+	text-decoration:none;
+}
+
+
+/* footer */
+footer {
+	width: 100%;
+	padding: 10px 0;
+	text-align: center;
+	background: #EEEEEE;
+	border-top:solid 1px #C7C7C7;
+}
+footer  p.flink {
+	line-height: 1.1;
+	font-size: 12px;
+	text-shadow: 0 0 1px #CCC;
+}
+footer p.copyright {
+	color: #000;
+	line-height: 1.1;
+	text-shadow: 0 0 1px #CCC;
+	padding:8px 0 10px;
+}
