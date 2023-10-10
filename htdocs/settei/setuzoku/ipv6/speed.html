@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="format-detection" content="telephone=no">
+    <title>IPv6接続 速度が出ない場合の確認ポイント：BIGLOBE会員サポート</title>
+    <meta name="keywords"
+          content="">
+    <meta name="description" content="">
+    <link rel="canonical" href="https://support.biglobe.ne.jp/settei/setuzoku/ipv6/speed.html">
+    <!--#include virtual="/v3/ssi/favicon.html"-->
+
+    <link rel="stylesheet" href="/v3/css/common.css">
+    <link rel="stylesheet" href="/v3/css/support/common.css">
+    <link rel="stylesheet" href="/v3/css/support/settei/setuzoku/ipv6/speed.css">
+    <script src="/v3/js/libs/jquery-3.5.1.min.js" charset="utf-8"></script>
+</head>
+
+<body>
+<!--ヘッダーここから-->
+<div id="v3-header">
+    <div class="c-v3-header--page-support">
+        <!--#include virtual="/v3/ssi/header.html"-->
+        <!--ssi-->
+    </div>
+</div>
+<!--ヘッダーここまで-->
+
+<!--コンテンツここから-->
+<div id="v3" class="v3">
+    <div class="c-breadcrumb">
+        <div class="c-breadcrumb__content">
+            <ol itemscope itemtype="http://schema.org/BreadcrumbList">
+                <li itemprop="itemListElement" itemscope
+                    itemtype="http://schema.org/ListItem" class="c-breadcrumb__item">
+                    <a itemprop="item" href="/">
+                        <span itemprop="name">TOP</span></a>
+                    <meta itemprop="position" content="1">
+                </li>
+                <li itemprop="itemListElement" itemscope
+                    itemtype="http://schema.org/ListItem" class="c-breadcrumb__item">
+                    <a itemprop="item" href="/settei/">
+                        <span itemprop="name">各種設定方法</span></a>
+                    <meta itemprop="position" content="2">
+                </li>
+                <li itemprop="itemListElement" itemscope
+                    itemtype="http://schema.org/ListItem" class="c-breadcrumb__item">
+                    <a itemprop="item" href="/settei/setuzoku/">
+                        <span itemprop="name">インターネット接続設定</span></a>
+                    <meta itemprop="position" content="3">
+                </li>
+                <li itemprop="itemListElement" itemscope
+                    itemtype="http://schema.org/ListItem" class="c-breadcrumb__item">
+                    <a itemprop="item" href="/settei/setuzoku/ipv6/">
+                        <span itemprop="name">IPv6オプションにおける機器のつなぎかた</span></a>
+                    <meta itemprop="position" content="4">
+                </li>
+                <li itemprop="itemListElement" itemscope
+                    itemtype="http://schema.org/ListItem" class="c-breadcrumb__item">
+                    <h1 class="c-breadcrumb__page-title"><span itemprop="name">IPv6接続 速度が出ない場合の確認ポイント</span></h1>
+                    <meta itemprop="position" content="5">
+                </li>
+            </ol>
+        </div>
+    </div>
+    <main id="main" class="p-contents-order">
+        <div class="p-contents-order__main">
+
+            <div class="c-section">
+                <div class="c-section__content">
+
+                    <p class="c-h c-h--lv1">IPv6接続 速度が出ない場合の確認ポイント</p>
+
+                    <div class="u-mb30">
+                        <p class="u-mb20">
+                            IPv6サービスを利用しているのに、思ったほど速度が出ていないと感じる場合は、接続サービスが正しく利用できているか確認し、接続の中で、どこに原因があるのかを調べてみましょう。
+                        </p>
+                    </div>
+                    <section class="c-section">
+                        <h2 class="c-h c-h--lv2">接続の確認</h2>
+
+                        <p class="u-mb20">IPv6の利用にはいくつかのパターンがあります。ご利用されている接続サービスを正しく使用できていることを確認してみてください。</p>
+                        <dl class="u-mb20">
+                            <dt class="u-txt-weight-bold">IPv6オプションライトをご契約の方</dt>
+                            <dd>以下で、IPv6をIPoE方式で接続できているか確認することができます。下記に『Connected via IPv6』と表示されていればIPv6接続できています。
+                            </dd>
+                        </dl>
+                        <div class="u-mb20 c-panel">
+                            <dl class="c-panel__content">
+                                <dt class="u-txt-weight-bold u-mb10">現在の接続環境は<br class="u-hide-pc"><img class="v6-icon" src="https://v6.support.biglobe.ne.jp/cgi-bin/ipv6/huriwake.cgi" alt="">です</dt>
+                                <dd>
+                                    <ul class="c-list c-list--note"><li>パソコンの設定や環境によっては正しく表示されない場合もありますのでご了承ください。</li></ul>
+                                </dd>
+                            </dl>
+                        </div>
+                        <dl class="u-mb20">
+                            <dt class="u-txt-weight-bold">NAT64/DNS64をご契約の方</dt>
+                            <dd class="u-mb20">
+                                <p class="u-mb10">
+                                    IPv4/IPv6をIPoE方式で接続できるか、以下のページで確認できます。<br>
+                                    <a href="https://support.biglobe.ne.jp/ipv6/nat64-normality.html" class="c-link c-link-detail">「NAT64/DNS64」正常性確認</a><br>
+                                </p>
+                                <p>
+                                    NAT64/DNS64は、IPV6接続可能な機器が必要になります。<br>
+                                    上部の表示で「Connected via」の右側が「IPv6」になっていることをご確認ください。
+                                </p>
+                            </dd>
+                            <dt class="u-txt-weight-bold">IPv6オプション／v6プラスをご契約の方</dt>
+                            <dd>
+                                <p class="u-mb30">IPv4/IPv6をIPoE方式で接続できるか、以下のページで確認できます。<br>
+                                    <a href="http://ipv6check.biglobe.ne.jp/v/" class="c-link c-link-detail c-link-icon c-link-icon--jump" target="_blank">IPv6オプション／v6プラス判定サイト</a>
+                                </p>
+                                <table class="c-tbl c-tbl--col4 p-tbl--vertical-centering u-mb30">
+                                    <tbody>
+                                    <tr>
+                                        <th style="background-color: #fff;"><img src="/v3/image/settei/setuzoku/ipv6/speed/dispimage.png" alt=""></th>
+                                        <td><span class="u-txt-weight-bold">「v6プラスつかっています」</span>と表示される場合は、すべての通信をIPoE方式により接続できるため、IPv6オプションを正しく利用できています。</td>
+                                    </tr>
+                                    <tr>
+                                        <th style="background-color: #fff;"><img src="/v3/image/settei/setuzoku/ipv6/speed/dispimage2.png" alt=""></th>
+                                        <td><span class="u-txt-weight-bold">「v6プラスではありません」</span>と表示される場合は、正しく利用できていません。</td>
+                                    </tr>
+                                    </tbody>
+                                </table>
+                                <a href="https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12748" class="c-link c-link-detail">ビッグローブ光　IPv6オプションを正しく利用できているか確認したい</a>
+                            </dd>
+                        </dl>
+                    </section>
+                    <section class="c-section">
+                        <h2 class="c-h c-h--lv2">区間での速度を確認する</h2>
+
+                        <p class="u-mb20">インターネットに接続するには、以下の図のように、自宅からアクセス先のサーバまでさまざまな区間に設置された通信機器を中継しています。上記でIPv6が正しく利用できることを確認後、区間ごとの速度を測定することで、改善のポイントがわかることもあります。</p>
+                        <div class="u-align-center u-mb20">
+                            <img src="/v3/image/settei/setuzoku/ipv6/speed/section01.png" alt="">
+                        </div>
+                        <ol class="c-list c-list--order p-list u-mb30">
+                            <li class="u-mb20">下記の速度測定サイトにアクセスしてインターネット区間までの通信速度とNTT区間までの通信速度結果を確認します。<br>
+                                <a href="http://www.speed-visualizer.jp/" class="c-link c-link-detail c-link-icon c-link-icon--jump" target="_blank">SPEED TEST(NTT東日本・西日本共通)</a>
+                            </li>
+                            <li class="u-mb20">
+                                    サイトの選択肢から、ご利用環境を選び、契約しているISPで「BIGLOBE」を選択します。<br>
+                                    利用規約に同意の上、「測定する」をクリックしてください。
+                                <div class="u-align-center u-mb20 mt20"><img src="/v3/image/settei/setuzoku/ipv6/speed/speedtest_1.png" alt=""></div>
+                                <ul class="c-list c-list--note u-mb20">
+                                    <li>ビッグローブ光／ドコモ光／フレッツ光の各サービスはベストエフォート方式のサービスとなりますので、通信速度は利用環境やネットワークの混雑状況などにより低下する可能性があります。</li>
+                                </ul>
+                            </li>
+                            <li class="u-mb20">
+                                インターネット区間の速度が表示されます。「確認する」をクリックすると2での結果が消えてしまいますので、画面のスクリーンショットを撮るか、数値をメモしておくことをお勧めします。メモを取ったら「確認する」をクリックします。
+                                <div class="u-align-center mt20"><img src="/v3/image/settei/setuzoku/ipv6/speed/speedtest_2.png" alt=""></div>
+                            </li>
+                            <li class="u-mb20">
+                                NTT東日本・西日本フレッツ網内の測定結果が表示されます。
+                                <div class="u-align-center mt20"><img src="/v3/image/settei/setuzoku/ipv6/speed/speedtest_3.png" alt=""></div>
+                            </li>
+                            <li class="u-mb20">
+                                4のNTT東日本・西日本フレッツ網の結果と3のインターネット区間の速度を比較します。速度が出ていない区間を確認し、それぞれの対応について以下をご参照ください。
+                                <div class="u-align-center mt20"><img src="/v3/image/settei/setuzoku/ipv6/speed/speed_cap_new.png" alt=""></div>
+                            </li>
+                        </ol>
+                    </section>
+                    <section class="c-section">
+                        <h2 class="c-h c-h--lv2">速度結果からポイントを絞る</h2>
+                        <section class="u-mb20">
+                            <h3 class="c-h c-h--lv3">ケースA：インターネット区間(IPv6)の速度がNTT東日本・西日本フレッツ網(IPv6)の速度と同じくらい、または上回っている場合</h3>
+                            <section>
+                                <h4 class="caption-h4 u-mb10">インターネット区間のIPv6とIPv4の速度が同程度</h4>
+                                <div class="c-col c-col-sp1 c-col--pc2">
+                                    <div class="c-col__item c-col--sp1__item c-col--pc2__item u-mb30 u-align-center">
+                                        <img src="/v3/image/settei/setuzoku/ipv6/speed/section02.png" alt="">
+                                    </div>
+                                    <div class="c-col__item c-col--sp1__item c-col--pc2__item c-corner-badge u-mb30">
+                                        <dl>
+                                            <dt class="u-txt-weight-bold">宅内環境が原因と想定されます</dt>
+                                            <dd>
+                                                <p class="u-mb10">無線LANの接続環境・接続方式、宅内のネットワークの混雑など宅内環境に速度が出ない原因があると考えられます。下記のページを参考にしてください。</p>
+                                                <a href="/speed/takunai.html" class="c-link c-link-detail">宅内環境に起因すること</a>
+                                            </dd>
+                                        </dl>
+                                    </div>
+                                </div>
+                                <div class="c-col c-col-sp1 c-col--pc2">
+                                    <div class="c-col__item c-col--sp1__item c-col--pc2__item u-mb30 u-align-center">
+                                        <img src="/v3/image/settei/setuzoku/ipv6/speed/section03.png" alt="">
+                                    </div>
+                                    <div class="c-col__item c-col--sp1__item c-col--pc2__item c-corner-badge u-mb30">
+                                        <dl>
+                                            <dt class="u-txt-weight-bold">NTT東西フレッツ網内の原因が想定されます</dt>
+                                            <dd>
+                                                <p class="u-mb10">NTTフレッツ網内が混雑していることが想定されます。どの時間帯でも継続的して速度が出ない場合、NTT東日本・NTT西日本が提供する通信機器の故障やトラブルが想定されます。</p>
+                                                <a href="https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=11614" class="c-link c-link-detail">NTT東日本、NTT西日本が提供するモデム等の通信機器の故障・トラブルについて知りたい</a>
+                                            </dd>
+                                        </dl>
+                                    </div>
+                                </div>
+                            </section>
+                            <section>
+                                <h4 class="caption-h4">インターネット区間のIPv6がIPv4を大幅に上回っている</h4>
+                                <section>
+                                    <h5 class="u-mb10">＜契約がIPv6オプションライト(NAT64/DNS64非適用)の方＞</h5>
+                                    <div class="c-col c-col-sp1 c-col--pc2">
+                                        <div class="c-col__item c-col--sp1__item c-col--pc2__item u-mb30 u-align-center">
+                                            <img src="/v3/image/settei/setuzoku/ipv6/speed/section04.png" alt="">
+                                        </div>
+                                        <div class="c-col__item c-col--sp1__item c-col--pc2__item c-corner-badge u-mb30">
+                                            <dl>
+                                                <dt class="u-txt-weight-bold">PPPoE方式のIPv4網が混雑していることが想定されます</dt>
+                                                <dd>
+                                                    <p><a href="/ipv6/option.html">IPv6オプション</a>をお申し込みいただくことにより、速度が改善する可能性があります。</p>
+                                                    <ul class="c-list c-list--note u-mb10"><li>IPv6オプション接続は<a href="/ipv6/option.html#mainrouter">対応機器</a>が必要です。</li></ul>
+                                                    <p class="u-mb10">
+                                                        BIGLOBEではインターネットを快適に利用できるよう、通信設備を随時増強しております。しかしながら、通信設備が混雑した場合のみ、通信量が特に多いお客さまの通信速度を制御します。通信設備の混雑が解消次第、この制御は速やかに解除します。</p>
+                                                    <a href="https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=10545" class="c-link c-link-detail">帯域制御の対象となるのはどんな場合ですか</a>
+                                                </dd>
+                                            </dl>
+                                        </div>
+                                    </div>
+                                </section>
+                                <section>
+                                    <h5 class="u-mb10">＜契約がIPv6オプション、IPv6オプションライト(NAT64/DNS64適用)の方＞</h5>
+                                    <div class="c-col c-col-sp1 c-col--pc2">
+                                        <div class="c-col__item c-col--sp1__item c-col--pc2__item u-mb30 u-align-center">
+                                            <img src="/v3/image/settei/setuzoku/ipv6/speed/section05.png" alt="">
+                                        </div>
+                                        <div class="c-col__item c-col--sp1__item c-col--pc2__item c-corner-badge u-mb30">
+                                            <dl>
+                                                <dt class="u-txt-weight-bold">アクセス先のサイトのネットワークが混雑していることが想定されます</dt>
+                                                <dd>
+                                                    <p class="u-mb10">混雑した時間を避けてアクセスすることで回避できます。<br>
+                                                        また、NAT64/DNS64適用でも、BIGLOBE網とインターネット区間で一部の通信はIPoE方式ではなくPPPoE方式を経由するため、それにより遅くなることもあります。
+                                                    </p>
+                                                    <a href="https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12780" class="c-link c-link-detail">「NAT64/DNS64」と「IPv6オプション」の違いは何ですか</a>
+                                                </dd>
+                                            </dl>
+                                        </div>
+                                    </div>
+                                </section>
+                            </section>
+                        </section>
+                        <section>
+                            <h3 class="c-h c-h--lv3">ケースB：インターネット区間(IPv6)の速度がNTT東西フレッツ網(IPv6)に比べて大幅に下回っている場合</h3>
+                            <div class="c-col c-col-sp1 c-col--pc2">
+                                <div class="c-col__item c-col--sp1__item c-col--pc2__item u-mb30 u-align-center">
+                                    <img src="/v3/image/settei/setuzoku/ipv6/speed/section06.png" alt="">
+                                </div>
+                                <div class="c-col__item c-col--sp1__item c-col--pc2__item c-corner-badge u-mb30">
+                                    <dl>
+                                        <dt class="u-txt-weight-bold">アクセス先のサイトの混雑、またはプロバイダの障害・メンテナンスの可能性があります</dt>
+                                        <dd>
+                                            <p class="u-mb10">
+                                                インターネット区間にて速度が出ていない原因があると考えられ、速度測定サイトへアクセスするまでのインターネット区間の通信が混雑しているため速度が出ていない、または、速度測定時にBIGLOBEで障害・メンテナンスがあった可能性があります。以下の情報もご参照ください。
+                                            </p>
+                                            <p class="u-mb20"><a href="/menteap/index.html" class="c-link c-link-detail">メンテナンス情報</a></p>
+                                            <p class="u-mb10">
+                                                BIGLOBE網においては余裕をもった運用が行われていますが、万が一通信設備が混雑した場合、通信量が特に多いお客さまの通信速度を制御します。通信設備の混雑が解消次第、この制御は速やかに解除します。
+                                            </p>
+                                            <a href="https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=10545" class="c-link c-link-detail">帯域制御の対象となるのはどんな場合ですか</a>
+                                        </dd>
+                                    </dl>
+                                </div>
+                            </div>
+                        </section>
+                    </section>
+                    <section class="c-section">
+                        <h2 class="c-h c-h--lv2">全般的な速度改善のためには</h2>
+
+                        <p>
+                            IPv6に限らず、光回線の速度が思うように出ていないと感じる場合は、以下のページもご参照ください。<br>
+                            <a href="/speed/" class="c-link c-link-detail">光回線の速度を最大限に引き出すには</a>
+                        </p>
+                    </section>
+                </div>
+            </div>
+        </div>
+        <!-- 解決ナビここから -->
+        <div class="p-contents-order__marin-search">
+            <!--#include virtual="/v3/ssi/marin-search.html"-->
+        </div>
+        <!-- 解決ナビここまで -->
+        <!-- ミニアンケートここから -->
+        <div class="p-contents-order__mini-questionnaire">
+            <!--#include virtual="/v3/ssi/mini-questionnaire.html"-->
+        </div>
+        <!-- ミニアンケートここまで -->
+    </main>
+</div>
+<!--コンテンツここまで-->
+
+<!--フッターここから-->
+<div class="p-outer-footer">
+    <!--#include virtual="/v3/ssi/footer.html"-->
+</div>
+<script src="/v3/js/common.js" charset="utf-8"></script>
+
+</body>
+</html>

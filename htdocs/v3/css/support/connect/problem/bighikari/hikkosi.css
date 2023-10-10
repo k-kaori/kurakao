@@ -1,0 +1,1 @@
+.inner-link-panel{position:relative}.inner-link-panel::after{position:absolute;content:'';display:block;width:12px;height:8px;background-image:url("/v3/image/icon/arrow-down-black.svg");background-size:contain;background-repeat:no-repeat;bottom:8%;left:48%}.inner-link-panel:hover{color:#f5f5f5;opacity:0.7}.inner-link-panel a:link{color:#313131;text-decoration:none}

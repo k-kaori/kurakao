@@ -1,0 +1,1 @@
+"use strict";$(function(){$('[data-accordion-element="button"]').on("click",function(t){t.preventDefault();var a=$(this).closest("[data-accordion]"),o=a.attr("data-accordion");"open"==o?a.attr("data-accordion","close"):"close"==o&&a.attr("data-accordion","open")})});

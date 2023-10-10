@@ -1,0 +1,42 @@
+<div class="p-marin-search">
+    <div id="fall_area" class="p-marin-search__content">
+
+        <div class="p-marin-search__content__title">まりんの<br class="u-hide-sp">解決ナビ</div>
+
+        <div class="p-marin-search__content__main">
+            <p class="u-mb10 p-marin-search__intro">BIGLOBE内のお探しの情報に<span class="u-txt-phrase">ご案内します</span></p>
+
+            <form name="search_form" action="https://search.support.biglobe.ne.jp/" method="GET"
+                  onsubmit="return mysearch_https(this);">
+
+                <div class="p-marin-search__form">
+                    <div class="p-marin-search__form__text">
+                        <input type="text" name="kw" value=""
+                               onfocus="if(this.defaultValue==this.value)this.value=''" maxlength="100"
+                               placeholder="例：メール 設定">
+                        <input type="hidden" name="ie" value="u">
+                    </div>
+                    <div class="p-marin-search__form__button">
+                        <button type="submit">検索</button>
+                    </div>
+                </div>
+            </form>
+            <!-- // まりんの検索ナビ用 -->
+            <script type="text/javascript">
+                (function () {
+                    var da = document.createElement('script');
+                    da.type = 'text/javascript';
+                    da.async = true;
+                    if ('https:' == document.location.protocol) {
+                        da.src = 'https://rsv.dga.jp/s/biglobe2/search_tool_n3.js';
+                    } else {
+                        da.src = 'http://cache.dga.jp/s/biglobe2/search_tool_n3.js';
+                    }
+                    var sc = document.getElementsByTagName('script')[0];
+                    sc.parentNode.insertBefore(da, sc);
+                })();
+            </script>
+            <script src="/v3/js/util/fall.js" charset="utf-8"></script>
+        </div>
+    </div>
+</div>

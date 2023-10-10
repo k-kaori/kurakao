@@ -1,0 +1,3287 @@
+{
+  "latest": [
+    {
+      "title": {
+        "html": "Xiaomi 12T Pro"
+      },
+      "mobile": {
+        "image": {
+          "src": "/v3/image/mobile/common/device/xiaomi-12t-pro.png"
+        },
+        "mainLinks": [
+          {
+            "html": "接続設定情報",
+            "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12995"
+          },
+          {
+            "html": "BIGLOBE<br>オンラインサポート",
+            "href": "/bsma/100/"
+          }
+        ],
+        "subLinks": [
+        ]
+      },
+      "mail": {
+        "setting": {
+          "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12889"
+        }
+      }
+    },
+    {
+      "title": {
+        "html": "AQUOS sense7"
+      },
+      "mobile": {
+        "image": {
+          "src": "/v3/image/mobile/common/device/aquos-sense7.png"
+        },
+        "mainLinks": [
+          {
+            "html": "接続設定情報",
+            "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12994"
+          },
+          {
+            "html": "BIGLOBE<br>オンラインサポート",
+            "href": "/bsma/101/"
+          }
+        ],
+        "subLinks": [
+        ]
+      },
+      "mail": {
+        "setting": {
+          "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12941"
+        }
+      }
+    },
+    {
+      "title": {
+        "html": "Xperia 10 IV"
+      },
+      "mobile": {
+        "image": {
+          "src": "/v3/image/mobile/common/device/xperia-10-iv.png"
+        },
+        "mainLinks": [
+          {
+            "html": "接続設定情報",
+            "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12985"
+          },
+          {
+            "html": "BIGLOBE<br>オンラインサポート",
+            "href": "/bsma/099/"
+          }
+        ],
+        "subLinks": [
+        ]
+      },
+      "mail": {
+        "setting": {
+          "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12930"
+        }
+      }
+    },
+    {
+      "title": {
+        "html": "Redmi Note 11 Pro 5G"
+      },
+      "mobile": {
+        "image": {
+          "src": "/v3/image/mobile/common/device/redmi-note11p-5g.png"
+        },
+        "mainLinks": [
+          {
+            "html": "接続設定情報",
+            "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12971"
+          },
+          {
+            "html": "BIGLOBE<br>オンラインサポート",
+            "href": "/bsma/096/"
+          }
+        ],
+        "subLinks": [
+        ]
+      },
+      "mail": {
+        "setting": {
+          "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12889"
+        }
+      }
+    },
+    {
+      "title": {
+        "html": "OPPO Reno7 A"
+      },
+      "mobile": {
+        "image": {
+          "src": "/v3/image/mobile/common/device/oppo-reno7a.png"
+        },
+        "mainLinks": [
+          {
+            "html": "接続設定情報",
+            "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12903"
+          },
+          {
+            "html": "BIGLOBE<br>オンラインサポート",
+            "href": "/bsma/097/"
+          }
+        ],
+        "subLinks": [
+        ]
+      },
+      "mail": {
+        "setting": {
+          "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12901"
+        }
+      }
+    },
+    {
+      "title": {
+        "html": "moto e32s"
+      },
+      "mobile": {
+        "image": {
+          "src": "/v3/image/mobile/common/device/moto-e32s.png"
+        },
+        "mainLinks": [
+          {
+            "html": "接続設定情報",
+            "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12803"
+          },
+          {
+            "html": "BIGLOBE<br>オンラインサポート",
+            "href": "/bsma/098/"
+          }
+        ],
+        "subLinks": [
+        ]
+      },
+      "mail": {
+        "setting": {
+          "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12890"
+        }
+      }
+    },
+    {
+      "title": {
+        "html": "AQUOS wish"
+      },
+      "mobile": {
+        "image": {
+          "src": "/v3/image/mobile/common/device/aquos-wish.png"
+        },
+        "mainLinks": [
+          {
+            "html": "接続設定情報",
+            "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12956"
+          },
+          {
+            "html": "BIGLOBE<br>オンラインサポート",
+            "href": "/bsma/095/"
+          }
+        ],
+        "subLinks": [
+        ]
+      },
+      "mail": {
+        "setting": {
+          "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12941"
+        }
+      }
+    },
+    {
+      "title": {
+        "html": "AQUOS sense6"
+      },
+      "mobile": {
+        "image": {
+          "src": "/v3/image/mobile/common/device/aquos-sense6.png"
+        },
+        "mainLinks": [
+          {
+            "html": "接続設定情報",
+            "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12943"
+          },
+          {
+            "html": "BIGLOBE<br>オンラインサポート",
+            "href": "/bsma/094/"
+          }
+        ],
+        "subLinks": [
+        ]
+      },
+      "mail": {
+        "setting": {
+          "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12941"
+        }
+      }
+    },
+    {
+      "title": {
+        "html": "Xiaomi 11T Pro"
+      },
+      "mobile": {
+        "image": {
+          "src": "/v3/image/mobile/common/device/xiaomi_11t_pro.png"
+        },
+        "mainLinks": [
+          {
+            "html": "接続設定情報",
+            "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12938"
+          },
+          {
+            "html": "BIGLOBE<br>オンラインサポート",
+            "href": "/bsma/093/"
+          }
+        ],
+        "subLinks": [
+        ]
+      },
+      "mail": {
+        "setting": {
+          "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12889"
+        }
+      }
+    },
+    {
+      "title": {
+        "html": "Xperia 10 III Lite"
+      },
+      "mobile": {
+        "image": {
+          "src": "/v3/image/mobile/common/device/xperia-10-iii-lite.png"
+        },
+        "mainLinks": [
+          {
+            "html": "接続設定情報",
+            "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12932"
+          },
+          {
+            "html": "BIGLOBE<br>オンラインサポート",
+            "href": "/bsma/092/"
+          }
+        ],
+        "subLinks": [
+        ]
+      },
+      "mail": {
+        "setting": {
+          "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12930"
+        }
+      }
+    },
+    {
+      "title": {
+        "html": "Aterm MR10LN　SW"
+      },
+      "mobile": {
+        "image": {
+          "src": "/v3/image/mobile/common/device/aterm-mr10ln-sw.png"
+        },
+        "mainLinks": [
+          {
+            "html": "接続設定情報",
+            "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12917"
+          },
+          {
+            "html": "BIGLOBE<br>オンラインサポート",
+            "href": "/bsma/091/index.html"
+          }
+        ],
+        "subLinks": [
+        ]
+      },
+      "mail": {
+        "setting": {
+          "href": ""
+        }
+      }
+    },
+    {
+      "title": {
+        "html": "Mi 11 Lite 5G"
+      },
+      "mobile": {
+        "image": {
+          "src": "/v3/image/mobile/common/device/mi-11-lite-5g.png"
+        },
+        "mainLinks": [
+          {
+            "html": "接続設定情報",
+            "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12915"
+          },
+          {
+            "html": "BIGLOBE<br>オンラインサポート",
+            "href": "/bsma/090/index.html"
+          }
+        ],
+        "subLinks": [
+        ]
+      },
+      "mail": {
+        "setting": {
+          "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12889"
+        }
+      }
+    },
+    {
+      "title": {
+        "html": "OPPO A54 5G"
+      },
+      "mobile": {
+        "image": {
+          "src": "/v3/image/mobile/common/device/oppo-a54-5g.png"
+        },
+        "mainLinks": [
+          {
+            "html": "接続設定情報",
+            "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12910"
+          },
+          {
+            "html": "BIGLOBE<br>オンラインサポート",
+            "href": "/bsma/089/index.html"
+          }
+        ],
+        "subLinks": [
+        ]
+      },
+      "mail": {
+        "setting": {
+          "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12901"
+        }
+      }
+    },
+    {
+      "title": {
+        "html": "OPPO Reno5 A"
+      },
+      "mobile": {
+        "image": {
+          "src": "/v3/image/mobile/common/device/oppo-reno5-a.png"
+        },
+        "mainLinks": [
+          {
+            "html": "接続設定情報",
+            "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12903"
+          },
+          {
+            "html": "BIGLOBE<br>オンラインサポート",
+            "href": "/bsma/087/index.html"
+          }
+        ],
+        "subLinks": [
+        ]
+      },
+      "mail": {
+        "setting": {
+          "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12901"
+        }
+      }
+    },
+    {
+      "title": {
+        "html": "Jelly 2"
+      },
+      "mobile": {
+        "image": {
+          "src": "/v3/image/mobile/common/device/jelly-2.png"
+        },
+        "mainLinks": [
+          {
+            "html": "接続設定情報",
+            "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12906"
+          },
+          {
+            "html": "BIGLOBE<br>オンラインサポート",
+            "href": "/bsma/088/index.html"
+          }
+        ],
+        "subLinks": [
+        ]
+      },
+      "mail": {
+        "setting": {
+          "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12904"
+        }
+      }
+    },
+    {
+      "title": {
+        "html": "Redmi Note 10 Pro"
+      },
+      "mobile": {
+        "image": {
+          "src": "/v3/image/mobile/common/device/redmi-note-10-pro.png"
+        },
+        "mainLinks": [
+          {
+            "html": "接続設定情報",
+            "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12772"
+          },
+          {
+            "html": "BIGLOBE<br>オンラインサポート",
+            "href": "/bsma/086/index.html"
+          }
+        ],
+        "subLinks": [
+        ]
+      },
+      "mail": {
+        "setting": {
+          "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12889"
+        }
+      }
+    },
+    {
+      "title": {
+        "html": "moto g30"
+      },
+      "mobile": {
+        "image": {
+          "src": "/v3/image/mobile/common/device/moto-g30.png"
+        },
+        "mainLinks": [
+          {
+            "html": "接続設定情報",
+            "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12892"
+          },
+          {
+            "html": "BIGLOBE<br>オンラインサポート",
+            "href": "/bsma/085/index.html"
+          }
+        ],
+        "subLinks": [
+        ]
+      },
+      "mail": {
+        "setting": {
+          "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12890"
+        }
+      }
+    },
+    {
+      "title": {
+        "html": "moto e7"
+      },
+      "mobile": {
+        "image": {
+          "src": "/v3/image/mobile/common/device/moto-e7.png"
+        },
+        "mainLinks": [
+          {
+            "html": "接続設定情報",
+            "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12847"
+          },
+          {
+            "html": "BIGLOBE<br>オンラインサポート",
+            "href": "/bsma/084/index.html"
+          }
+        ],
+        "subLinks": [
+        ]
+      },
+      "mail": {
+        "setting": {
+          "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12801"
+        }
+      }
+    },
+    {
+      "title": {
+        "html": "AQUOS sense4 plus"
+      },
+      "mobile": {
+        "image": {
+          "src": "/v3/image/mobile/common/device/aquos-sense4-plus.png"
+        },
+        "mainLinks": [
+          {
+            "html": "接続設定情報",
+            "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12871"
+          },
+          {
+            "html": "BIGLOBE<br>オンラインサポート",
+            "href": "/bsma/082/index.html"
+          }
+        ],
+        "subLinks": [
+        ]
+      },
+      "mail": {
+        "setting": {
+          "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=11961"
+        }
+      }
+    },
+    {
+      "title": {
+        "html": "Redmi 9T"
+      },
+      "mobile": {
+        "image": {
+          "src": "/v3/image/mobile/common/device/redmi-9t.png"
+        },
+        "mainLinks": [
+          {
+            "html": "接続設定情報",
+            "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12772"
+          },
+          {
+            "html": "BIGLOBE<br>オンラインサポート",
+            "href": "/bsma/083/index.html"
+          }
+        ],
+        "subLinks": [
+        ]
+      },
+      "mail": {
+        "setting": {
+          "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12770"
+        }
+      }
+    }
+  ],
+  "maker": [
+    {
+      "name": "acer",
+      "title": {
+        "html": "Acer"
+      },
+      "devices": [
+        {
+          "title": {
+            "html": "Liquid Z330"
+          },
+          "mobile": {
+            "image": {
+              "src": ""
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=11944"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma015/index.html"
+              }
+            ],
+            "subLinks": [
+              {
+                "html": "ドライバとマニュアル",
+                "href": "http://www.acer.com/ac/ja/JP/content/drivers"
+              },
+              {
+                "html": "製品情報",
+                "href": "http://www.acer.com/ac/ja/JP/content/series/liquidz330"
+              }
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=11940"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "asustek",
+      "title": {
+        "html": "ASUS"
+      },
+      "devices": [
+        {
+          "title": {
+            "html": "ZenFone Max Pro (M2) (ZB631KL) (6GB)"
+          },
+          "mobile": {
+            "image": {
+              "src": "/v3/image/mobile/common/device/zenfone-max-pro-m2.png"
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12425"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma/058/index.html"
+              }
+            ],
+            "subLinks": [
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=20869"
+            }
+          }
+        },
+        {
+          "title": {
+            "html": "ZenFone 6 (ZS630KL) 128GB"
+          },
+          "mobile": {
+            "image": {
+              "src": "/v3/image/mobile/common/device/zenfone-6-zs630kl.png"
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12655"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma/062/index.html"
+              }
+            ],
+            "subLinks": [
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=20869"
+            }
+          }
+        },
+        {
+          "title": {
+            "html": "ZenFone Max Pro (M2) (ZB631KL)"
+          },
+          "mobile": {
+            "image": {
+              "src": "/v3/image/mobile/common/device/zenfone-max-pro-(m2).png"
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12425"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma/058/index.html"
+              }
+            ],
+            "subLinks": [
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=20869"
+            }
+          }
+        },
+        {
+          "title": {
+            "html": "ZenFone Live (L1) (ZA550KL)"
+          },
+          "mobile": {
+            "image": {
+              "src": "/v3/image/mobile/common/device/zenfone-live-l1-za550kl.png"
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12425"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma/054/index.html"
+              }
+            ],
+            "subLinks": [
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=20869"
+            }
+          }
+        },
+        {
+          "title": {
+            "html": "ZenFone Max (M1) (ZB555KL)"
+          },
+          "mobile": {
+            "image": {
+              "src": "/v3/image/mobile/common/device/zenfone-max-m1-zb555kl.png"
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12425"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma/053/index.html"
+              }
+            ],
+            "subLinks": [
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=20869"
+            }
+          }
+        },
+        {
+          "title": {
+            "html": "ZenFone Max Plus (M1) (ZB570TL)"
+          },
+          "mobile": {
+            "image": {
+              "src": "/v3/image/mobile/common/device/zenfone-max-plus-m1-zb570tl.png"
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12317"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma045/index.html"
+              }
+            ],
+            "subLinks": [
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=20869"
+            }
+          }
+        },
+        {
+          "title": {
+            "html": "ZenFone 5 (ZE620KL)"
+          },
+          "mobile": {
+            "image": {
+              "src": "/v3/image/mobile/common/device/zenfone-5-ze620kl.png"
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=20872"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma/046/index.html"
+              }
+            ],
+            "subLinks": [
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=20869"
+            }
+          }
+        },
+        {
+          "title": {
+            "html": "ZenFone 4 Max (ZC520KL)"
+          },
+          "mobile": {
+            "image": {
+              "src": "/v3/image/mobile/common/device/zenfone-4-max-zc520kl.png"
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12295"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma041/index.html"
+              }
+            ],
+            "subLinks": [
+              {
+                "html": "取扱説明書",
+                "href": "https://www.asus.com/jp/Phone/ZenFone-4-Max-ZC520KL/HelpDesk_Manual/"
+              },
+              {
+                "html": "製品情報",
+                "href": "https://www.asus.com/jp/Phone/ZenFone-4-Max-ZC520KL/"
+              }
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=20869"
+            }
+          }
+        },
+        {
+          "title": {
+            "html": "ZenFone 4 Pro(ZS551KL) "
+          },
+          "mobile": {
+            "image": {
+              "src": "/v3/image/mobile/common/device/zenfone-4-pro-zs551kl.png"
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=20872"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma042/index.html"
+              }
+            ],
+            "subLinks": [
+              {
+                "html": "取扱説明書",
+                "href": "https://www.asus.com/jp/Phone/ZenFone-4-Pro-ZS551KL/HelpDesk_Manual/"
+              },
+              {
+                "html": "製品情報",
+                "href": "https://www.asus.com/jp/Phone/ZenFone-4-Pro-ZS551KL/"
+              }
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=20869"
+            }
+          }
+        },
+        {
+          "title": {
+            "html": "ZenFone 4 Selfie Pro (ZD552KL)"
+          },
+          "mobile": {
+            "image": {
+              "src": "/v3/image/mobile/common/device/zenfone-4-selfie-pro.png"
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=20872"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma038/index.html"
+              }
+            ],
+            "subLinks": [
+              {
+                "html": "取扱説明書",
+                "href": "https://www.asus.com/jp/Phone/ZenFone-4-Selfie-Pro-ZD552KL/HelpDesk_Manual/"
+              },
+              {
+                "html": "製品情報",
+                "href": "https://www.asus.com/jp/Phone/ZenFone-4-Selfie-Pro-ZD552KL/"
+              }
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=20869"
+            }
+          }
+        },
+        {
+          "title": {
+            "html": "ZenFone 4 (ZE554KL)"
+          },
+          "mobile": {
+            "image": {
+              "src": "/v3/image/mobile/common/device/zenfone-4.png"
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=20872"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma037/index.html"
+              }
+            ],
+            "subLinks": [
+              {
+                "html": "取扱説明書",
+                "href": "https://www.asus.com/jp/Phone/ZenFone-4-ZE554KL/HelpDesk_Manual/"
+              },
+              {
+                "html": "製品情報",
+                "href": "https://www.asus.com/jp/Phone/ZenFone-4-ZE554KL/"
+              }
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=20869"
+            }
+          }
+        },
+        {
+          "title": {
+            "html": "ZenFone Live(ZB501KL)"
+          },
+          "mobile": {
+            "image": {
+              "src": "/v3/image/mobile/common/device/machine40.jpg"
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12209"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma035/index.html"
+              }
+            ],
+            "subLinks": [
+              {
+                "html": "取扱説明書",
+                "href": "https://www.asus.com/jp/Phone/ZenFone-Live-ZB501KL/HelpDesk_Manual/"
+              },
+              {
+                "html": "製品情報",
+                "href": "https://www.asus.com/jp/Phone/ZenFone-Live-ZB501KL/"
+              }
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12208"
+            }
+          }
+        },
+        {
+          "title": {
+            "html": "ZenPad 3 8.0(Z581KL)"
+          },
+          "mobile": {
+            "image": {
+              "src": "/v3/image/mobile/common/device/machine32.jpg"
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12152"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma026/index.html"
+              }
+            ],
+            "subLinks": [
+              {
+                "html": "取扱説明書",
+                "href": "https://www.asus.com/jp/Tablets/ASUS-ZenPad-3-8-0-Z581KL/HelpDesk_Manual/"
+              },
+              {
+                "html": "製品情報",
+                "href": "https://www.asus.com/jp/Tablets/ASUS-ZenPad-3-8-0-Z581KL/"
+              }
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12150"
+            }
+          }
+        },
+        {
+          "title": {
+            "html": "ZenFone™ 3 Max(ZC553KL)[5.5インチ]"
+          },
+          "mobile": {
+            "image": {
+              "src": "/v3/image/mobile/common/device/machine37.jpg"
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12061"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma027/index.html"
+              }
+            ],
+            "subLinks": [
+              {
+                "html": "取扱説明書",
+                "href": "https://www.asus.com/jp/Phone/ZenFone-3-Max-ZC553KL/HelpDesk_Manual/"
+              },
+              {
+                "html": "製品情報",
+                "href": "https://www.asus.com/jp/Phone/ZenFone-3-Max-ZC553KL/"
+              }
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12164"
+            }
+          }
+        },
+        {
+          "title": {
+            "html": "ZenFone™ 3 Max(ZC520TL)[5.2インチ]"
+          },
+          "mobile": {
+            "image": {
+              "src": "/v3/image/mobile/common/device/machine29.jpg"
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12061"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma023/index.html"
+              }
+            ],
+            "subLinks": [
+              {
+                "html": "取扱説明書",
+                "href": "https://www.asus.com/jp/Phone/ZenFone-3-Max-ZC520TL/HelpDesk_Manual/"
+              },
+              {
+                "html": "製品情報",
+                "href": "https://www.asus.com/jp/Phone/ZenFone-3-Max-ZC520TL/"
+              }
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12107"
+            }
+          }
+        },
+        {
+          "title": {
+            "html": "ZenFone™ 3"
+          },
+          "mobile": {
+            "image": {
+              "src": "/v3/image/mobile/common/device/machine25.jpg"
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12061"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma020/index.html"
+              }
+            ],
+            "subLinks": [
+              {
+                "html": "取扱説明書",
+                "href": "https://www.asus.com/jp/Phone/ZenFone-3-ZE520KL/HelpDesk_Manual/"
+              },
+              {
+                "html": "製品情報",
+                "href": "https://www.asus.com/JP/Phone/ZenFone-3-ZE520KL/"
+              }
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12044"
+            }
+          }
+        },
+        {
+          "title": {
+            "html": "ZenFone™ 3 Laser"
+          },
+          "mobile": {
+            "image": {
+              "src": ""
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12061"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma021/index.html"
+              }
+            ],
+            "subLinks": [
+              {
+                "html": "取扱説明書",
+                "href": "http://www.asus.com/jp/Phone/ZenFone-3-Laser-ZC551KL/HelpDesk_Manual/"
+              },
+              {
+                "html": "製品情報",
+                "href": "http://www.asus.com/jp/Phone/ZenFone-3-Laser-ZC551KL/"
+              }
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12107"
+            }
+          }
+        },
+        {
+          "title": {
+            "html": "ZenPad™ 8.0"
+          },
+          "mobile": {
+            "image": {
+              "src": ""
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=11809"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma010/index.html"
+              }
+            ],
+            "subLinks": [
+              {
+                "html": "取扱説明書",
+                "href": "https://www.asus.com/jp/Tablets/ASUS_ZenPad_80_Z380KL/HelpDesk_Manual/"
+              },
+              {
+                "html": "製品情報",
+                "href": "https://www.asus.com/jp/Tablets/ASUS_ZenPad_80_Z380KL/"
+              }
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=11756"
+            }
+          }
+        },
+        {
+          "title": {
+            "html": "ZenFone™ 2 Laser"
+          },
+          "mobile": {
+            "image": {
+              "src": ""
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=11765"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma007/index.html"
+              }
+            ],
+            "subLinks": [
+              {
+                "html": "取扱説明書",
+                "href": "http://www.asus.com/jp/Phones/ZenFone-2-Laser-ZE500KL/HelpDesk_Manual/"
+              },
+              {
+                "html": "製品情報",
+                "href": "http://www.asus.com/jp/Phones/ZenFone-2-Laser-ZE500KL/"
+              }
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=11756"
+            }
+          }
+        },
+        {
+          "title": {
+            "html": "ZenFone™ 2（ZE551ML）"
+          },
+          "mobile": {
+            "image": {
+              "src": ""
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=11764"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma006/index.html"
+              }
+            ],
+            "subLinks": [
+              {
+                "html": "取扱説明書",
+                "href": "http://www.asus.com/jp/Phones/ZenFone_2_ZE551ML/HelpDesk_Manual/"
+              },
+              {
+                "html": "製品情報",
+                "href": "http://www.asus.com/jp/Tablets_Mobile/ZenFone_2_ZE551ML/"
+              }
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=11756"
+            }
+          }
+        },
+        {
+          "title": {
+            "html": "ZenFone™ Selfie"
+          },
+          "mobile": {
+            "image": {
+              "src": ""
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=11811"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma008/index.html"
+              }
+            ],
+            "subLinks": [
+              {
+                "html": "取扱説明書",
+                "href": "http://www.asus.com/jp/Phones/ZenFone_Selfie_ZD551KL/HelpDesk_Manual/"
+              },
+              {
+                "html": "製品情報",
+                "href": "http://www.asus.com/jp/Phones/ZenFone_Selfie_ZD551KL/"
+              }
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=11756"
+            }
+          }
+        },
+        {
+          "title": {
+            "html": "ZenFone™ Max"
+          },
+          "mobile": {
+            "image": {
+              "src": ""
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=11893"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma012/index.html"
+              }
+            ],
+            "subLinks": [
+              {
+                "html": "取扱説明書",
+                "href": "https://www.asus.com/jp/Phone/ZenFone-Max-ZC550KL/HelpDesk_Manual/"
+              },
+              {
+                "html": "製品情報",
+                "href": "https://www.asus.com/jp/Phone/ZenFone-Max-ZC550KL/"
+              }
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=11756"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "google",
+      "title": {
+        "html": "Google"
+      },
+      "devices": [
+        {
+          "title": {
+            "html": "Nexus 7(2013)"
+          },
+          "mobile": {
+            "image": {
+              "src": ""
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "/settei/setuzoku/lte/nex7_2013.html"
+              }
+            ],
+            "subLinks": []
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=11438"
+            }
+          }
+        },
+        {
+          "title": {
+            "html": "Nexus 7(2012)モバイル通信対応"
+          },
+          "mobile": {
+            "image": {
+              "src": ""
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "/settei/setuzoku/lte/lte_nex7card.html"
+              }
+            ],
+            "subLinks": []
+          }
+        }
+      ]
+    },
+    {
+      "name": "huawei",
+      "title": {
+        "html": "HUAWEI"
+      },
+      "devices": [
+        {
+          "title": {
+            "html": "HUAWEI nova lite 3+"
+          },
+          "mobile": {
+            "image": {
+              "src": "/v3/image/mobile/common/device/huawei-nova-lite-3plus.png"
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12541"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma/074/index.html"
+              }
+            ],
+            "subLinks": [
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12345"
+            }
+          }
+        },
+        {
+          "title": {
+            "html": "HUAWEI nova 5T"
+          },
+          "mobile": {
+            "image": {
+              "src": "/v3/image/mobile/common/device/huawei-nova-5t.png"
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12711"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma/068/index.html"
+              }
+            ],
+            "subLinks": [
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12710"
+            }
+          }
+        },
+        {
+          "title": {
+            "html": "HUAWEI P30 lite"
+          },
+          "mobile": {
+            "image": {
+              "src": "/v3/image/mobile/common/device/huawei-p30-lite.png"
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12572"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma/060/index.html"
+              }
+            ],
+            "subLinks": [
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12345"
+            }
+          }
+        },
+        {
+          "title": {
+            "html": "HUAWEI P30"
+          },
+          "mobile": {
+            "image": {
+              "src": "/v3/image/mobile/common/device/huawei-p30.png"
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12573"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma/059/index.html"
+              }
+            ],
+            "subLinks": [
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12345"
+            }
+          }
+        },
+        {
+          "title": {
+            "html": "HUAWEI MediaPad M5 lite [8インチ・LTE]"
+          },
+          "mobile": {
+            "image": {
+              "src": "/v3/image/mobile/common/device/huawei-mediapad-m5-lite.png"
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12571"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma/061/index.html"
+              }
+            ],
+            "subLinks": [
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12345"
+            }
+          }
+        },
+        {
+          "title": {
+            "html": "HUAWEI nova 3"
+          },
+          "mobile": {
+            "image": {
+              "src": "/v3/image/mobile/common/device/huawei-nova-3.png"
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12339"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma/052/index.html"
+              }
+            ],
+            "subLinks": [
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12345"
+            }
+          }
+        },
+        {
+          "title": {
+            "html": "HUAWEI P20 lite"
+          },
+          "mobile": {
+            "image": {
+              "src": "/v3/image/mobile/common/device/huawei-p20-lite.png"
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12339"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma/050/index.html"
+              }
+            ],
+            "subLinks": [
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12345"
+            }
+          }
+        },
+        {
+          "title": {
+            "html": "HUAWEI P20"
+          },
+          "mobile": {
+            "image": {
+              "src": "/v3/image/mobile/common/device/huawei-p20.png"
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12338"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma/049/index.html"
+              }
+            ],
+            "subLinks": [
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12345"
+            }
+          }
+        },
+        {
+          "title": {
+            "html": "HUAWEI nova lite 2"
+          },
+          "mobile": {
+            "image": {
+              "src": "/v3/image/mobile/common/device/huawei-nova-lite-2.png"
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12308"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma044/index.html"
+              }
+            ],
+            "subLinks": [
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12310"
+            }
+          }
+        },
+        {
+          "title": {
+            "html": "HUAWEI MediaPad M3 Lite [8インチ・LTE]"
+          },
+          "mobile": {
+            "image": {
+              "src": "/v3/image/mobile/common/device/machine42.jpg"
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12256"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma036/index.html"
+              }
+            ],
+            "subLinks": [
+              {
+                "html": "取扱説明書",
+                "href": "http://consumer.huawei.com/jp/support/tablets/mediapad-m3-lite/"
+              },
+              {
+                "html": "製品情報",
+                "href": "http://consumer.huawei.com/jp/tablets/mediapad-m3-lite/"
+              }
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12260"
+            }
+          }
+        },
+        {
+          "title": {
+            "html": "HUAWEI P10"
+          },
+          "mobile": {
+            "image": {
+              "src": "/v3/image/mobile/common/device/machine39.jpg"
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=11957"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma032/index.html"
+              }
+            ],
+            "subLinks": [
+              {
+                "html": "取扱説明書",
+                "href": "http://consumer.huawei.com/jp/support/phones/p10/"
+              },
+              {
+                "html": "製品情報",
+                "href": "http://consumer.huawei.com/jp/phones/p10/"
+              }
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12198"
+            }
+          }
+        },
+        {
+          "title": {
+            "html": "HUAWEI P10 lite"
+          },
+          "mobile": {
+            "image": {
+              "src": "/v3/image/mobile/common/device/machine38.jpg"
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=11957"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma033/index.html"
+              }
+            ],
+            "subLinks": [
+              {
+                "html": "取扱説明書",
+                "href": "http://consumer.huawei.com/jp/support/phones/p10-lite/"
+              },
+              {
+                "html": "製品情報",
+                "href": "http://consumer.huawei.com/jp/phones/p10-lite/"
+              }
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12198"
+            }
+          }
+        },
+        {
+          "title": {
+            "html": "HUAWEI nova"
+          },
+          "mobile": {
+            "image": {
+              "src": "/v3/image/mobile/common/device/machine30.jpg"
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=11957 "
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma024/index.html"
+              }
+            ],
+            "subLinks": [
+              {
+                "html": "取扱説明書",
+                "href": "http://consumer.huawei.com/jp/support/phones/nova/"
+              },
+              {
+                "html": "製品情報",
+                "href": "http://consumer.huawei.com/jp/phones/nova/"
+              }
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12147"
+            }
+          }
+        },
+        {
+          "title": {
+            "html": "HUAWEI nova lite"
+          },
+          "mobile": {
+            "image": {
+              "src": "/v3/image/mobile/common/device/machine31.jpg"
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=11957 "
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma025/index.html"
+              }
+            ],
+            "subLinks": [
+              {
+                "html": "取扱説明書",
+                "href": "http://consumer.huawei.com/jp/support/phones/nova-lite/"
+              },
+              {
+                "html": "製品情報",
+                "href": "http://consumer.huawei.com/jp/phones/nova-lite/"
+              }
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12148"
+            }
+          }
+        },
+        {
+          "title": {
+            "html": "HUAWEI MediaPad T2 7.0 Pro"
+          },
+          "mobile": {
+            "image": {
+              "src": "/v3/image/mobile/common/device/machine20.jpg"
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12033"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma019/index.html"
+              }
+            ],
+            "subLinks": [
+              {
+                "html": "取扱説明書",
+                "href": "http://consumer.huawei.com/jp/support/tablets/mediapad-t2-7-pro/"
+              },
+              {
+                "html": "製品情報",
+                "href": "http://consumer.huawei.com/jp/tablets/mediapad-t2-7-pro/"
+              }
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=11948"
+            }
+          }
+        },
+        {
+          "title": {
+            "html": "HUAWEI Y6"
+          },
+          "mobile": {
+            "image": {
+              "src": ""
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=11952"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma014/index.html"
+              }
+            ],
+            "subLinks": [
+              {
+                "html": "取扱説明書",
+                "href": "http://consumer.huawei.com/jp/support/mobile-phones/y6-jp-sup.htm"
+              },
+              {
+                "html": "製品情報",
+                "href": "http://consumer.huawei.com/jp/mobile-phones/features/y6-jp.htm"
+              }
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=11948"
+            }
+          }
+        },
+        {
+          "title": {
+            "html": "HUAWEI P9 lite"
+          },
+          "mobile": {
+            "image": {
+              "src": ""
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=11957"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma013/index.html"
+              }
+            ],
+            "subLinks": [
+              {
+                "html": "取扱説明書",
+                "href": "http://consumer.huawei.com/jp/support/mobile-phones/p9lite-jp-sup.htm"
+              },
+              {
+                "html": "製品情報",
+                "href": "http://consumer.huawei.com/jp/mobile-phones/p9lite/index.htm"
+              }
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=11956"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "lg",
+      "title": {
+        "html": "LG"
+      },
+      "devices": [
+        {
+          "title": {
+            "html": "LG G2 mini for BIGLOBE"
+          },
+          "mobile": {
+            "image": {
+              "src": ""
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": ""
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma004/index.html"
+              }
+            ],
+            "subLinks": [
+              {
+                "html": "取扱説明書",
+                "href": "http://www.lg.com/jp/support-mobile/lg-D620J"
+              },
+              {
+                "html": "製品情報",
+                "href": "http://www.lg.com/jp/mobile-phone/lg-D620J"
+              }
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=11440"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "necmobile",
+      "title": {
+        "html": "NEC"
+      },
+      "devices": [
+        {
+          "title": {
+            "html": "Aterm MR05LN"
+          },
+          "mobile": {
+            "image": {
+              "src": "/v3/image/mobile/common/device/machine24.jpg"
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12038"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": ""
+              }
+            ],
+            "subLinks": [
+              {
+                "html": "製品情報",
+                "href": "http://121ware.com/product/atermstation/product/mobile/mr05ln/index.html"
+              }
+            ]
+          }
+        },
+        {
+          "title": {
+            "html": "ほぼスマホ　MEDIAS NE-202"
+          },
+          "mobile": {
+            "image": {
+              "src": "/ne202/index.html?lte_index"
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "/settei/setuzoku/lte/lte_ne202.html"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/ne202/index.html"
+              }
+            ],
+            "subLinks": [
+              {
+                "html": "取扱説明書",
+                "href": "http://www.n-keitai.com/guide/download/manual/ne202/index.html"
+              },
+              {
+                "html": "製品情報",
+                "href": "http://www.n-keitai.com/ne-202/"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "necplatform",
+      "title": {
+        "html": "NECプラットフォームズ"
+      },
+      "devices": [
+        {
+          "title": {
+            "html": "Aterm MR04LN"
+          },
+          "mobile": {
+            "image": {
+              "src": ""
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=11732"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": ""
+              }
+            ],
+            "subLinks": [
+              {
+                "html": "取扱説明書",
+                "href": "http://www.aterm.jp/support/manual/mr04ln/index.html"
+              },
+              {
+                "html": "製品情報",
+                "href": "http://www.aterm.jp/product/atermstation/product/mobile/mr04ln/"
+              },
+              {
+                "html": "最新ファームウェアへのバージョンアップのお願い",
+                "href": "http://www.aterm.jp/support/verup/mr04ln/fw.html"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "tcl",
+      "title": {
+        "html": "TCLコミュニケーション"
+      },
+      "devices": [
+        {
+          "title": {
+            "html": "BlackBerry KEY2"
+          },
+          "mobile": {
+            "image": {
+              "src": "/v3/image/mobile/common/device/blackberry-key2.png"
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12544"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": ""
+              }
+            ],
+            "subLinks": [
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": ""
+            }
+          }
+        },
+        {
+          "title": {
+            "html": "Alcatel PIXI 4"
+          },
+          "mobile": {
+            "image": {
+              "src": "/v3/image/mobile/common/device/machine35.jpg"
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12174"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma028/index.html"
+              }
+            ],
+            "subLinks": [
+              {
+                "html": "マニュアル・FAQ",
+                "href": "http://alcatel-mobile.com/jp/support/product?faq_id=64091&model=PIXI4"
+              },
+              {
+                "html": "製品情報",
+                "href": "http://alcatel-mobile.com/jp/products/detail/PIXI4#.WMtpXqKkKUk"
+              }
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12170"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "vaio",
+      "title": {
+        "html": "VAIO"
+      },
+      "devices": [
+        {
+          "title": {
+            "html": "VAIO Phone A"
+          },
+          "mobile": {
+            "image": {
+              "src": "/v3/image/mobile/common/device/machine36.jpg"
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12192"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma029/index.html"
+              }
+            ],
+            "subLinks": [
+              {
+                "html": "スマートフォンサポート",
+                "href": "https://support.vaio.com/phone/"
+              },
+              {
+                "html": "製品情報",
+                "href": "https://vaio.com/products/phone_a051/"
+              }
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12171"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "ncxx",
+      "title": {
+        "html": "ネクス"
+      },
+      "devices": [
+      ]
+    },
+    {
+      "name": "sharp",
+      "title": {
+        "html": "シャープ"
+      },
+      "devices": [
+        {
+          "title": {
+            "html": "AQUOS sense4"
+          },
+          "mobile": {
+            "image": {
+              "src": "/v3/image/mobile/common/device/aquos-sense-sh-m15.png"
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12853"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma/080/index.html"
+              }
+            ],
+            "subLinks": [
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=11961"
+            }
+          }
+        },
+        {
+          "title": {
+            "html": "AQUOS sense3 SH-M12"
+          },
+          "mobile": {
+            "image": {
+              "src": "/v3/image/mobile/common/device/aquos-sense3-sh-m12.png"
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12653"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma/067/index.html"
+              }
+            ],
+            "subLinks": [
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=11961"
+            }
+          }
+        },
+        {
+          "title": {
+            "html": "AQUOS sense3 plus SH-M11"
+          },
+          "mobile": {
+            "image": {
+              "src": "/v3/image/mobile/common/device/aquod-sense3-plus-sh-m11.png"
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12709"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma/070/index.html"
+              }
+            ],
+            "subLinks": [
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12708"
+            }
+          }
+        },
+        {
+          "title": {
+            "html": "AQUOS R2 compact SH-M09"
+          },
+          "mobile": {
+            "image": {
+              "src": "/v3/image/mobile/common/device/aquos-r2-compact-sh-m09.png"
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=11960"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma/057/index.html"
+              }
+            ],
+            "subLinks": [
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=11961 "
+            }
+          }
+        },
+        {
+          "title": {
+            "html": "AQUOS sense2 SH-M08"
+          },
+          "mobile": {
+            "image": {
+              "src": "/v3/image/mobile/common/device/aquos-sense2-sh-m08.png"
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=11960"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma/055/index.html"
+              }
+            ],
+            "subLinks": [
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=11961"
+            }
+          }
+        },
+        {
+          "title": {
+            "html": "AQUOS sense plus SH-M07"
+          },
+          "mobile": {
+            "image": {
+              "src": "/v3/image/mobile/common/device/aquos-sense-plus-sh-m07.png"
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12346"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma/051/index.html"
+              }
+            ],
+            "subLinks": [
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=11961"
+            }
+          }
+        },
+        {
+          "title": {
+            "html": "AQUOS R compact SH-M06"
+          },
+          "mobile": {
+            "image": {
+              "src": "/v3/image/mobile/common/device/aquos-r-compact-sh-m06.png"
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12304"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma043/index.html"
+              }
+            ],
+            "subLinks": [
+              {
+                "html": "取扱説明書",
+                "href": "http://k-tai.sharp.co.jp/support/other/shm06/manual/index.html"
+              },
+              {
+                "html": "製品情報",
+                "href": "http://www.sharp.co.jp/products/shm06/"
+              }
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=11961"
+            }
+          }
+        },
+        {
+          "title": {
+            "html": "AQUOS sense lite"
+          },
+          "mobile": {
+            "image": {
+              "src": "/v3/image/mobile/common/device/aquos-sence-lite.png"
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=11960"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma040/index.html"
+              }
+            ],
+            "subLinks": [
+              {
+                "html": "取扱説明書",
+                "href": "http://k-tai.sharp.co.jp/support/other/shm05/manual/index.html"
+              },
+              {
+                "html": "製品情報",
+                "href": "http://www.sharp.co.jp/products/shm05/"
+              }
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=11961"
+            }
+          }
+        },
+        {
+          "title": {
+            "html": "AQUOS SH-M04"
+          },
+          "mobile": {
+            "image": {
+              "src": "/v3/image/mobile/common/device/machine28.jpg"
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12022"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma022/index.html"
+              }
+            ],
+            "subLinks": [
+              {
+                "html": "取扱説明書",
+                "href": "http://k-tai.sharp.co.jp/support/other/shm04/manual/index.html"
+              },
+              {
+                "html": "製品情報",
+                "href": "http://www.sharp.co.jp/products/shm04/index.html"
+              },
+              {
+                "html": "ソフトウェアアップデートのお知らせ",
+                "href": "http://k-tai.sharp.co.jp/support/other/shm04/update/index.html"
+              }
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12115"
+            }
+          }
+        },
+        {
+          "title": {
+            "html": "AQUOS mini SH-M03"
+          },
+          "mobile": {
+            "image": {
+              "src": "/v3/image/mobile/common/device/machine22.jpg"
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12022"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma016/index.html"
+              }
+            ],
+            "subLinks": [
+              {
+                "html": "取扱説明書",
+                "href": "http://k-tai.sharp.co.jp/support/other/shm03/manual/index.html"
+              },
+              {
+                "html": "製品情報",
+                "href": "http://www.sharp.co.jp/products/shm03/index.html"
+              }
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12020"
+            }
+          }
+        },
+        {
+          "title": {
+            "html": "AQUOS SH-M01"
+          },
+          "mobile": {
+            "image": {
+              "src": ""
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": ""
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma005/index.html"
+              }
+            ],
+            "subLinks": [
+              {
+                "html": "取扱説明書",
+                "href": "http://k-tai.sharp.co.jp/support/other/shm01/manual/index.html"
+              },
+              {
+                "html": "製品情報",
+                "href": "http://www.sharp.co.jp/products/shm01/index.html"
+              }
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=11752"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "fujitsu",
+      "title": {
+        "html": "富士通"
+      },
+      "devices": [
+        {
+          "title": {
+            "html": "arrows M05"
+          },
+          "mobile": {
+            "image": {
+              "src": "/v3/image/mobile/common/device/arrows-m05.png"
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12714"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma/069/index.html"
+              }
+            ],
+            "subLinks": [
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12712"
+            }
+          }
+        },
+        {
+          "title": {
+            "html": "arrows M04"
+          },
+          "mobile": {
+            "image": {
+              "src": "/v3/image/mobile/common/device/machine41.jpg"
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12026"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma034/index.html"
+              }
+            ],
+            "subLinks": [
+              {
+                "html": "取扱説明書",
+                "href": "http://spf.fmworld.net/fujitsu/c/app/manual/arrowsm04/"
+              },
+              {
+                "html": "製品情報",
+                "href": "http://www.fmworld.net/product/phone/m04/"
+              }
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12025"
+            }
+          }
+        },
+        {
+          "title": {
+            "html": "arrows M03"
+          },
+          "mobile": {
+            "image": {
+              "src": "/v3/image/mobile/common/device/machine21.jpg"
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12026"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma017/index.html"
+              }
+            ],
+            "subLinks": [
+              {
+                "html": "取扱説明書",
+                "href": "http://spf.fmworld.net/fujitsu/c/app/manual/arrowsm03/"
+              },
+              {
+                "html": "製品情報",
+                "href": "http://www.fmworld.net/product/phone/m03/#/p1"
+              }
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12025"
+            }
+          }
+        },
+        {
+          "title": {
+            "html": "arrows M02"
+          },
+          "mobile": {
+            "image": {
+              "src": ""
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=11804"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma009/index.html"
+              }
+            ],
+            "subLinks": [
+              {
+                "html": "取扱説明書",
+                "href": "http://spf.fmworld.net/fujitsu/c/app/manual/m02/"
+              },
+              {
+                "html": "製品情報",
+                "href": "http://www.fmworld.net/product/phone/m02/"
+              }
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=11807"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "motorola",
+      "title": {
+        "html": "モトローラ"
+      },
+      "devices": [
+        {
+          "title": {
+            "html": "moto g8 power lite"
+          },
+          "mobile": {
+            "image": {
+              "src": "/v3/image/mobile/common/device/moto-g8-power-lite.png"
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12803"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma/073/index.html"
+              }
+            ],
+            "subLinks": [
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12801"
+            }
+          }
+        },
+        {
+          "title": {
+            "html": "moto e6s"
+          },
+          "mobile": {
+            "image": {
+              "src": "/v3/image/mobile/common/device/moto-e6s.png"
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12803"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma/078/index.html"
+              }
+            ],
+            "subLinks": [
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12801"
+            }
+          }
+        },
+        {
+          "title": {
+            "html": "moto g PRO"
+          },
+          "mobile": {
+            "image": {
+              "src": "/v3/image/mobile/common/device/moto-g-pro.png"
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12847"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma/079/index.html"
+              }
+            ],
+            "subLinks": [
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12801"
+            }
+          }
+        },
+        {
+          "title": {
+            "html": "moto g8 plus"
+          },
+          "mobile": {
+            "image": {
+              "src": "/v3/image/mobile/common/device/moto-g8-plus.png"
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12746"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma/071/index.html"
+              }
+            ],
+            "subLinks": [
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12745"
+            }
+          }
+        },
+        {
+          "title": {
+            "html": "moto g8"
+          },
+          "mobile": {
+            "image": {
+              "src": "/v3/image/mobile/common/device/moto-g8.png"
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12752"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma/072/index.html"
+              }
+            ],
+            "subLinks": [
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12745"
+            }
+          }
+        },
+        {
+          "title": {
+            "html": "moto g7"
+          },
+          "mobile": {
+            "image": {
+              "src": "/v3/image/mobile/common/device/moto-g7.png"
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12606"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma/064/index.html"
+              }
+            ],
+            "subLinks": [
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=20881"
+            }
+          }
+        },
+        {
+          "title": {
+            "html": "Moto G6 Plus"
+          },
+          "mobile": {
+            "image": {
+              "src": "/v3/image/mobile/common/device/moto-g6-plus.png"
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12341"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma/048/index.html"
+              }
+            ],
+            "subLinks": [
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=20881"
+            }
+          }
+        },
+        {
+          "title": {
+            "html": "Moto E5"
+          },
+          "mobile": {
+            "image": {
+              "src": "/v3/image/mobile/common/device/moto-e5.png"
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12340"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma/047/index.html"
+              }
+            ],
+            "subLinks": [
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=20881"
+            }
+          }
+        },
+        {
+          "title": {
+            "html": "Moto G5s Plus"
+          },
+          "mobile": {
+            "image": {
+              "src": "/v3/image/mobile/common/device/moto-g5s-plus.png"
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=20882"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma039/index.html"
+              }
+            ],
+            "subLinks": [
+              {
+                "html": "取扱説明書",
+                "href": "http://motorola-global-portal-jp.custhelp.com/app/home/"
+              },
+              {
+                "html": "製品情報",
+                "href": "https://www.motorola.co.jp/products/moto-g-plus-gen-5-special-edition"
+              }
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=20881"
+            }
+          }
+        },
+        {
+          "title": {
+            "html": "Moto G5"
+          },
+          "mobile": {
+            "image": {
+              "src": "/v3/image/mobile/common/device/machine34.jpg"
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12187"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma030/index.html"
+              }
+            ],
+            "subLinks": [
+              {
+                "html": "製品情報",
+                "href": "https://www.motorola.co.jp/products/moto-g"
+              }
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12177"
+            }
+          }
+        },
+        {
+          "title": {
+            "html": "Moto G5 Plus"
+          },
+          "mobile": {
+            "image": {
+              "src": "/v3/image/mobile/common/device/machine33.jpg"
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12186"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma031/index.html"
+              }
+            ],
+            "subLinks": [
+              {
+                "html": "製品情報",
+                "href": "https://www.motorola.co.jp/products/moto-g-plus"
+              }
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12177"
+            }
+          }
+        },
+        {
+          "title": {
+            "html": "Moto X Play"
+          },
+          "mobile": {
+            "image": {
+              "src": "/v3/image/mobile/common/device/machine16.jpg"
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=11901"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma011/index.html"
+              }
+            ],
+            "subLinks": [
+              {
+                "html": "製品情報",
+                "href": "http://www.motorola.co.jp/products/moto-x-play"
+              }
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=11897"
+            }
+          }
+        },
+        {
+          "title": {
+            "html": "Moto G4 Plus"
+          },
+          "mobile": {
+            "image": {
+              "src": ""
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12031"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma018/index.html"
+              }
+            ],
+            "subLinks": [
+              {
+                "html": "OSアップデートのお知らせ",
+                "href": "http://www.synnexinfotec.co.jp/news/2017/170131_01.html"
+              }
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=11897"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "oppo",
+      "title": {
+        "html": "OPPO"
+      },
+      "devices": [
+        {
+          "title": {
+            "html": "OPPO A73"
+          },
+          "mobile": {
+            "image": {
+              "src": "/v3/image/mobile/common/device/oppo-a73.png"
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12855"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma/081/index.html"
+              }
+            ],
+            "subLinks": [
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12646"
+            }
+          }
+        },
+        {
+          "title": {
+            "html": "OPPO Reno3 A"
+          },
+          "mobile": {
+            "image": {
+              "src": "/v3/image/mobile/common/device/oppo-reno3-a.png"
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12776"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma/075/index.html"
+              }
+            ],
+            "subLinks": [
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12646"
+            }
+          }
+        },
+        {
+          "title": {
+            "html": "OPPO Reno A"
+          },
+          "mobile": {
+            "image": {
+              "src": "/v3/image/mobile/common/device/oppo-reno-a.png"
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12651"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma/065/index.html"
+              }
+            ],
+            "subLinks": [
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12646"
+            }
+          }
+        },
+        {
+          "title": {
+            "html": "OPPO A5 2020"
+          },
+          "mobile": {
+            "image": {
+              "src": "/v3/image/mobile/common/device/oppo-a5-2020.png"
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12648"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma/066/index.html"
+              }
+            ],
+            "subLinks": [
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12646"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "xiaomi",
+      "title": {
+        "html": "Xiaomi"
+      },
+      "devices": [
+        {
+          "title": {
+            "html": "Mi Note 10 Lite"
+          },
+          "mobile": {
+            "image": {
+              "src": "/v3/image/mobile/common/device/mi-note-10-lite.png"
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12799"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma/077/index.html"
+              }
+            ],
+            "subLinks": [
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12770"
+            }
+          }
+        },
+        {
+          "title": {
+            "html": "Redmi Note 9S"
+          },
+          "mobile": {
+            "image": {
+              "src": "/v3/image/mobile/common/device/redmi-note-9s.png"
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12772"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma/076/index.html"
+              }
+            ],
+            "subLinks": [
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12770"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "jetfon",
+      "title": {
+        "html": "jetfon"
+      },
+      "devices": [
+        {
+          "title": {
+            "html": "jetfon"
+          },
+          "mobile": {
+            "image": {
+              "src": "/v3/image/mobile/common/device/jetfon.png"
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12612"
+              },
+              {
+                "html": "BIGLOBE<br>オンラインサポート",
+                "href": "/bsma/063/index.html"
+              }
+            ],
+            "subLinks": [
+            ]
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=12607"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "apple",
+      "title": {
+        "html": "Apple"
+      },
+      "devices": [
+        {
+          "title": {
+            "html": "iPhone 6s／iPhone 6／iPhone 6 Plus／iPhone SE（第1世代）／iPhone 7／iPhone SE（第2世代）／iPhone 12／iPhone SE（第3世代）"
+          },
+          "mobile": {
+            "image": {
+              "src": ""
+            },
+            "mainLinks": [
+              {
+                "html": "接続設定情報",
+                "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=11640"
+              }
+            ],
+            "subLinks": []
+          }
+        }
+      ]
+    },
+    {
+      "name": "amazon",
+      "title": {
+        "html": "Amazon.com, Inc."
+      },
+      "devices": [
+        {
+          "title": {
+            "html": "Kindle Fire HD／HDX"
+          },
+          "mail": {
+            "setting": {
+              "href": "https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=11439"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

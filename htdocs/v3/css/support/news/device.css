@@ -1,0 +1,50 @@
+@charset "UTF-8";
+
+/* -------------------------------------
+　PC
+-------------------------------------- */
+@media (min-width: 768px) {
+    .device-img-area {
+        display: table;
+        border-collapse: collapse;
+        table-layout: fixed;
+    }
+
+    .device-area-left {
+        display: table-cell;
+        vertical-align: top;
+        padding: 0 20px;
+    }
+
+    .device-area-left img {
+        max-height: 200px;
+    }
+
+    .device-area-right {
+        display: table-cell;
+        vertical-align: top;
+    }
+}
+
+/* -------------------------------------
+　モバイル 768px未満
+-------------------------------------- */
+@media (max-width: 767px) {
+    .device-img-area {
+        display: block;
+    }
+
+    .device-area-left {
+        display: block;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+
+    .device-area-left img {
+        max-height: 200px;
+    }
+
+    .device-area-right {
+        display: block;
+    }
+}

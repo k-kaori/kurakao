@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="format-detection" content="telephone=no">
+    <title>NAT64/DNS64：BIGLOBE会員サポート</title>
+    <meta name="keywords"
+          content="">
+    <meta name="description" content="">
+    <link rel="canonical" href="https://support.biglobe.ne.jp/ipv6/nat64.html">
+    <!--#include virtual="/v3/ssi/favicon.html"-->
+
+    <link rel="stylesheet" href="/v3/css/common.css">
+    <link rel="stylesheet" href="/v3/css/support/common.css">
+    <link rel="stylesheet" href="/v3/css/support/ipv6/common.css">
+    <link rel="stylesheet" href="/v3/css/support/ipv6/nat64.css">
+    <script src="/v3/js/libs/jquery-3.5.1.min.js" charset="utf-8"></script>
+</head>
+
+<body>
+<!--ヘッダーここから-->
+<div id="v3-header">
+    <div class="c-v3-header--page-support">
+        <!--#include virtual="/v3/ssi/header.html"-->
+        <!--ssi-->
+    </div>
+</div>
+<!--ヘッダーここまで-->
+
+<!--コンテンツここから-->
+<div id="v3" class="v3">
+    <div class="c-breadcrumb">
+        <div class="c-breadcrumb__content">
+            <ol itemscope itemtype="http://schema.org/BreadcrumbList">
+                <li itemprop="itemListElement" itemscope
+                    itemtype="http://schema.org/ListItem" class="c-breadcrumb__item">
+                    <a itemprop="item" href="/">
+                        <span itemprop="name">TOP</span></a>
+                    <meta itemprop="position" content="1">
+                </li>
+                <li itemprop="itemListElement" itemscope
+                    itemtype="http://schema.org/ListItem" class="c-breadcrumb__item">
+                    <a itemprop="item" href="/ipv6/">
+                        <span itemprop="name">IPv6接続サービス</span></a>
+                    <meta itemprop="position" content="2">
+                </li>
+                <li itemprop="itemListElement" itemscope
+                    itemtype="http://schema.org/ListItem" class="c-breadcrumb__item">
+                    <h1 class="c-breadcrumb__page-title" itemprop="item"><span itemprop="name">NAT64/DNS64</span></h1>
+                    <meta itemprop="position" content="3">
+                </li>
+            </ol>
+        </div>
+    </div>
+    <main id="main" class="p-contents-order">
+        <div class="p-contents-order__main">
+            <div class="p-solution-number">
+                <span class="p-solution-number__label">解決ナンバー：31408</span>
+            </div>
+
+            <div class="c-section">
+                <div class="c-section__content">
+
+                    <p class="c-h c-h--lv1">NAT64/DNS64</p>
+
+
+                    <div class="u-mb30">
+                        <!-- div class="p-attention-panel u-mb30">
+                            <p>
+                            </p>
+                        </div-->
+                        <p class="u-mb30">
+                            NAT64/DNS64とは、特殊なIPv6アドレスを利用することでIPv6アドレスを持つ端末から、IPv4アドレスのみを持つサイトへアクセスを可能とする技術です。この技術により、混雑している従来のIPv4/PPPoE接続方式を使わず、IPv6/IPoE方式で大容量化されたネットワークに接続でき、快適に通信できます。
+                        </p>
+                        <ul class="c-col c-col--sp1 c-col--pc2 u-mb30 p-list">
+                            <li class="c-col__item c-col--sp1__item c-col--pc2__item">
+                                <a href="#a_nat64dns64" class="c-link-in-page" data-move-to="">NAT64/DNS64とは</a>
+                            </li>
+                            <li class="c-col__item c-col--sp1__item c-col--pc2__item">
+                                <a href="#a_condition" class="c-link-in-page" data-move-to="">ご利用条件</a>
+                            </li>
+                            <li class="c-col__item c-col--sp1__item c-col--pc2__item">
+                                <a href="#a_price" class="c-link-in-page" data-move-to="">ご利用料金</a>
+                            </li>
+                            <li class="c-col__item c-col--sp1__item c-col--pc2__item">
+                                <a href="#a_note" class="c-link-in-page" data-move-to="">注意事項</a>
+                            </li>
+                            <li class="c-col__item c-col--sp1__item c-col--pc2__item">
+                                <a href="#a_faq" class="c-link-in-page" data-move-to="">よくある質問</a>
+                            </li>
+                            <li class="c-col__item c-col--sp1__item c-col--pc2__item">
+                                <a href="#a_nat64onoff" class="c-link-in-page" data-move-to="">NAT64/DNS64の無効化</a>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <section id="a_nat64dns64" class="c-section">
+                        <div class="c-section__content">
+                            <h2 class="c-h c-h--lv2 u-mb30">NAT64/DNS64とは</h2>
+
+                                <div class="a_nat64dns64_panel u-mb30">
+                                    <div class="box-img">
+                                        <img src="/v3/image/ipv6/nat64/merit.png" alt="メリット">
+                                    </div>
+                                    <div class="box-text">
+                                        <p class="a_nat64dns64_headline">NAT64/DNS64はお客さまの設定不要・機器不要！<br class="u-hide-sp">手軽にIPv6 IPoE方式による快適な通信が可能になります。</p>
+                                    </div>
+                                </div>
+                            <div class="u-mb20">
+                                <p class="u-mb20">
+                                    通常のDNSサーバはIPv4アドレスしか持たないドメインに問い合わせがあった場合に、IPv4アドレスのみを回答します。<br>
+                                    一方、DNS64サーバはIPv4アドレスしか持たないドメインに問い合わせがあった場合に、IPv4アドレスと特殊なIPv6アドレスを回答します。
+                                </p>
+                                <div class="c-panel">
+                                    <div class="c-panel__content">
+                                        <div class="c-col c-col--sp1 c-col--pc2">
+                                            <div class="c-col__item c-col--sp1__item c-col--pc2__item u-align-center">
+                                                <p class="u-mb20 inner-text-gray">DNSによる名前解決</p>
+                                                <img src="/v3/image/ipv6/nat64/nat64-image1.png" alt="">
+                                            </div>
+                                            <div class="c-col__item c-col--sp1__item c-col--pc2__item c-col__item--fill u-align-center">
+                                                <p class="u-mb20 inner-text-red">DNS64による名前解決</p>
+                                                <img src="/v3/image/ipv6/nat64/nat64-image2.png" alt="">
+                                            </div>
+                                            </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="u-mb30">
+                                <p class="u-mb20">
+                                    NAT64は特殊なIPv6アドレスをIPv4アドレスに変換して、IPv6アドレスのみを持つ端末から、IPv4アドレスのみを持つサイトへアクセスさせます。
+                                </p>
+
+                                <div class="c-panel u-mb20">
+                                    <div class="c-panel__content">
+                                        <div class="c-col c-col--sp1 c-col--pc2">
+                                            <div class="c-col__item c-col--sp1__item c-col--pc2__item u-align-center">
+                                                <p class="u-mb20 inner-text-gray">IPv4によるアクセス</p>
+                                                <img src="/v3/image/ipv6/nat64/nat64-image3.png" alt="">
+                                            </div>
+                                            <div class="c-col__item c-col--sp1__item c-col--pc2__item c-col__item--fill u-align-center">
+                                                <p class="u-mb20 inner-text-red">NAT64によるアクセス</p>
+                                                <img src="/v3/image/ipv6/nat64/nat64-image4.png" alt="">
+                                            </div>
+                                            </div>
+                                    </div>
+                                </div>
+                                <ul class="c-list c-list--indicate">
+                                    <li>1 NGN（Next Generation Network／次世代ネットワーク）とは、電話網をIPをベースに作り変え、電話の他にインターネットアクセスやテレビ放送などにも利用できるようにしたネットワークのことを言います。
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="p-attention-panel">
+                                <p class="u-txt-size-x-large u-txt-weight-bold u-align-center u-mb30">
+                                    BIGLOBEでは
+                                </p>
+                                <p class="u-mb20">BIGLOBEではより良いインターネットのため、IPv6（Internet Protocol version 6）の普及を行っています</p>
+                                <p class="u-mb20">
+                                    現在、多くのお客さまにIPv6（IPv4/IPv6のデュアルスタック<sup>＊</sup>）でインターネットをご利用いただいています。<br>
+                                    BIGLOBEではさらなるIPv6の普及のため、IPv6移行技術として注目されているNAT64/DNS64を採用します。 <br>
+                                    NAT64/DNS64とPPPoE（またはMAP-E）を併用するIPv4/IPv6のデュアルスタック<sup>＊</sup>での提供になります。
+                                </p>
+                                <ul class="c-list c-list--indicate">
+                                    <li> 一つの機器にIPv4とIPv6を共存させる仕組み</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </section>
+
+                    <section id="a_condition" class="c-section">
+                        <h2 class="c-h c-h--lv2 u-mb30">ご利用条件</h2>
+                        <p class="u-mb20">IPv6オプションライトをお申し込みの方に、順次、NAT64/DNS64を適用します。適用の際はメールでご連絡します。</p>
+
+                        <table class="p-tbl p-tbl--row-header p-tbl--responsive p-tbl--vertical-centering p-tbl--header-centering p-tbl--one-third-header u-mb30">
+                            <tbody>
+                            <tr>
+                                <th>対象</th>
+                                <td><div class="u-mb10">「IPv6オプションライト」をご利用のお客さま</div>
+                                    <ul class="c-list c-list--note">
+                                        <li>BIGLOBE法人会員のお客さまは対象外です。</li>
+                                        <li>「IPv6オプション」でのご利用は、現在準備中です。</li>
+                                    </ul>
+                                </td>
+                            </tr>
+                            <tr>
+                                <th>対象コース</th>
+                                <td>
+                                    <ul class="c-list p-list">
+                                        <li>ビッグローブ光「ひかり」コース</li>
+                                        <li>「ひかり」コース with ドコモ光</li>
+                                        <li>BIGLOBE光パックNeo with フレッツ</li>
+                                        <li>BIGLOBE光 with フレッツ</li>
+                                        <li>「ひかり」/「Bフレッツ」コース</li>
+                                    </ul>
+                                </td>
+                            </tr>
+                            </tbody>
+                        </table>
+                        <p class="u-mb20">NAT64/DNS64は、IPv6での接続が必要になります。<br>
+                            以下の表示が「Connected via <span class="u-txt-weight-bold">IPv6</span>」になっていることをご確認ください。
+                        </p>
+                        <div class="c-panel">
+                            <dl class="c-panel__content">
+                                <dt class="u-txt-weight-bold u-mb20">現在の接続環境は<br class="u-hide-pc"><img class="v6-icon" src="https://v6.support.biglobe.ne.jp/cgi-bin/ipv6/huriwake.cgi" alt="">です</dt>
+                                <dd class="u-txt-size-small">
+                                    お客さまがどのネットワーク環境から接続しているかを示しています。<br>
+                                    ただし、パソコンの設定や環境によっては正しく表示されない場合もありますのでご了承ください。
+                                </dd>
+                            </dl>
+                        </div>
+                    </section>
+
+                    <section id="a_price" class="c-section">
+                        <h2 class="c-h c-h--lv2">ご利用料金</h2>
+
+                        <p>追加料金はかかりません。</p>
+                    </section>
+
+                    <section id="a_note" class="c-section">
+                        <h2 class="c-h c-h--lv2">注意事項</h2>
+
+                        <ul class="c-list p-list">
+                            <li>本機能は通信環境の向上を保証するものではありません。</li>
+                            <li>セキュリティ対策ソフトとの組み合わせで一部通信が遅延する場合があります。</li>
+                            <li>IPv6オプションライトを解約された場合、NAT64/DNS64も無効になります。</li>
+                            <li>下記のサービスが利用できなくなる場合があります。<br>
+                                <ul class="c-list c-list--indicate">
+                                    <li>送信元IPv4アドレスで認証や確認をするサービス</li>
+                                    <li>固定IPアドレス</li>
+                                    <li>ダイナミックDNS</li>
+                                    <li>IPv6未対応メールソフト</li>
+                                    <li>接続先をホスト名に指定したVPN、シンクライアント</li>
+                                </ul>
+                            </li>
+                            <li>NAT64/DNS64を利用しても、接続先によってはNAT64/DNS64で接続できない場合があります。その際はPPPoE（またはMAP-E）での接続となります。</li>
+                        </ul>
+                    </section>
+                </div>
+                <div class="c-section__content">
+                    <section id="a_faq" class="c-section">
+                        <h2 id="router" class="c-h c-h--lv2 u-mb30">よくある質問</h2>
+
+                        <dl class="p-faq-list">
+                            <dt class="p-faq-list__item p-faq-list__item--q">
+                                <span class="p-faq-list__item__content">NAT64/DNS64は、MAP-Eとは何が違うのでしょうか？</span>
+                            </dt>
+                            <dd class="p-faq-list__item p-faq-list__item--a">
+                                <div class="p-faq-list__item__content"><span
+                                        class="u-txt-weight-bold">接続機器(無線LAN付き)、ひかり電話ルータ等の専用機器がなくても、IPv6接続(IPoE方式)のインターネット接続が利用できます。</span>
+                                </div>
+                            </dd>
+                            <dt class="p-faq-list__item p-faq-list__item--q"><span class="p-faq-list__item__content">NAT64/DNS64は、なぜ通信速度が改善できるのですか？</span>
+                            </dt>
+                            <dd class="p-faq-list__item p-faq-list__item--a">
+                                <div class="p-faq-list__item__content">
+                                    <span class="u-txt-weight-bold">IPv6接続(IPoE方式)の接続になるため、回線の混雑を回避し改善が期待できます。</span>
+                                </div>
+                            </dd>
+                            <dt class="p-faq-list__item p-faq-list__item--q"><span class="p-faq-list__item__content">NAT64/DNS64が適用されると、どの環境でも通信速度が改善されるのですか？</span>
+                            </dt>
+                            <dd class="p-faq-list__item p-faq-list__item--a">
+                                <div class="p-faq-list__item__content">
+                                    <span class="u-txt-weight-bold">IPv6対応端末のIPv4通信がIPv6接続(IPoE方式)での通信となるため、通信速度の改善が期待できます。IPv4のみの端末は従来通りPPPoE方式による接続になります。</span>
+                                </div>
+                            </dd>
+                            <dt class="p-faq-list__item p-faq-list__item--q"><span class="p-faq-list__item__content">NAT64/DNS64の適用にデメリットはありますか？</span>
+                            </dt>
+                            <dd class="p-faq-list__item p-faq-list__item--a">
+                                <div class="p-faq-list__item__content">
+                                    <span class="u-txt-weight-bold">IPv4アドレスが共有になります。現在はほとんどありませんが、複数のユーザでIPアドレスを共有するサービスは利用できません。</span>
+                                </div>
+                            </dd>
+                            <dt class="p-faq-list__item p-faq-list__item--q"><span class="p-faq-list__item__content">NAT64/DNS64を適用しましたが、解除したいです。</span>
+                            </dt>
+                            <dd class="p-faq-list__item p-faq-list__item--a">
+                                <div class="p-faq-list__item__content"><span
+                                        class="u-txt-weight-bold">以下から変更してください。NAT64/DNS64を解除いたします。</span><br>
+                                    <a class="c-link c-link-detail c-link-icon" href="#a_nat64onoff" data-move-to="">NAT64/DNS64の無効化</a></div>
+                            </dd>
+                            <dt class="p-faq-list__item p-faq-list__item--q"><span class="p-faq-list__item__content">NAT64/DNS64適用後に、NAT64/DNS64で接続できているかを確認できますか？</span>
+                            </dt>
+                            <dd class="p-faq-list__item p-faq-list__item--a">
+                                <div class="p-faq-list__item__content"><span
+                                        class="u-txt-weight-bold">NAT64/DNS64適用完了のメール受信後に、以下のページからご確認をお願いします。</span><br>
+                                    <a class="c-link c-link-detail" href="/ipv6/nat64-normality.html">「NAT64/DNS64」正常性確認</a></div>
+                            </dd>
+                            <!--dt class="p-faq-list__item p-faq-list__item--q"><span class="p-faq-list__item__content">NAT64/DNS64適用前から設定されているIPアドレスを確認したいです。</span>
+                            </dt>
+                            <dd class="p-faq-list__item p-faq-list__item--a">
+                                <div class="p-faq-list__item__content"><span
+                                        class="u-txt-weight-bold">以下のページからご確認をお願いします。WEBカメラなどIPアドレスとポートを指定する機器やソフトウェアをご利用される場合は、こちらで確認頂いたIPアドレスを設定してください。</span><br>
+                                    <a href="http://133.208.41.250/cgi-bin/cfs" class="c-link c-link-detail c-link-icon c-link-icon--jump" target="_blank">NAT64/DNS64適用前のIPアドレスの確認</a></div>
+                            </dd-->
+                            <dt class="p-faq-list__item p-faq-list__item--q"><span class="p-faq-list__item__content">NAT64/DNS64適用後に、SSH接続が切れるようになりました。</span>
+                            </dt>
+                            <dd class="p-faq-list__item p-faq-list__item--a">
+                                <div class="p-faq-list__item__content"><span class="u-txt-weight-bold">無通信状態が継続したときには、SSH接続が切れる場合があります。接続に利用しているソフトウェアのkeep-alive機能を有効にしてください。</span></div>
+                            </dd>
+                        </dl>
+                    </section>
+                    <section id="a_nat64onoff" class="c-section">
+                        <div class="c-section__content">
+                            <h2 class="c-h c-h--lv2">NAT64/DNS64の無効化</h2>
+                            <p class="u-mb20">NAT64/DNS64を適応した後の［無効化<!--（または有効化）-->］は、以下のボタンより変更してください。</p>
+                            <ul class="c-list c-list--note u-mb30">
+                                <li>NAT64/DNS64を適応していない方は［無効化／有効化］切り替えのご利用はできません。</li>
+                                <li class="c-strong">現在、NAT64/DNS64の［有効化］は準備中です。</li>
+                            </ul>
+                            <div class="c-section__content">
+                                <a href="https://order.sso.biglobe.ne.jp/fixed/verified/ipv6/nat64/deactivate/init" class="c-btn c-btn--action c-btn--icon"><img src="/v3/image/icon/small-icon-lock-white.svg" alt="" class="c-btn--icon__img">NAT64/DNS64の［無効化］</a>
+                            </div>
+                        </div>
+                    </section>
+                </div>
+
+            </div>
+            <section class="p-related-links u-mb30">
+                <div class="p-related-links__content">
+
+                    <h2 class="c-h c-h--lv3">関連リンク</h2>
+                    <ul class="p-list">
+                        <li>
+                            <a class="c-link c-link-detail" href="/ipv6/">
+                                IPv6接続サービス
+                            </a>
+                        </li>
+                        <li>
+                            <a class="c-link c-link-detail"
+                               href="/ipv6/lite.html">
+                                IPv6オプションライト
+                            </a>
+                        </li>
+                        <li>
+                            <a class="c-link c-link-detail" href="/ipv6/option.html">
+                                IPv6オプション
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </section>
+
+        </div>
+        <!-- 解決ナビここから -->
+        <div class="p-contents-order__marin-search">
+            <!--#include virtual="/v3/ssi/marin-search.html"-->
+        </div>
+        <!-- 解決ナビここまで -->
+        <!-- ミニアンケートここから -->
+        <div class="p-contents-order__mini-questionnaire">
+            <!--#include virtual="/v3/ssi/mini-questionnaire.html"-->
+        </div>
+        <!-- ミニアンケートここまで -->
+    </main>
+</div>
+<!--コンテンツここまで-->
+
+<!--フッターここから-->
+<div class="p-outer-footer">
+    <!--#include virtual="/v3/ssi/footer.html"-->
+</div>
+<script src="/v3/js/common.js" charset="utf-8"></script>
+
+</body>
+</html>

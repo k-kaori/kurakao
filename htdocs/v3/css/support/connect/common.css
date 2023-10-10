@@ -1,0 +1,57 @@
+@charset "UTF-8";
+
+/* -------------------------------------
+  connect配下共用スタイル
+-------------------------------------- */
+
+/* -------------------------------------
+　PC
+-------------------------------------- */
+@media (min-width: 768px) {
+    .appeal-point {
+        display: table;
+        border-collapse: collapse;
+        table-layout: fixed;
+    }
+
+    .appeal-point__icon {
+        display: table-cell;
+        vertical-align: top;
+        width: 20%;
+        padding: 10px 0;
+        text-align: center;
+    }
+
+    .appeal-point__icon img {
+        max-height: 100px;
+    }
+
+    .appeal-point__content {
+        display: table-cell;
+        vertical-align: top;
+        padding-left: 20px;
+    }
+}
+
+/* -------------------------------------
+　モバイル 768px未満
+-------------------------------------- */
+@media (max-width: 767px) {
+    .appeal-point {
+        display: block;
+    }
+
+    .appeal-point__icon {
+        display: block;
+        margin-bottom: 10px;
+        text-align: center;
+    }
+
+    .appeal-point__icon img {
+        max-height: 100px;
+    }
+
+    .appeal-point__content {
+        display: block;
+    }
+}

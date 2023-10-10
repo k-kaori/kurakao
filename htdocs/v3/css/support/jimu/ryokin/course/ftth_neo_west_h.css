@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+/* -------------------------------------
+Å@PC
+-------------------------------------- */
+@media (min-width: 768px) {
+    .indent_list {
+        text-indent: -11.5em;
+        margin-left: 11.5em;
+    }
+}

@@ -1,0 +1,412 @@
+[
+  {
+    "date": "2020.3.16",
+    "href": "/news/news667.html",
+    "text": "【重要】新型コロナウイルスに乗じた「フィッシング詐欺」にご注意ください",
+    "step_out": false,
+    "updated": false,
+    "groups": []
+  },
+  {
+    "date": "2020.3.6",
+    "href": "/news/news652.html",
+    "text": "【重要】ダイヤルアップ接続アクセスポイント終了のお知らせ",
+    "step_out": false,
+    "updated": true,
+    "groups": []
+  },
+  {
+    "date": "2020.3.3",
+    "href": "/news/news614.html",
+    "text": "【重要】「BIGLOBE WiMAX」サービス提供終了および「BIGLOBE WiMAX 2+」サービス内容変更のお知らせ",
+    "step_out": false,
+    "updated": true,
+    "groups": []
+  },
+  {
+    "date": "2020.2.27",
+    "href": "/news/news663.html",
+    "text": "【お知らせ】BIGLOBEでんき ポイント還元率の変更について",
+    "step_out": false,
+    "updated": false,
+    "groups": []
+  },
+  {
+    "date": "2020.2.6",
+    "href": "/news/news664.html",
+    "text": "【重要】セキュリティ対策ツール（NTT西日本提供）提供終了のお知らせ",
+    "step_out": false,
+    "updated": false,
+    "groups": []
+  },
+  {
+    "date": "2020.1.30",
+    "href": "https://join.biglobe.ne.jp/mobile/device/index.html",
+    "text": "【お知らせ】BIGLOBEモバイル 新スマホ（3機種）発売開始",
+    "step_out": false,
+    "updated": false,
+    "groups": [
+      "lte","lte_device"
+    ]
+  },
+  {
+    "date": "2020.1.17",
+    "href": "/news/news662.html",
+    "text": "【重要】NTT東日本提供「Bフレッツ ニューファミリータイプ」サービス終了にともなう手続きのお知らせ",
+    "step_out": false,
+    "updated": false,
+    "groups": []
+  },
+  {
+    "date": "2020.1.14",
+    "href": "/news/news661.html",
+    "text": "【お知らせ】Windows 7のサポート終了による最新版Windowsへの移行のお願い",
+    "step_out": false,
+    "updated": false,
+    "groups": []
+  },
+  {
+    "date": "2019.12.19",
+    "href": "/news/news660.html",
+    "text": "【お知らせ】「BIGLOBE WiMAX 2+」SIM(UIM)カードのみ申込受付開始／「ギガ放題(1年)」プラン変更受付開始について",
+    "step_out": false,
+    "updated": false,
+    "groups": []
+  },
+  {
+    "date": "2019.12.13",
+    "href": "/news/news657.html",
+    "text": "【お知らせ】iPhone 6／iPhone 6 plusでのBIGLOBEモバイル タイプAの利用不可について",
+    "step_out": false,
+    "updated": true,
+    "groups": [
+      "lte"
+    ]
+  },
+  {
+    "date": "2019.12.12",
+    "href": "/news/news659.html",
+    "text": "【お知らせ】BIGLOBEモバイル「エンタメフリー・オプション」対象サービス追加について",
+    "step_out": false,
+    "updated": false,
+    "groups": []
+  },
+  {
+    "date": "2019.12.9",
+    "href": "/news/news658.html",
+    "text": "【重要】BIGLOBE Wi-Fi 提供サービスエリア変更のお知らせ",
+    "step_out": false,
+    "updated": false,
+    "groups": []
+  },
+  {
+    "date": "2019.12.2",
+    "href": "https://join.biglobe.ne.jp/mobile/device/index.html",
+    "text": "【お知らせ】BIGLOBEモバイル 新端末（スマホ4機種・タブレット1機種）発売開始",
+    "step_out": false,
+    "updated": false,
+    "groups": [
+      "lte"
+    ]
+  },
+  {
+    "date": "2019.12.2",
+    "href": "/news/news653.html",
+    "text": "【お知らせ】ユニバーサルサービス料の改定について（2020年1月～）",
+    "step_out": false,
+    "updated": false,
+    "groups": []
+  },
+  {
+    "date": "2019.11.18",
+    "href": "/news/news654.html",
+    "text": "【重要】請求会社変更に関するお知らせ（NTTグループカードでお支払いのお客さま）",
+    "step_out": false,
+    "updated": false,
+    "groups": []
+  },
+  {
+    "date": "2019.11.18",
+    "href": "/news/news655.html",
+    "text": "【重要】BIGLOBE提携カード割引の終了／請求会社変更に関するお知らせ",
+    "step_out": false,
+    "updated": false,
+    "groups": []
+  },
+  {
+    "date": "2019.11.7",
+    "href": "/news/news656.html",
+    "text": "【重要】ジー・プラン株式会社による抽選およびポイント付与の不実施に関するお詫びとお知らせ",
+    "step_out": false,
+    "updated": false,
+    "groups": []
+  },
+  {
+    "date": "2019.11.1",
+    "href": "https://join.biglobe.ne.jp/mobile/device/index.html",
+    "text": "【お知らせ】BIGLOBEモバイル 新スマホ（2機種）発売開始",
+    "step_out": false,
+    "updated": false,
+    "groups": [
+      "lte","lte_device"
+    ]
+  },
+  {
+    "date": "2019.10.31",
+    "href": "/news/news626.html",
+    "text": "【重要】請求会社変更に関するお知らせ（クレジットカードでお支払いのお客さま）",
+    "step_out": false,
+    "updated": true,
+    "groups": []
+  },
+  {
+    "date": "2019.10.16",
+    "href": "/news/news356.html",
+    "text": "【重要】BIGLOBEメールのログインページを装う不正な偽サイト（フィッシングサイト）にご注意ください",
+    "step_out": false,
+    "updated": true,
+    "groups": []
+  },
+  {
+    "date": "2019.10.4",
+    "href": "/news/news650.html",
+    "text": "【お知らせ】令和元年台風第15号の影響による停電に対するBIGLOBEの支援について",
+    "step_out": false,
+    "updated": true,
+    "groups": []
+  },
+  {
+    "date": "2019.9.27",
+    "href": "/news/news651.html",
+    "text": "【お知らせ】BIGLOBEモバイル 一部料金の改定について",
+    "step_out": false,
+    "updated": false,
+    "groups": [
+      "lte"
+    ]
+  },
+  {
+    "date": "2019.9.25",
+    "href": "/news/news646.html",
+    "text": "【お知らせ】「BIGLOBE WiMAX 2+」新プラン開始／一部プラン受付終了について",
+    "step_out": false,
+    "updated": false,
+    "groups": []
+  },
+  {
+    "date": "2019.9.20",
+    "href": "/news/news642.html",
+    "text": "【お知らせ】BIGLOBEモバイル アシストパック受付終了と今後の端末購入について",
+    "step_out": false,
+    "updated": false,
+    "groups": [
+      "lte"
+    ]
+  },
+  {
+    "date": "2019.9.18",
+    "href": "/news/news647.html",
+    "text": "【お知らせ】会員特典「びっぷるメンバープログラム」一部変更について",
+    "step_out": false,
+    "updated": false,
+    "groups": []
+  },
+  {
+    "date": "2019.9.13",
+    "href": "/news/news648.html",
+    "text": "【重要】お問い合わせ窓口の変更について（2019年10月1日～）",
+    "step_out": false,
+    "updated": false,
+    "groups": []
+  },
+  {
+    "date": "2019.9.13",
+    "href": "/news/news649.html",
+    "text": "【お知らせ】令和元年台風第15号によるBIGLOBEサービスの影響について",
+    "step_out": false,
+    "updated": false,
+    "groups": []
+  },
+  {
+    "date": "2019.9.2",
+    "href": "/news/news645.html",
+    "text": "【重要】消費税率変更についてのご案内",
+    "step_out": false,
+    "updated": false,
+    "groups": [
+      "lte", "lte_device"
+    ]
+  },
+  {
+    "date": "2019.9.2",
+    "href": "/news/news644.html",
+    "text": "【重要】BIGLOBE 電話で入会センターの受付時間変更について（2019年10月1日～）",
+    "step_out": false,
+    "updated": false,
+    "groups": []
+  },
+  {
+    "date": "2019.8.28",
+    "href": "/news/news643.html",
+    "text": "令和元年8月の前線に伴う大雨による災害に対するBIGLOBEサービスの影響について",
+    "step_out": false,
+    "updated": false,
+    "groups": [
+      "relief"
+    ]
+  },
+  {
+    "date": "2019.8.26",
+    "href": "/news/news641.html",
+    "text": "【お知らせ】BIGLOBEモバイル「エンタメフリー・オプション」対象サービス追加について",
+    "step_out": false,
+    "updated": false,
+    "groups": [
+      "lte"
+    ]
+  },
+  {
+    "date": "2019.8.20",
+    "href": "/kiyaku/youten190820.html",
+    "text": "BIGLOBE会員規約改定のお知らせ（2019年8月20日施行）",
+    "step_out": false,
+    "updated": true,
+    "groups": []
+  },
+  {
+    "date": "2019.8.8",
+    "href": "https://join.biglobe.ne.jp/mobile/device/index.html",
+    "text": "【お知らせ】BIGLOBEモバイル 新スマホ（2機種）発売開始",
+    "step_out": false,
+    "updated": false,
+    "groups": [
+      "lte","lte_device"
+    ]
+  },
+  {
+    "date": "2019.8.5",
+    "href": "/news/news638.html",
+    "text": "【重要】ビッグローブ光電話「ひかり電話対応機器」の脆弱性とその対策について",
+    "step_out": false,
+    "updated": false,
+    "groups": [
+      "bighikari"
+    ]
+  },
+  {
+    "date": "2019.7.26",
+    "href": "/news/news640.html",
+    "text": "【重要】KDDI請求ご利用時の口座振替・自動払込手数料の有償化について",
+    "step_out": false,
+    "updated": false,
+    "groups": []
+  },
+  {
+    "date": "2019.7.9",
+    "href": "/news/news637.html",
+    "text": "【重要】請求会社変更に関するお知らせ（口座振替/自動払込でお支払いのお客さま）",
+    "step_out": false,
+    "updated": true,
+    "groups": []
+  },
+  {
+    "date": "2019.7.8",
+    "href": "/news/news639.html",
+    "text": "【お知らせ】メールウイルスチェック 動作不備のお詫びについて",
+    "step_out": false,
+    "updated": false,
+    "groups": []
+  },
+  {
+    "date": "2019.6.17",
+    "href": "/news/news635.html",
+    "text": "【お知らせ】「BIGLOBE光 auひかり」コース ホームタイプ(ギガ得／ずっとギガ得) 契約更新期間月の2カ月化について",
+    "step_out": false,
+    "updated": false,
+    "groups": []
+  },
+  {
+    "date": "2019.6.14",
+    "href": "/kiyaku/youten190614.html",
+    "text": "BIGLOBE会員規約改定のお知らせ（2019年6月14日施行）",
+    "step_out": false,
+    "updated": true,
+    "groups": []
+  },
+  {
+    "date": "2019.6.12",
+    "href": "/news/news636.html",
+    "text": "【お知らせ】G20大阪サミットにともなう交通規制の影響による発送物の遅延について",
+    "step_out": false,
+    "updated": false,
+    "groups": []
+  },
+  {
+    "date": "2019.6.5",
+    "href": "/news/news634.html",
+    "text": "【重要】請求会社変更に関するお知らせ（ドコモ光のお客さま）",
+    "step_out": false,
+    "updated": false,
+    "groups": []
+  },
+  {
+    "date": "2019.6.5",
+    "href": "/news/news632.html",
+    "text": "【お知らせ】ユニバーサルサービス料の改定について（2019年7月～）",
+    "step_out": false,
+    "updated": false,
+    "groups": []
+  },
+  {
+    "date": "2019.5.21",
+    "href": "/news/news456.html",
+    "text": "【お知らせ】BIGLOBEモバイルのネットワーク帯域を増強しています",
+    "step_out": false,
+    "updated": true,
+    "groups": [
+      "lte"
+    ]
+  },
+  {
+    "date": "2019.4.26",
+    "href": "/news/news633.html",
+    "text": "【お知らせ】一部のバッファロー製ルータのファームウェア更新によるインターネット接続不可について",
+    "step_out": false,
+    "updated": false,
+    "groups": []
+  },
+  {
+    "date": "2019.4.23",
+    "href": "/news/news631.html",
+    "text": "【お知らせ】2019年春の大型連休期間中の発送物について",
+    "step_out": false,
+    "updated": false,
+    "groups": []
+  },
+  {
+    "date": "2019.4.22",
+    "href": "/news/news630.html",
+    "text": "【お知らせ】各種ログインページの暗号化技術「3DES」の脆弱性対応について",
+    "step_out": false,
+    "updated": false,
+    "groups": []
+  },
+  {
+    "date": "2019.4.12",
+    "href": "/news/news629.html",
+    "text": "【重要】改元に便乗した「フィッシング詐欺」にご注意ください",
+    "step_out": false,
+    "updated": false,
+    "groups": []
+  },
+  {
+    "date": "2019.4.4",
+    "href": "https://join.biglobe.ne.jp/mobile/device/index.html",
+    "text": "【お知らせ】BIGLOBEモバイル 新スマホ（2機種）発売開始",
+    "step_out": false,
+    "updated": false,
+    "groups": [
+      "lte","lte_device"
+    ]
+  }
+]

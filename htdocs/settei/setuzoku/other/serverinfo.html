@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="format-detection" content="telephone=no">
+    <title>サーバ情報一覧：BIGLOBE会員サポート</title>
+    <meta name="keywords"
+          content="BIGLOBE会員サポート">
+    <meta name="description" content="">
+    <link rel="canonical" href="https://support.biglobe.ne.jp/settei/setuzoku/other/serverinfo.html">
+    <!--#include virtual="/v3/ssi/favicon.html"-->
+
+    <link rel="stylesheet" href="/v3/css/common.css">
+    <link rel="stylesheet" href="/v3/css/support/common.css">
+    <script src="/v3/js/libs/jquery-3.5.1.min.js" charset="utf-8"></script>
+</head>
+
+<body>
+<!--ヘッダーここから-->
+<div id="v3-header">
+    <div class="c-v3-header--page-support">
+        <!--#include virtual="/v3/ssi/header.html"-->
+        <!--ssi-->
+    </div>
+</div>
+<!--ヘッダーここまで-->
+
+<!--コンテンツここから-->
+<div id="v3" class="v3">
+    <div class="c-breadcrumb">
+        <div class="c-breadcrumb__content">
+            <ol itemscope itemtype="http://schema.org/BreadcrumbList">
+                <li itemprop="itemListElement" itemscope
+                    itemtype="http://schema.org/ListItem" class="c-breadcrumb__item">
+                    <a itemprop="item" href="/">
+                        <span itemprop="name">TOP</span></a>
+                    <meta itemprop="position" content="1">
+                </li>
+                <li itemprop="itemListElement" itemscope
+                    itemtype="http://schema.org/ListItem" class="c-breadcrumb__item">
+                    <a itemprop="item" href="/settei/">
+                        <span itemprop="name">各種設定方法</span></a>
+                    <meta itemprop="position" content="2">
+                </li>
+                <li itemprop="itemListElement" itemscope
+                    itemtype="http://schema.org/ListItem" class="c-breadcrumb__item">
+                    <a itemprop="item" href="/settei/setuzoku/">
+                        <span itemprop="name">インターネット接続設定</span></a>
+                    <meta itemprop="position" content="3">
+                </li>
+                <li itemprop="itemListElement" itemscope
+                    itemtype="http://schema.org/ListItem" class="c-breadcrumb__item">
+                    <h1 class="c-breadcrumb__page-title" itemprop="item"><span itemprop="name">サーバ情報一覧</span></h1>
+                    <meta itemprop="position" content="4">
+                </li>
+            </ol>
+        </div>
+    </div>
+    <main id="main" class="p-contents-order">
+        <div class="p-contents-order__main">
+            <div class="p-solution-number">
+                <span class="p-solution-number__label">解決ナンバー：22086</span>
+            </div>
+
+            <div class="c-section">
+                <div class="c-section__content">
+                    <p class="c-h c-h--lv1">サーバ情報一覧</p>
+                    <section class="c-section">
+                        <h2 class="c-h c-h--lv2">DNSサーバ</h2>
+                        <p class="u-mb30">基本的には、DNSサーバの設定はいりません。必要に合わせて、以下の設定をしてください。</p>
+                        <table class="p-tbl p-tbl--row-header p-tbl--header-centering u-mb20">
+                            <tbody>
+                            <tr>
+                                <th>DNSプライマリ</th>
+                                <td class="u-align-center">210.147.235.3</td>
+                            </tr>
+                            <tr>
+                                <th>DNSセカンダリ</th>
+                                <td class="u-align-center">133.205.66.51</td>
+                            </tr>
+                            </tbody>
+                        </table>
+                        <ul class="c-list c-list--note u-mb20">
+                            <li>
+                                「コミュファ光」回線で接続する場合は、上記DNSサーバの設定は利用できません。（インターネットに接続できなくなります。）<br>
+                                DNSサーバの設定は「自動取得」にしてください。
+                            </li>
+                            <li>
+                                DNSSEC<sup>＊</sup>を導入したサイトの検証をするには、DNSサーバの設定を以下のとおり変更してください。<br>
+                                <ul class="c-list">
+                                    <li>DNSプライマリ：210.147.235.4</li>
+                                    <li>DNSセカンダリ：133.205.66.52</li>
+                                </ul>
+                            </li>
+                        </ul>
+                        <ul class="c-list c-list--indicate">
+                            <li>DNSSECについては、<a href="https://jprs.co.jp/press/2011/110117.html" class="c-link-icon c-link-icon--jump" target="_blank">株式会社日本レジストリサービス</a>のサイトをご覧ください。</li>
+                        </ul>
+                    </section>
+                    <section class="c-section">
+                        <h2 class="c-h c-h--lv2">WWWサーバ</h2>
+                        <p class="u-mb30">BIGLOBEのホームページのアドレスは、以下になります。</p>
+                        <table class="p-tbl p-tbl--header-centering p-tbl--vertical-centering p-tbl--row-header">
+                            <tr>
+                                <th>アドレス</th>
+                                <td class="u-align-center">www.biglobe.ne.jp</td>
+                            </tr>
+                        </table>
+                    </section>
+                    <section class="c-section">
+                        <h2 class="c-h c-h--lv2">メールサーバ</h2>
+                        <p class="u-mb30">BIGLOBEメールのメールアドレスをお持ちの方は、以下になります。</p>
+                        <table class="p-tbl p-tbl--row-header p-tbl--header-centering p-tbl--vertical-centering">
+                            <tbody>
+                            <tr>
+                                <th>受信メールサーバ（POP3）</th>
+                                <td class="u-align-center">mail.biglobe.ne.jp</td>
+                            </tr>
+                            <tr>
+                                <th>送信メールサーバ（SMTP）</th>
+                                <td class="u-align-center">mail.biglobe.ne.jp</td>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </section>
+                    <section class="c-section">
+                        <h2 class="c-h c-h--lv2">Proxyサーバ</h2>
+                        <p>
+                            現在、プロキシサーバのご利用は推奨しておりません。<br>
+                            プロキシサーバをご利用いただかなくてもWEBサーバの速度は十分に確保されるようになっております。
+                        </p>
+                    </section>
+                </div>
+            </div>
+        </div>
+        <!-- 解決ナビここから -->
+        <div class="p-contents-order__marin-search">
+            <!--#include virtual="/v3/ssi/marin-search.html"-->
+        </div>
+        <!-- 解決ナビここまで -->
+        <!-- ミニアンケートここから -->
+        <div class="p-contents-order__mini-questionnaire">
+            <!--#include virtual="/v3/ssi/mini-questionnaire.html"-->
+        </div>
+        <!-- ミニアンケートここまで -->
+    </main>
+</div>
+<!--コンテンツここまで-->
+
+<!--フッターここから-->
+<div class="p-outer-footer">
+    <!--#include virtual="/v3/ssi/footer.html"-->
+</div>
+<script src="/v3/js/common.js" charset="utf-8"></script>
+
+</body>
+</html>

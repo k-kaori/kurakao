@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="format-detection" content="telephone=no">
+    <title>「NAT64/DNS64」正常性確認：BIGLOBE会員サポート</title>
+    <meta name="keywords"
+          content="BIGLOBE会員サポート">
+    <meta name="description" content="">
+    <meta name="robots" content="noindex, follow">
+    <!-- Nosearch support -->
+    <link rel="canonical" href="https://support.biglobe.ne.jp/ipv6/nat64-normality.html">
+    <!--#include virtual="/v3/ssi/favicon.html"-->
+
+    <link rel="stylesheet" href="/v3/css/common.css">
+    <link rel="stylesheet" href="/v3/css/support/common.css">
+    <link rel="stylesheet" href="/v3/css/support/ipv6/common.css">
+    <link rel="stylesheet" href="/v3/css/support/ipv6/nat64-normality.css">
+    <script src="/v3/js/libs/jquery-3.5.1.min.js" charset="utf-8"></script>
+</head>
+
+<body>
+<!--ヘッダーここから-->
+<div id="v3-header">
+    <div class="c-v3-header--page-support">
+        <!--#include virtual="/v3/ssi/header.html"-->
+        <!--ssi-->
+    </div>
+</div>
+<!--ヘッダーここまで-->
+
+<!--コンテンツここから-->
+<div id="v3" class="v3">
+    <div class="c-breadcrumb">
+        <div class="c-breadcrumb__content">
+            <ol itemscope itemtype="http://schema.org/BreadcrumbList">
+                <li itemprop="itemListElement" itemscope
+                    itemtype="http://schema.org/ListItem" class="c-breadcrumb__item">
+                    <a itemprop="item" href="/">
+                        <span itemprop="name">TOP</span></a>
+                    <meta itemprop="position" content="1">
+                </li>
+                <li itemprop="itemListElement" itemscope
+                    itemtype="http://schema.org/ListItem" class="c-breadcrumb__item">
+                    <a itemprop="item" href="/ipv6/">
+                        <span itemprop="name">IPv6接続サービス</span></a>
+                    <meta itemprop="position" content="2">
+                </li>
+                <li itemprop="itemListElement" itemscope
+                    itemtype="http://schema.org/ListItem" class="c-breadcrumb__item">
+                    <h1 class="c-breadcrumb__page-title" itemprop="item"><span itemprop="name">「NAT64/DNS64」正常性確認</span></h1>
+                    <meta itemprop="position" content="3">
+                </li>
+            </ol>
+        </div>
+    </div>
+    <main id="main" class="p-contents-order">
+        <div class="p-contents-order__main">
+
+            <div class="c-section">
+                <div class="c-section__content">
+
+                    <p class="c-h c-h--lv1">「NAT64/DNS64」正常性確認</p>
+                    <div class="u-mb30">
+                        <p class="u-mb20">
+                            「NAT64/DNS64」機能が有効になっているかを確認する手順をご案内します。
+                        </p>
+                        <ul class="c-list c-list--note u-mb30">
+                            <li>この確認は、必ず「NAT64/DNS64適用完了メール受信後」に実施してください。適応完了前は正しい結果になりません。</li>
+                        </ul>
+                        <ul class="p-list">
+                            <li>
+                                <a href="#step1" class="c-link-in-page" data-move-to>手順1：IPv6接続の確認</a>
+                            </li>
+                            <li>
+                                <a href="#step2" class="c-link-in-page" data-move-to>手順2：NAT64/DNS64接続の確認</a>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <section id="step1" class="c-section">
+                        <div class="c-section__content">
+                            <h2 class="c-h c-h--lv2 u-mb30">手順1：IPv6接続の確認</h2>
+
+                            <p class="u-mb20">以下に表示されている「現在の接続環境」の内容をご確認ください。</p>
+                            <div class="u-mb30 c-panel">
+                                <dl class="c-panel__content">
+                                    <dt class="u-txt-weight-bold u-mb20">現在の接続環境は<br class="u-hide-pc"><img class="v6-icon" src="https://v6.support.biglobe.ne.jp/cgi-bin/ipv6/huriwake.cgi" alt="">です</dt>
+                                    <dd>
+                                        お客さまがどのネットワーク環境から接続しているかを示しています。<br>
+                                        ただし、パソコンの設定や環境によっては正しく表示されない場合もありますのでご了承ください。
+                                    </dd>
+                                </dl>
+                            </div>
+                            <table class="p-tbl p-tbl--col-header p-tbl--header-centering p-tbl--vertical-centering">
+                                <thead>
+                                    <tr>
+                                        <th>表示される内容</th>
+                                        <th>次の手順</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <th>Connected via IPv6</th>
+                                        <td>IPv6接続ができています。【<a href="#step2" data-move-to>手順2へ</a>】</td>
+                                    </tr>
+                                    <tr>
+                                        <th>Connected via IPv4</th>
+                                        <td>IPv6接続ができていません。【以下のページで確認】<br>
+                                            <a href="https://faq.support.biglobe.ne.jp/faq_detail.html?faq_id=10610" class="c-link c-link-detail">IPv6接続ができるオプションサービスを利用していてもIPv6接続にならない理由を知りたい</a>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </section>
+
+                    <section class="c-section" id="step2">
+                        <div class="c-section__content">
+                            <h2 class="c-h c-h--lv2">手順2：NAT64/DNS64接続の確認</h2>
+
+                            <p class="u-mb30">IPv4アドレスのドメイン名を以下の手順で確認してください。</p>
+                            <section class="u-mb30">
+                                <h3 class="c-step-title">
+                                    <span class="c-step-title__head"><span class="c-step-title__head__content">手順<span class="c-step-title__number">2-1</span></span></span>
+                                    <span class="c-step-title__body"><span class="c-step-title__body__content">判定ページを表示して「判定開始」をクリック</span></span>
+                                </h3>
+
+                                <div class="c-col c-col--sp1 c-col--pc2">
+                                    <div class="c-col__item c-col--sp1__item c-col--pc2__item u-mb30">
+                                        <p class="u-align-center p-image-frame">
+                                            <img src="/v3/image/ipv6/nat64-normality/normality-image01.png" alt="確認手順2-1">
+                                        </p>
+                                    </div>
+                                    <div class="c-col__item c-col--sp1__item c-col--pc2__item c-col__item--fill u-mb30">
+                                        <p>下記のサイトにアクセスして［判定開始］ボタンを押してください。<br>
+                                            <a href="http://ipv6check.biglobe.ne.jp/" class="c-link c-link-detail c-link-icon c-link-icon--jump" target="_blank">IPv4/IPv6接続判定ページ</a>
+                                        </p>
+                                    </div>
+                                </div>
+                            </section>
+
+                            <section class="u-mb30">
+                                <h3 class="c-step-title">
+                                    <span class="c-step-title__head"><span class="c-step-title__head__content">手順<span class="c-step-title__number">2-2</span></span></span>
+                                    <span class="c-step-title__body"><span class="c-step-title__body__content">試験結果表示のIPv4アドレスのドメイン名を確認</span></span>
+                                </h3>
+
+                                <div class="u-align-center p-image-frame u-mb20">
+                                    <img src="/v3/image/ipv6/nat64-normality/normality-image02.png" alt="確認手順2-2">
+                                </div>
+                                <ul class="c-list c-list--note u-mb30">
+                                    <li>「試験結果表示」の下に表示される「接続試験状況表示」の内容はNAT64/DNS64の正常性確認には利用しません。</li>
+                                </ul>
+                                <p class="u-mb10"><span class="c-label">有効</span>IPv4アドレスのドメイン名が（flh3- …….mesh.ad.jp）と表示される場合</p>
+                                <p class="u-mb30">NAT64/DNS64機能は「有効」です。以上で確認は完了となります。</p>
+                                <section class="c-panel">
+                                    <div class="c-panel__content">
+                                        <p class="u-mb10"><span class="label-gray">無効</span>IPv4アドレスのドメイン名が（flh3- …….mesh.ad.jp）と表示されない場合</p>
+                                        <p class="u-mb20">NAT64/DNS64機能は「無効」です。以下の内容を番号順にお試しください。</p>
+                                        <table class="c-tbl c-tbl--responsive normality-tbl normality-tbl--col10">
+                                            <tbody>
+                                            <tr>
+                                                <th>0</th>
+                                                <td>
+                                                    <ul class="c-list p-list">
+                                                        <li>NAT64/DNS64適用完了メールを受信していることを確認してください。（メールの件名：【お知らせ】NAT64/DNS64の設定が「完了」しました）受信していない場合は正しい結果になりません。</li>
+                                                        <li>IPv6オプションライトを契約していることを確認してください。契約していない場合やIPv6オプションを契約している場合は正しい結果になりません。</li>
+                                                    </ul>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <th>1</th>
+                                                <td>
+                                                    <p>
+                                                        ブラウザのキャッシュクリアを行い、再度手順２をお試しください。<br>
+                                                        <span class="c-strong">【結果OK⇒終了】【結果NG⇒２へ】</span>
+                                                    </p>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <th>2</th>
+                                                <td>
+                                                    <p>DNSサーバーの設定を確認してください。特定のDNSサーバーのアドレスを指定していた場合は、アドレスを自動的に取得する設定に変更してください。</p>
+                                                    <p><span class="u-txt-weight-bold">（Windows10の場合）</span></p>
+                                                    <ul class="p-list u-mb20">
+                                                        <li>&#9312; 「スタート」メニューまたは検索で「コントロールパネル」を開きます</li>
+                                                        <li>&#9313; 「ネットワークとインターネット」を開きます</li>
+                                                        <li>&#9314; 「ネットワーク状態とタスクの表示」を開きます</li>
+                                                        <li>&#9315; 「アダプターの設定の変更」を開きます</li>
+                                                        <li>&#9316; 主に使用しているネットワーク接続をダブルクリックします</li>
+                                                        <li>&#9317; 「プロパティ」を開きます</li>
+                                                        <li>&#9318; 「インターネット プロトコル バージョン 6 (TCP/IPv6)」を選択します</li>
+                                                        <li>&#9319; 「プロパティ」を開きます</li>
+                                                        <li>&#9320; 「IPv6アドレスを自動的に取得する」と「DNSサーバーのアドレスを自動で取得する」を選択します</li>
+                                                        <li>&#9321; 「OK」をクリックします</li>
+                                                    </ul>
+                                                    <p>
+                                                    設定を変更した場合は、ブラウザのキャッシュクリアを行い、再度手順２をお試しください。<br>
+                                                        <span class="c-strong">【結果OK⇒終了】【結果NG⇒３へ】</span>
+                                                    </p>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <th>3</th>
+                                                <td>
+                                                    <p>IPv6アドレス優先度の設定を確認してください。IPv4アドレス優先としている場合は、IPv6アドレス優先に変更してください。</p>
+                                                    <p><span class="u-txt-weight-bold">（Windows10の場合）</span></p>
+                                                    <ul class="p-list u-mb20">
+                                                        <li>&#9312; 「プログラムとファイルの検索」で「cmd」と入力し、コマンドプロンプト（cmd.exe）を右クリックして「管理者として実行」を選択します</li>
+                                                        <li>&#9313; 「netsh interface ipv6 show prefixpolicies」と入力します</li>
+                                                        <li>&#9314; IPv4（「::/96」や「::ffff:0:0/96」）より、IPv6（「::/0」）が上に表示される場合は、IPv6の方が優先順位が高い状態です</li>
+                                                        <li>&#9315; IPv6が下にある場合は、下記のコマンドを上から順番に入力します<br>
+                                                            netsh interface ipv6 set prefixpolicy ::1/128 50 0<br>
+                                                            netsh interface ipv6 set prefixpolicy ::/0 40 1<br>
+                                                            netsh interface ipv6 set prefixpolicy 2002::/16 30 2<br>
+                                                            netsh interface ipv6 set prefixpolicy ::/96 20 3<br>
+                                                            netsh interface ipv6 set prefixpolicy ::ffff:0:0/96 10 4
+                                                        </li>
+                                                        <li>&#9316;「netsh interface ipv6 show prefixpolicies」と入力して、IPv4（「::/96」や「::ffff:0:0/96」）より、IPv6（「::/0」）が上に表示される事を確認します</li>
+                                                    </ul>
+                                                    <p>
+                                                    優先度を変更した場合は、ブラウザのキャッシュクリアを行い、再度手順２をお試しください。<br>
+                                                        <span class="c-strong">【結果OK⇒終了】【結果NG⇒４へ】</span>
+                                                    </p>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <th>4</th>
+                                                <td>
+                                                    <p class="u-mb20">
+                                                        パソコンに設定したPPPoE設定が残っている場合は、削除してください。<br>
+                                                        <a class="c-link c-link-detail" href="/settei/setuzoku/ipv6/pppoe_del.html">PPPoE設定の削除</a>
+                                                    </p>
+                                                    <p>
+                                                    設定を変更した場合は、ブラウザのキャッシュクリアを行い、再度手順２をお試しください。<br>
+                                                        <span class="c-strong">【結果OK⇒終了】【結果NG⇒５へ】</span>
+                                                    </p>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <th>5</th>
+                                                <td>
+                                                    <p>
+                                                        １～４を行ってもNAT64/DNS64機能が有効にならない場合は、下記ページの「接続設定」や「接続トラブル」などの対応窓口へお問い合わせください。<br>
+                                                        <a class="c-link c-link-detail" href="/ask/index.html">お問い合わせ</a>
+                                                    </p>
+                                                </td>
+                                            </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </section>
+                            </section>
+                        </div>
+                    </section>
+                </div>
+            </div>
+        </div>
+        <!-- 解決ナビここから -->
+        <div class="p-contents-order__marin-search">
+            <!--#include virtual="/v3/ssi/marin-search.html"-->
+        </div>
+        <!-- 解決ナビここまで -->
+    </main>
+</div>
+<!--コンテンツここまで-->
+
+<!--フッターここから-->
+<div class="p-outer-footer">
+    <!--#include virtual="/v3/ssi/footer.html"-->
+</div>
+<script src="/v3/js/common.js" charset="utf-8"></script>
+
+</body>
+</html>

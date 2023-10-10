@@ -1,0 +1,75 @@
+[
+  {
+    "date": "2023.8.1",
+    "href": "/news/news736.html",
+    "text": "【重要】BIGLOBEのインボイス制度への対応方針について",
+    "step_out": false,
+    "updated": false,
+    "groups": []
+  },
+  {
+    "date": "2023.7.18",
+    "href": "/news/news735.html",
+    "text": "【お知らせ】BIGLOBE WiMAX 「5G SA」対応新プラン「ギガ放題プラスS」と対応端末を提供開始",
+    "step_out": false,
+    "updated": true,
+    "groups": ["wimax"]
+  },
+  {
+    "date": "2023.7.3",
+    "href": "https://join.biglobe.ne.jp/mobile/device/",
+    "text": "【お知らせ】BIGLOBEモバイル 新スマホ（3機種）発売開始",
+    "step_out": false,
+    "updated": false,
+    "groups": [
+      "lte",
+      "lte_device"
+    ]
+  },
+  {
+    "date": "2023.6.30",
+    "href": "/news/news734.html",
+    "text": "【重要】Aterm WG1810HP(JE) の脆弱性に関するお知らせ",
+    "step_out": false,
+    "updated": false,
+    "groups": []
+  },
+  {
+    "date": "2023.4.4",
+    "href": "/news/news733.html",
+    "text": "【重要】BIGLOBE OpenID サービス提供終了のお知らせ",
+    "step_out": false,
+    "updated": false,
+    "groups": []
+  },
+  {
+    "date": "2023.4.3",
+    "href": "/kiyaku/youten230403.html",
+    "text": "BIGLOBE会員規約改定のお知らせ（2023年4月3日施行）",
+    "step_out": false,
+    "updated": true,
+    "groups": []
+  },
+  {
+    "date": "2023.3.23",
+    "href": "/news/news732.html",
+    "text": "【お知らせ】「ユニバーサルサービス料および電話リレーサービス料」の改定について（2023年4月～）",
+    "step_out": false,
+    "updated": false,
+    "groups": [
+      "lte",
+      "bighikari",
+      "wimax"
+    ]
+  },
+  {
+    "date": "2022.8.25",
+    "href": "/news/phishing.html",
+    "text": "【重要】BIGLOBEを騙るフィッシングサイト・フィッシングメールにご注意ください",
+    "step_out": false,
+    "updated": true,
+    "groups": [
+    "important"
+    ]
+  }
+]

@@ -1,0 +1,166 @@
+<div id="mini_questionnaire" class="p-mini-questionnaire" style="display: none">
+    <div class="p-mini-questionnaire__content">
+        <p class="p-mini-questionnaire__content__title">ミニアンケート</p>
+
+        <div class="p-mini-questionnaire__content__main">
+            <div id="mini_questionnaire_first">
+                <p class="u-align-center u-mb10">
+                    このページの案内で、<span class="u-txt-phrase">お客さまの疑問・問題は</span><span class="u-txt-phrase">解決しましたか？</span>
+                </p>
+
+                <div class="u-mb10 p-mini-questionnaire__select">
+                    <div class="p-mini-questionnaire__select__item">
+                        <div class="p-mini-questionnaire__panel">
+                            <span class="p-mini-questionnaire__panel__content p-mini-questionnaire__panel__content--good">
+                                <input type="radio" name="mini_questionnaire_status" id="mini_questionnaire_status_good" value="解決できた" data-mini-questionnaire-status="ans01" data-mini-questionnaire-next="mini_questionnaire_thanks">
+                            </span>
+
+                            <p class="p-mini-questionnaire__panel__label">
+                                <label for="mini_questionnaire_status_good">
+                                    解決できた
+                                </label>
+                            </p>
+                        </div>
+                    </div>
+                    <div class="p-mini-questionnaire__select__item">
+                        <div class="p-mini-questionnaire__panel">
+                            <span class="p-mini-questionnaire__panel__content p-mini-questionnaire__panel__content--average">
+                                <input type="radio" name="mini_questionnaire_status" id="mini_questionnaire_status_average" value="average" data-mini-questionnaire-status="ans02" data-mini-questionnaire-next="mini_questionnaire_thanks">
+                            </span>
+
+                            <p class="p-mini-questionnaire__panel__label">
+                                <label for="mini_questionnaire_status_average">
+                                    解決できたけど<span class="u-txt-phrase">分かりにくい</span>
+                                </label>
+                            </p>
+                        </div>
+
+                    </div>
+                    <div class="p-mini-questionnaire__select__item">
+                        <div class="p-mini-questionnaire__panel">
+                            <span class="p-mini-questionnaire__panel__content p-mini-questionnaire__panel__content--poor">
+                                <input type="radio" name="mini_questionnaire_status" id="mini_questionnaire_status_poor" value="poor" data-mini-questionnaire-status="ans03" data-mini-questionnaire-next="mini_questionnaire_second">
+                            </span>
+
+                            <p class="p-mini-questionnaire__panel__label">
+                                <label for="mini_questionnaire_status_poor">
+                                    解決できない
+                                </label>
+                            </p>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <div id="mini_questionnaire_second" style="display: none">
+                <p class="u-mb20">申し訳ございません。なぜ疑問・問題が解決できなかったのか、教えてください。</p>
+
+                <ul class="p-mini-questionnaire__input-list u-mb10">
+                    <li class="p-mini-questionnaire__input-list__item">
+                        <span class="p-mini-questionnaire__input-wrapper">
+                            <input type="checkbox" name="mini_questionnaire_detail" value="1" id="mini_questionnaire_detail1"><label for="mini_questionnaire_detail1">自分が探している内容ではなかった</label>
+                        </span>
+                    </li>
+                    <li class="p-mini-questionnaire__input-list__item">
+                        <span class="p-mini-questionnaire__input-wrapper">
+                            <input type="checkbox" name="mini_questionnaire_detail" value="1" id="mini_questionnaire_detail2"><label for="mini_questionnaire_detail2">案内にしたがったが解決できなかった</label>
+                        </span>
+                    </li>
+                    <li class="p-mini-questionnaire__input-list__item">
+                        <span class="p-mini-questionnaire__input-wrapper">
+                            <input type="checkbox" name="mini_questionnaire_detail" value="1" id="mini_questionnaire_detail3"><label for="mini_questionnaire_detail3">内容が理解できなかった</label>
+                        </span>
+                    </li>
+                    <li class="p-mini-questionnaire__input-list__item">
+                        <span class="p-mini-questionnaire__input-wrapper">
+                            <input type="checkbox" name="mini_questionnaire_detail" value="1" id="mini_questionnaire_detail4"><label for="mini_questionnaire_detail4">その他の理由</label>
+                        </span>
+                    </li>
+                </ul>
+                <div class="u-mb20">
+                    <p class="u-txt-size-small">下記に、ID、お名前、電話番号、メールアドレスなどの個人情報のご入力はお控えください。<br>こちらにご入力いただいた内容については、お客さまに直接ご回答を差し上げることができません。
+                    </p>
+
+                    <div class="p-mini-questionnaire__input-wrapper">
+                        <textarea id="mini_questionnaire_detail_reason" placeholder="具体的なご意見がありましたら、ご入力ください。"></textarea>
+                    </div>
+                    <p class="link">回答が必要なご質問は、<a href="/ask/index.html">お問い合わせフォーム</a>よりお問い合わせください。</p>
+                </div>
+
+
+                <button class="c-btn c-btn--action u-mb20" id="mini_questionnaire_detail_submit" type="button">送信する
+                </button>
+            </div>
+            <div id="mini_questionnaire_thanks" style="display: none">
+                <div class="p-mini-questionnaire__thanks">
+                    <div class="p-mini-questionnaire__thanks__text">
+                        回答ありがとうございました。<br>今回ご回答いただきました内容をもとに、<span class="u-txt-phrase">より良いページ作りを目指して参ります。</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script>
+        if (typeof jQuery != "undefined") {
+            $(function () {
+                $('#mini_questionnaire').show();
+
+                var key = String(new Date().getFullYear()) + (('00' + (new Date().getMonth() + 1)).slice(-2)) + (('00' + (new Date().getDate())).slice(-2))
+                        + (('00' + (new Date().getHours() + 1)).slice(-2)) + (('00' + (new Date().getMinutes() + 1)).slice(-2)) + (('00' + (new Date().getSeconds() + 1)).slice(-2))
+                        + location.href
+                        + (('00000' + (Math.floor(Math.random() * 100000))).slice(-5));
+
+                var firstAnswer;
+
+                $('[data-mini-questionnaire-status]').click(function () {
+                    firstAnswer = $(this).attr("data-mini-questionnaire-status");
+
+                    sendEnq({
+                        "key": key,
+                        "q1": firstAnswer
+                    });
+
+                    $("#mini_questionnaire_first").hide();
+                    $("#" + $(this).attr("data-mini-questionnaire-next")).show();
+                });
+                
+                $("#mini_questionnaire_detail_submit").click(function () {
+                    var checkedDetailAnswer1 = $("#mini_questionnaire_detail1").prop('checked');
+                    var checkedDetailAnswer2 = $("#mini_questionnaire_detail2").prop('checked');
+                    var checkedDetailAnswer3 = $("#mini_questionnaire_detail3").prop('checked');
+                    var checkedDetailAnswer4 = $("#mini_questionnaire_detail4").prop('checked');
+                    var detailAnswerReason = $("#mini_questionnaire_detail_reason").val();
+                    
+                    if (detailAnswerReason !== '') {
+                        checkedDetailAnswer4 = true;
+                    }
+
+                    sendEnq({
+                        "key": key,
+                        "q1": firstAnswer,
+                        "q2_chk_01": checkedDetailAnswer1 ? 1 : "",
+                        "q2_chk_02": checkedDetailAnswer2 ? 1 : "",
+                        "q2_chk_03": checkedDetailAnswer3 ? 1 : "",
+                        "q2_chk_04": checkedDetailAnswer4 ? 1 : "",
+                        "q2_txt": detailAnswerReason
+                    });
+
+                    $("#mini_questionnaire_second").hide();
+                    $("#mini_questionnaire_thanks").show();
+                });
+            });
+
+            function sendEnq(values) {
+                $.ajax({
+                    type: "POST",
+                    url: "/cgi-bin/cs_enq/mini_enq.cgi",
+                    contentType: "application/x-www-form-urlencoded",
+                    timeout: 2000,
+                    cache: false,
+                    dataType: "json",
+                    data: values
+                });
+            }
+        }
+    </script>
+</div>
