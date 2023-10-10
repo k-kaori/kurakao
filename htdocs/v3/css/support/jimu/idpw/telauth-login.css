@@ -1,1 +1,0 @@
-.col{display:-webkit-box;display:-ms-flexbox;display:flex}@media screen and (max-width: 767px){.col{display:block}}.col--image{width:60px}@media screen and (min-width: 768px){.col--pc{margin-right:20px}}@media screen and (max-width: 767px){.col--sp{-ms-flex-preferred-size:100%;flex-basis:100%;text-align:center;padding-bottom:20px;margin:0 auto}}
