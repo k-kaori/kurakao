@@ -193,44 +193,416 @@ FF14依存というかヒカラン依存というか男依存のせいで衝動�
 つらい事態にしたのは本人だし、むしろ戦犯なのになんで被害者づらするの？
 
 ***
-■アンバスケード
-1章（エキスパート）、2章がある
-ホールマーク
-ガラントリー
+##アンバスケード
+ゲッショー
+リリゼットII
+アシェラ
+アジドマルジド
+ヨランオラン
+
+闇連携に絞る
 
 糸・金粉・水油・樹脂・染料：ジョブマントのオグメ
 アンバス武器：チケット武器でもらう→ナゲット5個→オーブ5個→アニマ5個→マター5個+パルスアームズ
 
 グレーリキッド→ノーグで強化に使う
 
-今日やること
-・マント整理
+##今日やること
 ・るしの分のオーブ消化
+・辞書追加
+http://www.playonline.com/home/download/dic01.html
+https://progsennin.com/ff11win10jisho/483/
+・青でアンバス
+・オデシー
+・オーメン詰
 
-■風水
+##風水
 イドリス作る
-AZフード３
-AZコート3
-AZグローブ3
-AZタイツ3
-BAパンツ3
-AZゲートル3
-３にするのに「ソーティ」突入必須
+AZフード2
+AZコート2
+AZグローブ2
+AZタイツ2
+BAパンツ2
+AZゲートル2
+2，3にするのに「ソーティ」突入必須
 エンブリオで武器のベース入手
 
-■黒
+##黒
 SPコート3
 WCショウス3
 WCサポ3
 
+*****
+##黒
+■精霊魔法
+/recast ファイアVI
+/equipset 50 echo ←FC装備
+/ma ファイアVI <stnpc> <wait 1>
+/equipset 50 echo ←魔攻装備
 
-/recast ディフュージョン
-/equipset 50　FC装備　<wait 1>
-/ja ディフュージョン <me> <stal> <wait 1>
-/ma マイティガード <me>
+■デジョン
+/recast デジョンII
+/equipset 50 echo ←FC装備
+/ma デジョンII <stpt> 
+/equip ring2 デジョンリング
+/item デジョンリング <me>
 
+*****
+##青
+■エレ魔法・サブダク・マジックハンマー・夢想花マクロ
+/recast スペクトラルフロー
+/equipset 50 echo ←FC装備
+/ma スペクトラルフロー <stnpc> <wait 1>
+/equipset 50　echo ←魔攻装備
+
+■サブダクション
+/recast サブダクション
+/equipset 50  echo ←FC装備
+/ma サブダクション <stnpc> <wait 1>
+/equipset 50　echo ←魔攻装備
+
+■牙門
+/recast 牙門
+/equipset 50 echo ←FC装備
+/ma 牙門 <me> <stal> <wait 1>
+/equipset 50　echo ←魔攻装備
+
+
+■マイティガード
 /recast ディフュージョン
-/equipset 50　FC装備　<wait 1>
-/ja ディフュージョン <me> <stal> <wait 1>
-/ma マイティガード <me>
+/equipset 50 echo ←FC装備 <wait 1>
+/ja ディフュージョン <me> <stal> <wait 2>
+/ja ノートリアスナレッジ <me> <stal> <wait 2>
+/ma マイティガード <me> <wait 8>
+/equipset 50　echo ←魔攻装備
+
+
+■光連携
+/p 光連携（火光風雷）
+/ja ブルーバースト <me> <stal> <wait 1>
+/ja ブルーチェーン <me> <stal> <wait 1>
+/ws サベッジブレード <bt>
+/ma T.アッサルト <bt>
+/ma レールキャノン <bt>
+
+■闇連携
+/p 闇連携（土闇水氷）
+/ja ブルーバースト <me> <stal> <wait 1>
+/ja ブルーチェーン <me> <stal> <wait 1>
+/ws シャンデシニュ <bt>
+/ma シンカードリル <bt>
+/ma ダークオーブ <bt>
+
+■各熱連携
+/p 核熱連携（MB：火光）
+/ja ブルーバースト <me> <stal> <wait 1>
+/ja ブルーチェーン <me> <stal> <wait 1>
+/ws レッドロータス <bt>
+/ma ジェットストリーム <bt>
+/ma 爆弾投げ <bt>
+
+■リキャスト
+/recast ブルーバースト
+/recast ブルーチェーン
+/recast 空蝉の術・壱
+/recast 空蝉の術・弐
+
+
+ブルーチェーン＞レッドロータス＞シックルスラッシュ
+
+*****
+##学者
+/macro set ●
+白グリ
+核熱
+湾曲
+重力
+分解
+火
+雷
+水
+氷
+風
+土
+
+
+■全体リジェネ
+/ja 白のグリモア <stpc> <stal> <wait 1>
+/equipset ●　echo ←強化魔法装備
+/ja 女神降臨の章 <me> <wait 2>
+/ja 令狸執鼠の章 <me> <wait 2>
+/ma リジェネV <me>
+/recast 戦術魔道書
+
+■プロテスV
+/ja 白のグリモア <stpc> <stal> <wait 1>
+/equipset ●　echo ←強化魔法装備
+/ja 女神降臨の章 <me> <wait 2>
+/ja 令狸執鼠の章 <me> <wait 2>
+/ma プロテスV <me>
+/recast 戦術魔道書
+
+■シェルV
+/ja 白のグリモア <stpc> <stal> <wait 1>
+/equipset ●　echo ←強化魔法装備
+/ja 女神降臨の章 <me> <wait 2>
+/ja 令狸執鼠の章 <me> <wait 2>
+/ma シェルV <me>
+/recast 戦術魔道書
+
+■ストンスキン
+/ja 白のグリモア <stpc> <stal> <wait 1>
+/equipset ●　echo ←強化魔法装備
+/ja 女神降臨の章 <me> <wait 2>
+/ja 令狸執鼠の章 <me> <wait 2>
+/ma ストンスキン <me> 
+/recast 戦術魔道書
+
+■鼓舞激励の策
+/ja 白のグリモア <stpc> <stal> <wait 1>
+/equipset ●　echo ←強化魔法装備
+/ja 女神降臨の章 <me> <wait 2>
+/ja 令狸執鼠の章 <me> <wait 2>
+/ma 鼓舞激励の策 <me> 
+/recast 戦術魔道書
+
+■陣
+/ja 白のグリモア <stpc> <stal> <wait 1>
+/equipset ●　echo ←強化魔法装備
+/ja 女神降臨の章 <me> <wait 2>
+/ja 令狸執鼠の章 <me> <wait 2>
+/ma 熱波の陣II <me> 
+/recast 戦術魔道書
+
+■陣個別
+/recast 熱波の陣II 
+/ma 熱波の陣II <stpt> 
+
+■黒G
+/recast 黒のグリモア
+/ja 黒のグリモア <stpc> <stal> <wait 1>
+/ja 黒の補遺 <me> <wait 2>
+/recast 戦術魔道書
+/equipset 6 echo ←魔命MB装備
+
+■ケアル4
+/ma ケアルIV <stpc>
+
+■ケアル5
+/ma ケアルV <stpc>
+
+■ヘイスト
+/recast ヘイスト
+/ma ヘイスト <stpc>
+
+■イレース
+/recast イレース
+/ma イレース <stpc>
+
+■火
+/equipset 50 echo ←魔命MB装備
+/ma ファイアII <stpc>
+/ma ファイアIII <stpc>
+/ma ファイアIV <stpc>
+/ma ファイアV <stpc>
+/ma ファイアVI <stpc>
+
+■気炎
+/recast 気炎万丈の章
+/ja 気炎万丈の章 <stpc>
+/recast 戦術魔道書
+
+■火門
+/recast 火門の計II
+/ma 火門の計II <stnpc> <wait 1>
+/recast 戦術魔道書
+
+■溶解
+/equipset 13 echo ←FC装備
+/ja 震天動地の章 <me> <stal> <wait 1>
+/p 震天連携【溶解】（MB：火）<recast=戦術魔道書>
+/ma ストーン <stnpc> <wait 4>
+/ja 震天動地の章 <me> <wait 1>
+/ma ファイア <bt>
+
+■核熱
+/equipset 50　←FC装備
+/ja 震天動地の章 <me> <stal> <wait 1>
+/p 震天連携【核熱】（MB：火光）<recast=戦術魔道書>
+/ma ファイア <stnpc> <wait 4>
+/ja 震天動地の章 <me> <wait 1>
+/ma 雷門の計 <bt> <wait 4>
+/p 〆【核熱】（MB：火光）<call 14>
+
+■分解
+/equipset 50　←FC装備
+/ja 震天動地の章 <me> <stal> <wait 1>
+/p 震天連携【分解】（MB：雷風）<recast=戦術魔道書>
+/ma ブリザド <stnpc> <wait 4>
+/ja 震天動地の章 <me> <wait 1>
+/ma 水門の計 <bt> <wait 4>
+/p 【分解】（MB：雷風）<call 14>
+
+■振動
+/equipset 50　←FC装備
+/ja 震天動地の章 <me> <stal> <wait 1>
+/p 震天連携【振動】（MB：水）<recast=戦術魔道書>
+/ma ストーン <stnpc> <wait 4>
+/ja 震天動地の章 <me> <wait 1>
+/ma ウォータ <bt> <wait 4>
+/p 【振動】（MB：水）<call 14>
+
+■硬化
+/equipset 50　←FC装備
+/ja 震天動地の章 <me> <stal> <wait 1>
+/p 震天連携【硬化】（MB：氷）<recast=戦術魔道書>
+/ma ウォータ <stnpc> <wait 4>
+/ja 震天動地の章 <me> <wait 1>
+/ma ブリザド <bt> <wait 4>
+/p 【硬化】（MB：氷）<call 14>
+
+■湾曲
+/equipset 50　←FC装備
+/ja 震天動地の章 <me> <stal> <wait 1>
+/p 震天連携【湾曲】（MB：氷水）<recast=戦術魔道書>
+/ma 光門の計 <stnpc> <wait 4>
+/ja 震天動地の章 <me> <wait 1>
+/ma ストーン <bt> <wait 4>
+/p 【湾曲】（MB：氷水）<call 14>
+
+■炸裂
+/equipset 50　←FC装備
+/ja 震天動地の章 <me> <stal> <wait 1>
+/p 震天連携【炸裂】（MB：風）<recast=戦術魔道書>
+/ma ストーン <stnpc> <wait 4>
+/ja 震天動地の章 <me> <wait 1>
+/ma エアロ <bt> <wait 4>
+/p 【炸裂】（MB：風）<call 14>
+
+■切断
+/equipset 50　←FC装備
+/ja 震天動地の章 <me> <stal> <wait 1>
+/p 震天連携【切断】（MB：土）<recast=戦術魔道書>
+/ma エアロ <stnpc> <wait 4>
+/ja 震天動地の章 <me> <wait 1>
+/ma ストーン <bt> <wait 4>
+/p 【切断】（MB：土）<call 14>
+
+■重力
+/equipset 50　←FC装備
+/ja 震天動地の章 <me> <stal> <wait 1>
+/p 震天連携【重力】（MB：土闇）<recast=戦術魔道書>
+/ma エアロ <stnpc> <wait 4>
+/ja 震天動地の章 <me> <wait 1>
+/ma 闇門の計 <stnpc> <wait 4>
+/p 〆【重力】（MB：土闇）<call 14>
+
+
+*****
+##風水
+/equipset 1 echo ←待機装備
+/equipset 2 echo ←ジオ装備
+/equipset 3 echo ←インデ装備
+/equipset 6 echo ←魔命MB装備
+/equipset 13 echo ←FC装備
+
+■インデアキュメン
+/equipset 3　echo ←インデ装備
+/ma インデアキュメン <stpc> <wait 1>
+/equipset 1　echo ←待機装備
+
+■エントラスト
+/recast エントラスト
+/ja エントラスト <stpc>
+/equipset 3　echo ←インデ装備
+/ma インデフォーカス <stpc> <wait 1>
+/equipset 1　echo ←待機装備
+
+■グローリーブレイズ
+/recast グローリーブレイズ
+/ja グローリーブレイズ <stpc>
+
+■サークルエンリッチ
+/recast サークルエンリッチ
+/ja サークルエンリッチ <stpc>
+
+■デマテリアライズ
+/recast デマテリアライズ
+/ja デマテリアライズ <stpc>
+
+■エンデュアエマネイト
+/recast エンデュアエマネイト
+/ja エンデュアエマネイト <stpc>
+
+■ライフサイクル
+/recast ライフサイクル
+/equip body ジオチュニック
+/ja ライフサイクル <stpc>
+/wait 2
+/equipset 1　echo ←待機装備
+
+■消す
+/recast フルサークル
+/ja フルサークル <stpc>
+
+■リフレ
+/recast リフレシュ
+/ma リフレシュ <stpc>
+
+■ヘイスト
+/recast ヘイスト
+/ma ヘイスト <stpc>
+
+■ジオフレイル
+/equipset 2　echo ←ジオ装備
+/ma ジオフレイル <stnpc> <wait 5>
+/equipset 1　echo ←待機装備
+
+■フラズル
+/recast フラズル
+/equipset 13　echo ←FC装備
+/ma フラズル <stnpc> <wait 1>
+/equipset 6　echo ←魔命MB装備
+/wait 4
+/equipset 1　echo ←待機装備
+
+■ディストラ
+/recast ディストラ
+/equipset 13　echo ←FC装備
+/ma ディストラ <stnpc> <wait 1>
+/equipset 6　echo ←魔命MB装備
+/wait 4
+/equipset 1　echo ←待機装備
+
+■ディア
+/recast ディアII
+/ma ディアII <stnpc>
+
+■MB
+/recast サンダーV
+/equipset 13　echo ←FC装備
+/ma サンダーV <stnpc> <wait 1>
+/equipset 6　echo ←魔命MB装備
+/wait 4
+/equipset 1　echo ←待機装備
+
+■MP
+/recast レイディアルアルカナ
+/ja レイディアルアルカナ <stpc>
+
+■HP
+/recast メンドハレイション
+/ja メンドハレイション <stpc>
+
+■ケアル
+/ma ケアルIV <lastst>
+
+■移動
+/equip feet ジオサンダル
+
+***
+私のFF11、6年前はひたすらひとりでお散歩していたので、獣人拠点の王様倒したり、
+アトルガンが好きすぎて1人で防衛してた
+だから復帰しても特にスタンスは変わらなくてお散歩寄り
+ゆっくりさんにたまにコンテンツ拉致されるけど往々にして役に立っていない
 
