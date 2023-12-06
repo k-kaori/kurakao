@@ -59,10 +59,10 @@
 03.JSB LOVE
 
 最初から飛ばしまくりで愛は歌うしかないだろ！　ってなってました。
-今回メンバーのビジュアルも衣装もさらに最高でなにより臣くんが髪を切ってたのがめちゃめちゃよかった…、あと今市くんのゆるいお団子もかわいくて死んだ。無事に死んだ。直己さんも髪のばしてるときのほうが個人的にすき。NAOTOさんそのさらさら髪維持してくれ…。
+今回メンバーのビジュアルも衣装もさらに最高でなにより臣くんが髪を切ってたのがめちゃめちゃよかった…、あと今市くんのゆるいお団子もかわいくて死んだ。無事に死んだ。直己さんも髪のばしてるときのほうが個人的にすき。NAOTOさんそのさらさらぱっつん髪型維持してくれ…。
 
 04.CHAIN BREAKER
-これ！　これさぁ！　聞いてはいたけど実際歌われるとハイローから入ったオタクは死ぬ（オタク何度でも死ぬ）.
+これ！　これさぁ！　歌うと聞いてはいたけど実際歌われるとハイローから入ったオタクは死ぬ（オタク何度でも死ぬ）
 
 
 
@@ -127,17 +127,16 @@
 アシェラ
 アジドマルジド
 ヨランオラン
-
 闇連携に絞る
-ファイバー→10個で防具強化
-糸・金粉・水油・樹脂・染料：ジョブマントのオグメ
-アンバス武器：チケット武器でもらう→ナゲット5個→オーブ5個→アニマ5個→マター5個+パルスアームズ
 
-グレーリキッド→ノーグで強化に使う
 
 ##今日やること
-・オデシー　ソロで抜ける
-・
+ナイズル武器のチェック
+エンピ装備もらってくる
+頭→アットワ
+胴→アルテパ
+足→アットワ（金箱）
+エアハット探す
 
 ##風水
 イドリス作る
@@ -150,9 +149,14 @@ AZゲートル2
 エンブリオで武器のベース入手
 
 ##黒
+エンピ装備もらってくる
+頭→アットワ
+胴→アルテパ
+足→アットワ（金箱）
 SPコート3
-WCショウス3
-WCサポ3
+WCペタソス+1
+WCショウス+1
+WCサポ+1
 
 *****
 ##黒
@@ -163,74 +167,67 @@ WCサポ3
 /wait 4
 /equipset 50 echo MB装備
 
-
 ■デジョン
-/recast デジョンII
-/equipset 50 echo ←FC装備
+/equipset 50 echo FC装備
+/wait 1
 /ma デジョンII <stpt> 
 /equip ring2 デジョンリング
+/wait 12
 /item デジョンリング <me>
 
 *****
 ##青
 ■エレ魔法・サブダク・マジックハンマー・夢想花マクロ
-/recast スペクトラルフロー
 /equipset 50 echo ←FC装備
 /ma スペクトラルフロー <stnpc> <wait 1>
-/equipset 50　echo ←魔攻装備
+/equipset 50　echo ←魔攻装備 <wait 1>
 
 ■サブダクション
-/recast サブダクション
-/equipset 50  echo ←FC装備
-/ma サブダクション <stnpc> <wait 1>
-/equipset 50　echo ←魔攻装備
+/equipset 50  echo 
+/ma サブダクション <stnpc>
+/equipset 50　echo
 
 ■牙門
-/recast 牙門
 /equipset 50 echo ←FC装備
 /ma 牙門 <me> <stal> <wait 1>
 /equipset 50　echo ←魔攻装備
 
-
 ■マイティガード
-/recast ディフュージョン
 /equipset 50 echo ←FC装備 <wait 1>
 /ja ディフュージョン <me> <stal> <wait 2>
 /ja ノートリアスナレッジ <me> <stal> <wait 2>
 /ma マイティガード <me> <wait 8>
 /equipset 50　echo ←魔攻装備
 
-
 ■光連携
-/p 光連携（火光風雷）
-/ja ブルーバースト <me> <stal> <wait 1>
-/ja ブルーチェーン <me> <stal> <wait 1>
-/ws サベッジブレード <bt>
-/ma T.アッサルト <bt>
-/ma レールキャノン <bt>
+//p 光連携（火光風雷）
+/ja ブルーバースト <me> <wait 1>
+/ja ブルーチェーン <me> <wait 1>
+/ws サベッジブレード <lastst>
+/ma T.アッサルト <lastst>
+/ma レールキャノン <lastst>
 
 ■闇連携
-/p 闇連携（土闇水氷）
-/ja ブルーバースト <me> <stal> <wait 1>
-/ja ブルーチェーン <me> <stal> <wait 1>
-/ws シャンデシニュ <bt>
-/ma シンカードリル <bt>
-/ma ダークオーブ <bt>
+//p 闇連携（土闇水氷）
+/ja ブルーバースト <me> <wait 1>
+/ja ブルーチェーン <me> <wait 1>
+/ws シャンデシニュ <lastst>
+/ma シンカードリル <lastst>
+/ma ダークオーブ <lastst>
 
 ■各熱連携
 /p 核熱連携（MB：火光）
 /ja ブルーバースト <me> <stal> <wait 1>
 /ja ブルーチェーン <me> <stal> <wait 1>
-/ws レッドロータス <bt>
-/ma ジェットストリーム <bt>
-/ma 爆弾投げ <bt>
+/ws レッドロータス <lastst>
+/ma ジェットストリーム <lastst>
+/ma 爆弾投げ <lastst>
 
 ■リキャスト
 /recast ブルーバースト
 /recast ブルーチェーン
 /recast 空蝉の術・壱
 /recast 空蝉の術・弐
-
 
 ブルーチェーン＞レッドロータス＞シックルスラッシュ
 
@@ -337,84 +334,91 @@ WCサポ3
 
 
 ■溶解
-/equipset 13 echo ←FC装備
-/ja 震天動地の章 <me> <stal> <wait 1>
-/p 震天連携【溶解】（MB：火）<recast=戦術魔道書>
+/ja 震天動地の章 <me> <wait 1>
+/p 震天連携【溶解】（MB：火）
 /ma ストーン <stnpc> <wait 4>
 /ja 震天動地の章 <me> <wait 1>
-/ma ファイア <bt>
+/ma 火門の計 <lastst>
+
+■溶解後
+/p 震天連携【核熱】（MB：火光）
+/ja 震天動地の章 <me> <wait 1>
+/ma 雷門の計 <lastst>
 
 ■核熱
-/equipset 50　←FC装備
-/ja 震天動地の章 <me> <stal> <wait 1>
-/p 震天連携【核熱】（MB：火光）<recast=戦術魔道書>
+/ja 震天動地の章 <me> <wait 1>
+/p 震天連携【核熱】（MB：火光）
 /ma ファイア <stnpc> <wait 4>
 /ja 震天動地の章 <me> <wait 1>
-/ma 雷門の計 <bt> <wait 4>
-/p 〆【核熱】（MB：火光）<call 14>
+/p 【MB詠唱開始】<call 14>
+/ma 雷門の計 <lastst>
+
+貫通湾曲はwait5
+
 
 ■分解
-/equipset 50　←FC装備
-/ja 震天動地の章 <me> <stal> <wait 1>
-/p 震天連携【分解】（MB：雷風）<recast=戦術魔道書>
+/ja 震天動地の章 <me> <wait 1>
+/p 震天連携【分解】（MB：雷風）
 /ma ブリザド <stnpc> <wait 4>
 /ja 震天動地の章 <me> <wait 1>
-/ma 水門の計 <bt> <wait 4>
+/ma 水門の計 <lastst>
 /p 【分解】（MB：雷風）<call 14>
 
 ■振動
-/equipset 50　←FC装備
-/ja 震天動地の章 <me> <stal> <wait 1>
-/p 震天連携【振動】（MB：水）<recast=戦術魔道書>
+/ja 震天動地の章 <me> <wait 1>
+/p 震天連携【振動】（MB：水）
 /ma ストーン <stnpc> <wait 4>
 /ja 震天動地の章 <me> <wait 1>
-/ma ウォータ <bt> <wait 4>
 /p 【振動】（MB：水）<call 14>
+/ma ウォータ <lastst> 
+
 
 ■硬化
-/equipset 50　←FC装備
-/ja 震天動地の章 <me> <stal> <wait 1>
-/p 震天連携【硬化】（MB：氷）<recast=戦術魔道書>
+/ja 震天動地の章 <me> <wait 1>
+/p 震天連携【硬化】（MB：氷）
 /ma ウォータ <stnpc> <wait 4>
 /ja 震天動地の章 <me> <wait 1>
-/ma ブリザド <bt> <wait 4>
+/ma ブリザド <lastst> <wait 4>
 /p 【硬化】（MB：氷）<call 14>
 
 ■湾曲
-/equipset 50　←FC装備
-/ja 震天動地の章 <me> <stal> <wait 1>
-/p 震天連携【湾曲】（MB：氷水）<recast=戦術魔道書>
+/ja 震天動地の章 <me> <wait 1>
+/p 震天連携【湾曲】（MB：氷水）
 /ma 光門の計 <stnpc> <wait 4>
 /ja 震天動地の章 <me> <wait 1>
-/ma ストーン <bt> <wait 4>
+/ma ストーン <lastst> <wait 4>
 /p 【湾曲】（MB：氷水）<call 14>
 
 ■炸裂
-/equipset 50　←FC装備
-/ja 震天動地の章 <me> <stal> <wait 1>
-/p 震天連携【炸裂】（MB：風）<recast=戦術魔道書>
+/ja 震天動地の章 <me> <wait 1>
+/p 震天連携【炸裂】
 /ma ストーン <stnpc> <wait 4>
 /ja 震天動地の章 <me> <wait 1>
-/ma エアロ <bt> <wait 4>
+/ma エアロ <lastst> <wait 4>
 /p 【炸裂】（MB：風）<call 14>
 
 ■切断
-/equipset 50　←FC装備
-/ja 震天動地の章 <me> <stal> <wait 1>
-/p 震天連携【切断】（MB：土）<recast=戦術魔道書>
+/ja 震天動地の章 <me> <wait 1>
+/p 震天連携【切断】開始
 /ma エアロ <stnpc> <wait 4>
 /ja 震天動地の章 <me> <wait 1>
-/ma ストーン <bt> <wait 4>
-/p 【切断】（MB：土）<call 14>
+/ma ストーン <lastst> <wait 4>
+/p 【切断】（MB：土）
 
 ■重力
-/equipset 50　←FC装備
 /ja 震天動地の章 <me> <stal> <wait 1>
-/p 震天連携【重力】（MB：土闇）<recast=戦術魔道書>
+/p 震天連携【重力】（MB：土闇）
 /ma エアロ <stnpc> <wait 4>
 /ja 震天動地の章 <me> <wait 1>
 /ma 闇門の計 <stnpc> <wait 4>
 /p 〆【重力】（MB：土闇）<call 14>
+
+■FC装備
+/equipset 50　←FC装備
+/ja 黒のグリモア <me>
+/p <recast=戦術魔道書>
+
+
 
 
 *****
@@ -477,11 +481,9 @@ WCサポ3
 /equipset 1　echo ←待機装備
 
 ■ディストラ
-/equipset 13　echo ←FC装備
 /ma ディストラ <stnpc> <wait 1>
-/equipset 6　echo ←魔命MB装備
 /wait 4
-/equipset 1　echo ←待機装備
+
 
 ■ディア
 /ma ディアII <stnpc>
@@ -506,5 +508,43 @@ WCサポ3
 /equip feet ジオサンダル
 
 ***
+##コルセアマクロ
+■カオス
+/echo カオスロール 【4/8】攻撃UP
+/ja カオスロール <me>
+
+■タクティ
+/echo タクティックロール 【4/8】リゲイン
+/ja タクティックロール <me>
+
+■ダブル
+/equip ring2 ルザフリング
+/ja ダブルアップ <me>
+
+■コルセア
+/echo コルセアズロール 【5/9】経験値UP
+/ja カオスロール <me>
+
+■サムライ
+/echo サムライロール 【4/8】ストアTPUP
+/ja カオスロール <me>
+
+■ボルタズ
+/echo ボルターズロール 【3/9】移動速度UP
+/ja カオスロール <me>
+
+ウィザーズ　【】魔攻UP
+ビースト　【】ペット攻UP
+パペット　【】ペット魔攻魔命UP
+ナチュラリスト　強化魔法絵院長
+ハンターズ　【】
+エボカーズ　【】
+ワーロックス　【】
+モンクス　【】
+ガランツ　【】
+コンパニオン　【】
+
+
+
 
 
