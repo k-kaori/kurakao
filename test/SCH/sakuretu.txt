@@ -1,0 +1,9 @@
+input /ja 震天動地の章
+wait 1.2
+input /p 震天連携【炸裂】（MB：風）<recast=戦略魔道書>
+input /ma ストーン
+wait 4
+input /ja 震天動地の章
+wait 1.2
+input /p 〆【炸裂】（MB：風）<call 11>
+input /ma 風門の計

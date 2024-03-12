@@ -1,0 +1,9 @@
+input /ja 震天動地の章
+wait 1.2
+input /p 震天連携【振動】（MB：水）<recast=戦略魔道書> <call11>
+input /ma ストーン
+wait 4
+input /ja 震天動地の章
+wait 1.2
+input /p 【振動】（MB：水）<call 11>
+input /ma 水門の計 

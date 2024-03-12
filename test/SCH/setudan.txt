@@ -1,0 +1,9 @@
+input /ja 震天動地の章
+wait 1.2
+input /p 震天連携【切断】開始 （MB：土）<recast=戦略魔道書>
+input /ma エアロ
+wait 4
+input /ja 震天動地の章
+wait 1.2
+input /p 【切断】（MB：土）<call 11>
+input /ma 土門の計

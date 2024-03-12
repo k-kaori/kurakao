@@ -1,0 +1,9 @@
+input /ja 震天動地の章
+wait 1.2
+input /p 震天連携【衝撃】（MB：雷）<recast=戦略魔道書>
+input /ma ブリザド
+wait 4
+input /ja 震天動地の章
+wait 1.2
+input /p 〆【衝撃】（MB：雷）<call 11>
+input /ma 雷門の計

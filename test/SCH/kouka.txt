@@ -1,0 +1,9 @@
+input /ja 震天動地の章
+wait 1.2
+input /p 震天連携【硬化】（MB：氷）<recast=戦略魔道書>
+input /ma ウォータ
+wait 4
+input /ja 震天動地の章
+wait 1.2
+input /p 【硬化】（MB：氷）<call 11>
+input /ma 氷門の計
