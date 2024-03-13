@@ -2,7 +2,7 @@ input /ja 震天動地の章
 wait 1.2
 input /p 震天連携【貫通】（MB：光）<recast=戦略魔道書>
 input /ma 闇門の計
-wait 4
+wait 5
 input /ja 震天動地の章
 wait 1.2
 input /p 〆【重力】（MB：土闇）<call 11>

@@ -1,0 +1,18 @@
+■重力
+/grin motion
+/equipset 【FC装備】
+/console exec sch\juuryoku.txt
+
+
+
+/console exec sch\kouka.txt
+/console exec sch\kantuu.txt
+/console exec sch\sakuretu.txt
+/console exec sch\setudan.txt
+/console exec sch\shougeki.txt
+/console exec sch\shuushuku.txt
+/console exec sch\wankyoku.txt
+/console exec sch\youkai.txt
+/console exec sch\kakunetu.txt
+/console exec sch\sindou.txt
+/console exec sch\bunkai.txt

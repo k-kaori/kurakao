@@ -1,0 +1,14 @@
+■装備セット
+FC　13
+MD　14
+MB　15
+デス
+リフレシュ装備
+マナウォ
+
+
+/equipset 13
+/console exec blm\fire6.txt
+
+
+
