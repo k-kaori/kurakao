@@ -1,9 +1,10 @@
-input /ja 震天動地の章
-wait 1.2
-input /p 震天連携【重力】（MB：土闇）<recast=戦略魔道書>
-input /ma エアロ
-wait 4
-input /ja 震天動地の章
-wait 1.2
-input /p 〆【重力】（MB：土闇）<call 11>
-input /ma 闇門の計 
+/recast ファイアVI 
+input /equip head WCペタソ\ス+2
+input /equip body WCアタイア+2
+input /wait 1.2
+input /ma ファイアVI  <st>
+input /wait 2
+input/equipset 3
+input /wait 2
+input/equipset 4
+input/echo  MB装備
