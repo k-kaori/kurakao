@@ -1,6 +1,6 @@
 input /ja 震天動地の章
 wait 1.2
-input /p 震天連携【核熱】（MB：火光）<recast=戦略魔道書> <call10>
+input /p 震天連携【核熱】（MB：火光）<recast=戦術魔道書> <call10>
 input /ma ファイア
 wait 4
 input /ja 震天動地の章

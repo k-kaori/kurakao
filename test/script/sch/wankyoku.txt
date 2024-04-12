@@ -1,6 +1,6 @@
 input /ja 震天動地の章
 wait 1.2
-input /p 震天連携【湾曲】（MB：氷水）<recast=戦略魔道書> 
+input /p 震天連携【湾曲】（MB：氷水）<recast=戦術魔道書> 
 input /ma 光門の計
 wait 5
 input /ja 震天動地の章

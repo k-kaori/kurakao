@@ -1,13 +1,9 @@
-https://note.com/tuki15ikiro/n/n9ba79594edc5
 ---
-わたしがおそ松さんというジャンルに載れなかったのは１話目（だとおもう）で「おかあさん梨むいて」って言ってたあたりでニートの男６人がなに甘えているんだ貴様らがお母さまに梨をむけと思った時点で断絶したからです
 
 いつものライトパーティでエオカフェ行くとき、事前におみやげ買ったりあれもこれもあげよう～とかオタクの遠足状態になり、だいたい実家のお母さんの荷物みたいなおみやげを渡すことになる
 
 なんだかんだいってジェネちゃんがすきなのでyoutubeとかでダンスしてるのみてかわいいねえかわいいねえってなっている　かわいいねえ
 
-気づいちゃったけどCenturioさんこっそり名前書き替えてCoward（腰抜け）にしてるやんけ
-11は高齢化社会だったのでおとなしくしてたけど、14でパンデモ園芸に目覚めちゃったからね…11で腰抜けでも14では腰振ってるからね（やめろ）
 
 
 
@@ -61,14 +57,19 @@ https://note.com/tuki15ikiro/n/n9ba79594edc5
 
 　『しばらく療養する』のしばらくがいつまでなのか、お互い確認をとらないまま数日がすぎた。そもそもリオルは傷が痛む様子などを彼女に見せないし、治療は念入りにしてある。大丈夫のはずだ。そもそも療養だって本来は不要そうだった。
 　彼の心配はさておいて、彼女は相変わらずイシュガルドの内を出歩き、しまいには孤児院の子供たちに「暇そうだから」と手仕事を頼まれる始末だ。日がなぼんやりもしくはぶらぶらしているので「仕事がないのだろうか」と心配されているのかもしれない。子供たちに身を案じられる英雄。わるくはない。あまり悪評が広まると、アイメリク卿あたりに心配され、ルキアに呼び出されそうではあるが。
+　
 　子供たちに渡された糸をかぎ針で編んで紐を作る。単純作業に集中しているとあっという間に時間はすぎる。一心に紐を作っていたから、ドアの開く音にもリオルの声にも反応が遅れた。
 「時間を忘れすぎだろ、どんだけ職人気質だよ」
 　顔をあげると薄暗くなった部屋のドアが開かれていて、ダイニングからの光がほそく流れ込んでいた。どれだけの時間作業していたのか、彼女自身もわからない。しかし彼女の集中を中断しないでいてくれたのだとは理解できた。食事だとかおやつだとか、呼ばれればいくら彼女でも人並みの反応をする。だが、リオルはあえて放っておいてくれたのだ。
 「おなかすいた」
 「当たり前だ、茶も飲まずに一心不乱で作業してんだからよ」
+
 　かごに作りかけの紐と糸を押し込み、彼女は立ち上がった。リオルがドアをよりひろく押し開けてくれる。灯りがともされ、暖炉に火が入っている室内は暖かい。こっちで作業をすればよかったな。そう思える自分がいることに気づいて、彼女はちょっとだけ違和感をおぼえた。
 「どうした、おかしなツラして」
-　首を振ると、特にそれ以上追及されない。食事をどうするかと問われ、彼女はなんとなく「わたしが作る」と答えたのだった。
+　首を振ると、特にそれ以上追及されない。彼のいる部屋の中に目を向ければ、テーブルにはお茶と軽い食事が支度されてあった。相変わらず抜け目がないし、気遣いを押し付けてくることもない男だ。でも、ちょっとくらいは構わないのに。そう思って彼女はおかしな自分に気づく。何も求められないから、だったはずだ。
+「軽く用意したけど、たらふく食いたい気分ぽいな」
+「うん」
+　だから、何か作ると言ったらリオルにひどく驚かれた。
 
 
 ***
@@ -121,21 +122,20 @@ https://note.com/tuki15ikiro/n/n9ba79594edc5
 
 
 *****
-##２日までにやること
+##やること
 ・14のシーズナルそしてリテイナー断捨離
+・<me> <stal> <wait 1>検証
+・VW白水晶集め
 ・アビセア－タロンギ（ウラグナイトの殻）
 ・アビセア－ミザレオ（ソベクの皮@2）
-・アンバス
 ・アルコンリング
-
-##やること
 ・メタモルリングを+1へ（ユタンガのサマンサIL119：鱗強化）
-・神術帯（鱗強化）
 ・ソーサラストール+1
 ・テルキネ→アルビオンスカームヨルシアもしくは輝く漆黒蝶の羽
+・
 
 ##装備
-■コルセア（AF：GO、レリ：BA、エンピ：AZ）
+■コルセア（AF：、レリ：、エンピ：）
 　CSトルーズ+3（エンピ脚）、ガントリー+3（エンピ手）
 　※（胴、足）→レリック強化
 　物理WSはLKフラック+3、属性WSはLAフラック+3
@@ -151,7 +151,12 @@ https://note.com/tuki15ikiro/n/n9ba79594edc5
 　テルキネグローブ（強化魔法時間+10％　薄い黒石）
 　テルキネブラコーニ（強化魔法時間+10％　薄い黒石）
 　テルキネピガッシュ（強化魔法時間+10％　薄い黒石）
-　バグアチャーム+1
+　バグアチャーム+1　
+　
+■黒魔
+・レリック手脚足
+　INT400　魔命300　魔攻400　MB40
+　
 
 *****
 ##未所持魔法
@@ -172,22 +177,8 @@ https://note.com/tuki15ikiro/n/n9ba79594edc5
 ケアルラ2　アビセアクエ
 *****
 ##コルセア
-/equipset 41 echo ←待機装備
-/equipset 42 echo ←レデン装備
-/equipset 43 echo ←ロール装備
-/equipset 44 echo ←魔攻装備
-/equipset 45 echo ←WS装備
-/equipset 46 echo ←jobポ装備
-
-
 ■ロール時
 /console exec ColRoLL.txt
-input /equip  コンペンセーター
-input /equip body LAトリコロヌ+2
-CSガントリー+3
-カムラスマント
-デサルタタセッツ
-リング
 
 ■レデン時
 武器カジャ
@@ -206,89 +197,28 @@ CSガントリー+3
 
 ■ランダムディール
 /p <recast=ランダムディール> 5 sec ago
-/equip body ＬＡフラック+2
-/wait 4
-/echo ランダム発動→enter
 /ja ランダムディール <stpc>
-/wait 1
 /p <recast=ランダムディール>
 
 ■ワイルドカード
 /p <recast=ワイルドカード> 5 sec ago
-/equip body ＬＡブーツ+3
-/wait 4
 /echo ワイカ発動→enter
 /ja ワイルドカード <stpc>
 /wait 1
 /p <recast=ワイルドカード>
 
-■スネークアイ
-/equip legs ＬＡトルーズ+2
-/equip ring1 ルザフリング
-/recast スネークアイ
-/ja スネークアイ <me>
-
-■カオスロール
-
-
-
 ##黒
 ■バーン
 /console exec Burn.txt
 
-input /equip head WCペタソ\ス+2
-input /equip body WCアタイア+2
-input /wait 1.2
-input /ma バーン <stnpc>
-input /wait 2
-input/equipset 3
-input/echo  魔攻装備
-
-■ファイアVI 
-
-/console exec .txt
-
-/recast ファイアVI 
-input /equip head WCペタソ\ス+2
-input /equip body WCアタイア+2
-input /wait 1.2
-input /ma ファイアVI  <stnpc>
-input /wait 2
-input/equipset 3
-input /wait 2
-input/equipset 4
-input/echo  MB装備
-
-
-
-/recast ファイアVI 
-/equip 頭 WCペタソス+2
-
-/ma ファイアVI <t>
-/equipset 3 echo  魔攻装備 <wait 4>
-/equipset 3 echo  MB装備
-
 ##青
-/equipset 1 echo 待機装備
-/equipset 2 echo  FC装備
-/equipset 3 echo  魔攻装備
-/equipset 6 echo  物理装備
-/equipset 13 echo 回避装備
-
 ■エレ魔法・サブダク・マジックハンマー・夢想花マクロ
-/equipset 50 echo ←FC装備
-/wait 1
 /ma スペクトラルフロー <t>
-/wait 1
-/equipset 50 echo ←魔攻装備 
 
 ■サブダクション
-/equipset 50  echo 
 /ma サブダクション <t>
-/equipset 50　echo
 
 ■牙門
-/equipset 50 echo ←FC装備
 /ma 牙門 <me> <stal> <wait 1>
 /equipset 50　echo ←魔攻装備
 
@@ -330,11 +260,6 @@ input/echo  MB装備
 /recast 空蝉の術・壱
 /recast 空蝉の術・弐
 
-■回避装備
-/equipset 50 echo ←FC装備
-
-■強化装備
-/equipset 50 echo ←FC装備
 
 *****
 ##学者
@@ -384,191 +309,12 @@ input/echo  MB装備
 /ja 震天動地の章 <me> <wait 1>
 /ma 雷門の計 <t>
 
-■核熱
-/ja 震天動地の章 <me> <wait 1>
-/p 震天連携【核熱】（MB：火光）<recast=戦略魔道書> <call11>
-/ma ファイア <t> <wait 4>
-/ja 震天動地の章 <me> <wait 1>
-/p 【MB詠唱開始】<call 11>
-/ma 雷門の計 <t>
-
-■振動
-/ja 震天動地の章 <me> <wait 1>
-/p 震天連携【振動】（MB：水）<recast=戦略魔道書> <call11>
-/ma ストーン <t> <wait 4>
-/ja 震天動地の章 <me> <wait 1>
-/p 【振動】（MB：水）<call 11>
-/ma 水門の計 <t>
-
-■分解
-/ja 震天動地の章 <me> <wait 1>
-/p 震天連携【分解】（MB：雷風）<recast=戦略魔道書> <call11>
-/ma ブリザド <t> <wait 4>
-/ja 震天動地の章 <me> <wait 1>
-/p 【分解】（MB：雷風）<call 11>
-/ma 水門の計 <t>
-
-■硬化
-/ja 震天動地の章 <me> <wait 1>
-/p 震天連携【硬化】（MB：氷）<recast=戦略魔道書>
-/ma ウォータ <t> <wait 4>
-/ja 震天動地の章 <me> <wait 1>
-/p 【硬化】（MB：氷）<call 11>
-/ma 氷門の計 <t>
-
-■硬化2
-/p 震天連携【湾曲】（MB：氷水）<recast=戦略魔道書> <call11>
-/ja 震天動地の章 <me> <wait 1>
-/ma 雷門の計 <t>
-
-■湾曲
-/ja 震天動地の章 <me> <wait 1>
-/p 震天連携【湾曲】（MB：氷水）<recast=戦略魔道書> 
-/ma 光門の計 <t> <wait 4>
-/ja 震天動地の章 <me> <wait 1>
-/p 【湾曲】（MB：氷水）<call 11>
-/ma 土門の計 <t>
-
-■炸裂
-/ja 震天動地の章 <me> <wait 1>
-/p 震天連携【炸裂】（MB：風）<recast=戦略魔道書>
-/ma ストーン <t> <wait 4>
-/ja 震天動地の章 <me> <wait 1>
-/p 【炸裂】（MB：風）<call 11>
-/ma 風門の計 <t>
-
-■切断
-/ja 震天動地の章 <me> <wait 1>
-/p 震天連携【切断】開始 （MB：土）<recast=戦略魔道書>
-/ma エアロ <t> <wait 4>
-/ja 震天動地の章 <me> <wait 1>
-/p 【切断】（MB：土）<call 11>
-/ma 土門の計 <t>
-
-■重力
-/ja 震天動地の章 <me> <wait 1>
-/p 震天連携【重力】（MB：土闇）<recast=戦略魔道書>
-/ma エアロ <t> <wait 4>
-/ja 震天動地の章 <me> <wait 1>
-/p 〆【重力】（MB：土闇）<call 11>
-/ma 闇門の計 <t>
-
-■衝撃
-/ja 震天動地の章 <me> <wait 1>
-/p 震天連携【衝撃】（MB：雷）<recast=戦略魔道書>
-/ma ブリザド <t> <wait 4>
-/ja 震天動地の章 <me> <wait 1>
-/p 〆【衝撃】（MB：雷）<call 11>
-/ma 雷門の計 <t>
-
-■貫通
-/ja 震天動地の章 <me> <wait 1>
-/p 震天連携【貫通】（MB：光）<recast=戦略魔道書>
-/ma 闇門の計 <t> <wait 4>
-/ja 震天動地の章 <me> <wait 1>
-/p 〆【貫通】（MB：光）<call 11>
-/ma 光門の計 <t>
-
-■収縮
-/ja 震天動地の章 <me> <wait 1>
-/p 震天連携【収縮】（MB：闇）<recast=戦略魔道書>
-/ma ブリザド <t> <wait 4>
-/ja 震天動地の章 <me> <wait 1>
-/p 〆【収縮】（MB：闇）<call 11>
-/ma 闇門の計 <t>
-
-■FC装備
-/equipset 50　←FC装備
-/ja 黒のグリモア <me>
-/p <recast=戦術魔道書>
-
 ■女神インスニ
 
 
 *****
 ##風水
-/equipset 1 echo ←待機装備
-/equipset 2 echo ←ジオ装備
-/equipset 3 echo ←インデ装備
-/equipset 6 echo ←魔命MB装備
-/equipset 13 echo ←FC装備
 
-■インデアキュメン
-/equipset 3　echo ←インデ装備
-/ma インデアキュメン <stpc> <wait 1>
-/equipset 1　echo ←待機装備
-
-■エントラスト
-/ja エントラスト <stpc>
-/equipset 3　echo ←インデ装備
-/ma インデフォーカス <stpc> <wait 1>
-/equipset 1　echo ←待機装備
-
-■グローリーブレイズ
-/ja グローリーブレイズ <stpc>
-
-■サークルエンリッチ
-/ja サークルエンリッチ <stpc>
-
-■デマテリアライズ
-/ja デマテリアライズ <stpc>
-
-■エンデュアエマネイト
-/recast エンデュアエマネイト
-/ja エンデュアエマネイト <stpc>
-
-■ライフサイクル
-/equip body ジオチュニック
-/ja ライフサイクル <stpc>
-/wait 2
-/equipset 1　echo ←待機装備
-
-■消す
-/ja フルサークル <stpc>
-
-■リフレ
-/ma リフレシュ <stpc>
-
-■ヘイスト
-/ma ヘイスト <stpc>
-
-■ジオフレイル
-/equipset 2　echo ←ジオ装備
-/ma ジオフレイル <t> <wait 5>
-/equipset 1　echo ←待機装備
-
-■フラズル
-/equipset 13　echo ←FC装備
-/ma フラズル <t> <wait 1>
-/equipset 6　echo ←魔命MB装備
-/wait 4
-/equipset 1　echo ←待機装備
-
-■ディストラ
-/ma ディストラ <t> <wait 1>
-/wait 4
-
-■ディア
-/ma ディアII <t>
-
-■MB
-/equipset 13　echo ←FC装備
-/ma サンダーV <t> <wait 1>
-/equipset 6　echo ←魔命MB装備
-/wait 4
-/equipset 1　echo ←待機装備
-
-■MP
-/ja レイディアルアルカナ <stpc>
-
-■HP
-/ja メンドハレイション <stpc>
-
-■ケアル
-/ma ケアルIV <t>
-
-■移動
-/equip feet ジオサンダル
 
 ***
 ##コルセアマクロ
