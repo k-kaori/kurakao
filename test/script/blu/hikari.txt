@@ -1,0 +1,10 @@
+input /ja ブルーバースト <me>
+wait 1.2
+input /ja ブルーチェーン <me>
+wait 3
+input /p 青魔：光連携（火光風雷） <call11>
+input /ws サベッジブレード <t>
+wait 4
+input /ma T.アッサルト <t>
+wait 
+input /ma レールキャノン <t>
