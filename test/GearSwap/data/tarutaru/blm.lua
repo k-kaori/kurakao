@@ -140,10 +140,10 @@ function get_sets()
         ammo="ペムフレドタスラム",
         head={ name="妖蟲の髪飾り+1", mp=120},
         body={ name="エアウプランド+1", mp=109},
-        hands={ name="エアカフス+1", mp=29},
+        hands=　ARグローブ
         legs={ name="ＳＰトンバン+3", mp=158},
         feet={ name="ＳＰサボ+3", mp=43},
-        neck="水影の首飾り",
+        neck="水影の首飾り",　
         waist="闇輪の帯",
         left_ear={ name="王将の耳飾り", mp=20},
         right_ear={ name="バーカロルピアス", mp=25},
@@ -241,7 +241,7 @@ function get_sets()
         right_ring="キシャールリング",
         back={ name="タラナスケープ", augments={'MP+60','Mag. Acc+20 /Mag. Dmg.+20','Mag. Acc.+10','"Fast Cast"+10','Damage taken-5%',}, mp=60},
     }
-
+--弱い魔法の詠唱
     sets.midcast.elementally_enfeeble = {
         legs={ name="ＡＲトンバン+3",mp=85},
         feet={ name="ＡＲサボ+3", mp=34},

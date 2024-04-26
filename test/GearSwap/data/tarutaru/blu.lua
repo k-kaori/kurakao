@@ -35,20 +35,21 @@ function get_sets()
         waist="チャークベルト",
     }
 
+--敵視
     sets.enmity = {
-        ammo="ストンチタスラム+1",
-        head="ラビッドバイザー",
-        body="エメットハーネス+1",
+        ammo="ストンチタスラム+1",--競売
+        head="ラビッドバイザー",--マリグナスでよさそう
+        body="エメットハーネス+1",--ユニティ
         hands="マリグナスグローブ",
         legs="マリグナスタイツ",
-        feet="アホシレギンス",
+        feet="アホシレギンス",--島　シャー
         neck="ロリケートトルク+1",
-        waist="カシリベルト",
+        waist="カシリベルト",--魔神印章10BF居候妖精
         left_ear="フリオミシピアス",
-        right_ear="クリプティクピアス",
+        right_ear="クリプティクピアス",--ベガリ
         left_ring="守りの指輪",
-        right_ring="アイワツリング",
-        back="月光の羽衣",
+        right_ring="アイワツリング",--エインヘリヤル
+        back="月光の羽衣",--競売　月明の羽衣（被ダメ軽減）
     }
 
     sets.precast.fc = {
@@ -486,7 +487,7 @@ function midcast(spell)
     end
 
     if buffactive["エフラックス"] then 
-        set_equip = set_combine(set_equip, {legs="ＨＳタイト+1",})
+        set_equip = set_combine(set_equip, {legs="ＨＳタイト+2",})
     end
 
     if is_th then
