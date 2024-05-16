@@ -71,8 +71,8 @@ function get_sets()
     }
 
     sets.precast.fc = {
-        head="ＡＴシャポー+3",
-        body={ name="ＶＩタバード+3", augments={'Enhances "Chainspell" effect',}},
+        head="ＡＴシャポー+3",--AF
+        body={ name="ＶＩタバード+3", augments={'Enhances "Chainspell" effect',}},--レリック
         legs="アヤモコッシャレ+2",
         back={ name="スセロスケープ", augments={'MND+20','Mag. Acc+20 /Mag. Dmg.+20','MND+10','"Fast Cast"+10','Damage taken-5%',}},
     }
@@ -173,7 +173,7 @@ function get_sets()
 
     sets.midcast.enhance_duration_others = {
         -- sub="アムラピシールド",
-        head="ＬＴシャペル+1",
+        head="ＬＴシャペル+1",--エンピ
         body="ＬＴサヨン+1",
         hands="ＡＴグローブ+3",
         legs="ＬＴフュゾー+1",
