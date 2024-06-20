@@ -35,8 +35,8 @@ function get_sets()
         waist="チャークベルト",
     }
 
---敵視
-    sets.enmity = {
+
+    sets.enmity = {  --敵視UP
         ammo="ストンチタスラム+1",--競売
         head="ラビッドバイザー",--マリグナスでよさそう
         body="エメットハーネス+1",--ユニティ
@@ -52,8 +52,8 @@ function get_sets()
         back="月光の羽衣",--競売　月明の羽衣（被ダメ軽減）
     }
 
-    sets.precast.fc = {
-        ammo="ストンチタスラム+1",
+    sets.precast.fc = {  --FC装備
+        ammo="ストンチタスラム+1",--競売
         head={ name="カマインマスク+1", augments={'Accuracy+20','Mag. Acc.+12','"Fast Cast"+4',}},
         body="ピンガチュニック+1",
         hands={ name="レイライングローブ", augments={'Accuracy+15','Mag. Acc.+15','"Mag.Atk.Bns."+15','"Fast Cast"+3',}},
@@ -84,15 +84,15 @@ function get_sets()
         back={ name="ロスメルタケープ", augments={'DEX+20','Accuracy+20 Attack+20','DEX+10','Crit.hit rate+10','Damage taken-5%',}},
     }
 
-    sets.precast.ws.wsd = {
+    sets.precast.ws.wsd = {--WSダメージ装備
         ammo="オゲルミルオーブ+1",
         head="ジャリコロナル+2",
         body="ＡＳジュバ+3",
         hands="ジャリカフス+2",
         legs={ name="ＬＬシャルワー+3", augments={'Enhances "Assimilation" effect',}},
         feet={ name="ヘルクリアブーツ", augments={'Accuracy+25 Attack+25','Weapon skill damage +3%','DEX+10','Accuracy+2',}},
-        neck="フォシャゴルゲット",
-        waist="フォシャベルト",
+        neck="フォシャゴルゲット",  --錬成
+        waist="フォシャベルト",  --錬成
         left_ear="王将の耳飾り",
         right_ear={ name="胡蝶のイヤリング", augments={'Accuracy+4','TP Bonus +250',}},
         left_ring="ルフェセントリング",
